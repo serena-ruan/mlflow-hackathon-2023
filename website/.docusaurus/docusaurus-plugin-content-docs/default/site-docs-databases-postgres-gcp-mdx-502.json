@@ -1,0 +1,37 @@
+{
+  "unversionedId": "databases/postgres/gcp",
+  "id": "databases/postgres/gcp",
+  "title": "Cloud: Using Hasura Cloud with a Google Cloud SQL Postgres database",
+  "description": "Using Hasura with a Google Cloud SQL Postgres database",
+  "source": "@site/docs/databases/postgres/gcp.mdx",
+  "sourceDirName": "databases/postgres",
+  "slug": "/databases/postgres/gcp",
+  "permalink": "/docs/latest/databases/postgres/gcp",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/postgres/gcp.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_label": "Google Cloud SQL Postgres",
+    "description": "Using Hasura with a Google Cloud SQL Postgres database",
+    "title": "Cloud: Using Hasura Cloud with a Google Cloud SQL Postgres database",
+    "keywords": [
+      "hasura",
+      "docs",
+      "existing database",
+      "guide",
+      "gcp"
+    ],
+    "sidebar_position": 13
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "EnterpriseDB (BigAnimal) Postgres",
+    "permalink": "/docs/latest/databases/postgres/enterprisedb"
+  },
+  "next": {
+    "title": "Heroku Postgres",
+    "permalink": "/docs/latest/databases/postgres/heroku"
+  }
+}

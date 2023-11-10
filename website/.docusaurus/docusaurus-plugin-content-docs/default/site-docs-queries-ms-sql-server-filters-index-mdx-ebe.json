@@ -1,0 +1,35 @@
+{
+  "unversionedId": "queries/ms-sql-server/filters/index",
+  "id": "queries/ms-sql-server/filters/index",
+  "title": "MS SQL Server: Filter Query Results / Search Queries",
+  "description": "Filter query results and search queries on MS SQL Server in Hasura",
+  "source": "@site/docs/queries/ms-sql-server/filters/index.mdx",
+  "sourceDirName": "queries/ms-sql-server/filters",
+  "slug": "/queries/ms-sql-server/filters/index",
+  "permalink": "/docs/latest/queries/ms-sql-server/filters/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/queries/ms-sql-server/filters/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Filter query results and search queries on MS SQL Server in Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "ms sql server",
+      "query",
+      "filter",
+      "search"
+    ],
+    "slug": "index"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Aggregation queries",
+    "permalink": "/docs/latest/queries/ms-sql-server/aggregation-queries"
+  },
+  "next": {
+    "title": "Filter using comparisons",
+    "permalink": "/docs/latest/queries/ms-sql-server/filters/comparison-operators"
+  }
+}

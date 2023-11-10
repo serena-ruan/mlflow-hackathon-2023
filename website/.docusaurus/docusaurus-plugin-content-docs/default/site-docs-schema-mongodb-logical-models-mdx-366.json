@@ -1,0 +1,34 @@
+{
+  "unversionedId": "schema/mongodb/logical-models",
+  "id": "schema/mongodb/logical-models",
+  "title": "Logical Models",
+  "description": "Customize the Hasura GraphQL schema with MongoDB and Logical Models",
+  "source": "@site/docs/schema/mongodb/logical-models.mdx",
+  "sourceDirName": "schema/mongodb",
+  "slug": "/schema/mongodb/logical-models",
+  "permalink": "/docs/latest/schema/mongodb/logical-models",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/mongodb/logical-models.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Customize the Hasura GraphQL schema with MongoDB and Logical Models",
+    "keywords": [
+      "hasura",
+      "docs",
+      "mongodb",
+      "schema",
+      "Logical Models",
+      "Native Queries"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "MongoDB: Schema",
+    "permalink": "/docs/latest/schema/mongodb/index"
+  },
+  "next": {
+    "title": "Snowflake: Schema",
+    "permalink": "/docs/latest/schema/snowflake/index"
+  }
+}

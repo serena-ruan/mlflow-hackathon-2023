@@ -1,0 +1,37 @@
+{
+  "unversionedId": "api-reference/schema-metadata-api/remote-relationships",
+  "id": "api-reference/schema-metadata-api/remote-relationships",
+  "title": "Schema/Metadata API Reference: Remote Relationships (Deprecated)",
+  "description": "Manage remote relationships with the Hasura schema/Metadata API",
+  "source": "@site/docs/api-reference/schema-metadata-api/remote-relationships.mdx",
+  "sourceDirName": "api-reference/schema-metadata-api",
+  "slug": "/api-reference/schema-metadata-api/remote-relationships",
+  "permalink": "/docs/latest/api-reference/schema-metadata-api/remote-relationships",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/schema-metadata-api/remote-relationships.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_label": "Remote relationships",
+    "sidebar_position": 11,
+    "description": "Manage remote relationships with the Hasura schema/Metadata API",
+    "keywords": [
+      "hasura",
+      "docs",
+      "schema/Metadata API",
+      "API reference",
+      "remote joins",
+      "remote relationships"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Remote Schemas",
+    "permalink": "/docs/latest/api-reference/schema-metadata-api/remote-schemas"
+  },
+  "next": {
+    "title": "Query collections",
+    "permalink": "/docs/latest/api-reference/schema-metadata-api/query-collections"
+  }
+}

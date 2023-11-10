@@ -1,0 +1,36 @@
+{
+  "unversionedId": "queries/bigquery/nested-object-queries",
+  "id": "queries/bigquery/nested-object-queries",
+  "title": "BigQuery: Nested Object Queries",
+  "description": "Make nested object queries on BigQuery in Hasura",
+  "source": "@site/docs/queries/bigquery/nested-object-queries.mdx",
+  "sourceDirName": "queries/bigquery",
+  "slug": "/queries/bigquery/nested-object-queries",
+  "permalink": "/docs/latest/queries/bigquery/nested-object-queries",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/queries/bigquery/nested-object-queries.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Nested object queries",
+    "sidebar_position": 2,
+    "description": "Make nested object queries on BigQuery in Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "bigquery",
+      "query",
+      "nested object query"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Simple object queries",
+    "permalink": "/docs/latest/queries/bigquery/simple-object-queries"
+  },
+  "next": {
+    "title": "Aggregation queries",
+    "permalink": "/docs/latest/queries/bigquery/aggregation-queries"
+  }
+}

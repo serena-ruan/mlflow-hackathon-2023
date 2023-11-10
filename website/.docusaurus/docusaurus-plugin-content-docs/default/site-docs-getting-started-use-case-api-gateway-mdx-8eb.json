@@ -1,0 +1,37 @@
+{
+  "unversionedId": "getting-started/use-case/api-gateway",
+  "id": "getting-started/use-case/api-gateway",
+  "title": "Build an API Gateway",
+  "description": "Build an API gateway for your application with Hasura",
+  "source": "@site/docs/getting-started/use-case/api-gateway.mdx",
+  "sourceDirName": "getting-started/use-case",
+  "slug": "/getting-started/use-case/api-gateway",
+  "permalink": "/docs/latest/getting-started/use-case/api-gateway",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/getting-started/use-case/api-gateway.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "description": "Build an API gateway for your application with Hasura",
+    "title": "Build an API Gateway",
+    "sidebar_label": "Build an API gateway",
+    "keywords": [
+      "hasura",
+      "graphql",
+      "API gateway",
+      "tutorial",
+      "resource"
+    ],
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Build a data access layer",
+    "permalink": "/docs/latest/getting-started/use-case/data-api"
+  },
+  "next": {
+    "title": "How Hasura GraphQL Engine Works",
+    "permalink": "/docs/latest/getting-started/how-it-works/index"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/commands/hasura_console",
+  "id": "hasura-cli/commands/hasura_console",
+  "title": "Hasura CLI: hasura console",
+  "description": "Open the Console to manage the database and try out APIs using the Hasura CLI",
+  "source": "@site/docs/hasura-cli/commands/hasura_console.mdx",
+  "sourceDirName": "hasura-cli/commands",
+  "slug": "/hasura-cli/commands/hasura_console",
+  "permalink": "/docs/latest/hasura-cli/commands/hasura_console",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/commands/hasura_console.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_label": "hasura console",
+    "sidebar_position": 7,
+    "description": "Open the Console to manage the database and try out APIs using the Hasura CLI",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "hasura console"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "hasura completion",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_completion"
+  },
+  "next": {
+    "title": "hasura deploy",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_deploy"
+  }
+}

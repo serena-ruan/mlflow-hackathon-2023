@@ -1,0 +1,36 @@
+{
+  "unversionedId": "observability/cloud-monitoring/websockets",
+  "id": "observability/cloud-monitoring/websockets",
+  "title": "Cloud: Websockets",
+  "description": "Hasura Cloud websockets analysis",
+  "source": "@site/docs/observability/cloud-monitoring/websockets.mdx",
+  "sourceDirName": "observability/cloud-monitoring",
+  "slug": "/observability/cloud-monitoring/websockets",
+  "permalink": "/docs/latest/observability/cloud-monitoring/websockets",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/observability/cloud-monitoring/websockets.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "sidebar_label": "Websockets",
+    "description": "Hasura Cloud websockets analysis",
+    "title": "Cloud: Websockets",
+    "keywords": [
+      "hasura",
+      "docs",
+      "cloud",
+      "websockets"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Operations",
+    "permalink": "/docs/latest/observability/cloud-monitoring/operations"
+  },
+  "next": {
+    "title": "Subscription workers",
+    "permalink": "/docs/latest/observability/cloud-monitoring/subscription-workers"
+  }
+}

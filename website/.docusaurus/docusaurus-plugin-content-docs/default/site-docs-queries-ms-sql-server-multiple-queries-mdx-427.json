@@ -1,0 +1,36 @@
+{
+  "unversionedId": "queries/ms-sql-server/multiple-queries",
+  "id": "queries/ms-sql-server/multiple-queries",
+  "title": "Multiple Queries in a Request",
+  "description": "Run multiple queries in a request in Hasura",
+  "source": "@site/docs/queries/ms-sql-server/multiple-queries.mdx",
+  "sourceDirName": "queries/ms-sql-server",
+  "slug": "/queries/ms-sql-server/multiple-queries",
+  "permalink": "/docs/latest/queries/ms-sql-server/multiple-queries",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/queries/ms-sql-server/multiple-queries.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_label": "Multiple queries in a request",
+    "sidebar_position": 8,
+    "description": "Run multiple queries in a request in Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "query",
+      "multiple queries",
+      "request"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Use multiple arguments",
+    "permalink": "/docs/latest/queries/ms-sql-server/multiple-arguments"
+  },
+  "next": {
+    "title": "Use variables / aliases / fragments / directives",
+    "permalink": "/docs/latest/queries/ms-sql-server/variables-aliases-fragments-directives"
+  }
+}

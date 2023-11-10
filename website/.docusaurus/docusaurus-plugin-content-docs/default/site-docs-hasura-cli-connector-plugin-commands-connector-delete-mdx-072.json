@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/connector-plugin/commands/connector_delete",
+  "id": "hasura-cli/connector-plugin/commands/connector_delete",
+  "title": "Hasura CLI: connector delete",
+  "description": "Delete a Hasura Cloud Data Connector using the Hasura CLI",
+  "source": "@site/docs/hasura-cli/connector-plugin/commands/connector_delete.mdx",
+  "sourceDirName": "hasura-cli/connector-plugin/commands",
+  "slug": "/hasura-cli/connector-plugin/commands/connector_delete",
+  "permalink": "/docs/latest/hasura-cli/connector-plugin/commands/connector_delete",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/connector-plugin/commands/connector_delete.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "hasura connector delete",
+    "sidebar_position": 3,
+    "description": "Delete a Hasura Cloud Data Connector using the Hasura CLI",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "connector delete"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "hasura connector create",
+    "permalink": "/docs/latest/hasura-cli/connector-plugin/commands/connector_create"
+  },
+  "next": {
+    "title": "hasura connector generate-configuration",
+    "permalink": "/docs/latest/hasura-cli/connector-plugin/commands/connector_generate-configuration"
+  }
+}

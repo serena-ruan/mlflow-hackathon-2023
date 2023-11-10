@@ -1,0 +1,38 @@
+{
+  "unversionedId": "observability/query-tags",
+  "id": "observability/query-tags",
+  "title": "Cloud & Enterprise: Query Tags",
+  "description": "Hasura Cloud Query tags",
+  "source": "@site/docs/observability/query-tags.mdx",
+  "sourceDirName": "observability",
+  "slug": "/observability/query-tags",
+  "permalink": "/docs/latest/observability/query-tags",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/observability/query-tags.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "description": "Hasura Cloud Query tags",
+    "sidebar_label": "Query Tags",
+    "title": "Cloud & Enterprise: Query Tags",
+    "keywords": [
+      "hasura",
+      "docs",
+      "cloud",
+      "query-tags",
+      "monitoring"
+    ],
+    "sidebar_position": 6,
+    "sidebar_class_name": "cloud-and-enterprise-icon"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "OpenTelemetry",
+    "permalink": "/docs/latest/observability/opentelemetry"
+  },
+  "next": {
+    "title": "Database observability",
+    "permalink": "/docs/latest/observability/db-observability"
+  }
+}

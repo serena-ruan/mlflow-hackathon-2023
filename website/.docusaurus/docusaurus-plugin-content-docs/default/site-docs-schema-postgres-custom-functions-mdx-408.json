@@ -1,0 +1,37 @@
+{
+  "unversionedId": "schema/postgres/custom-functions",
+  "id": "schema/postgres/custom-functions",
+  "title": "Postgres: Extend Schema with SQL Functions",
+  "description": "Customize the Hasura GraphQL schema with Postgres SQL functions",
+  "source": "@site/docs/schema/postgres/custom-functions.mdx",
+  "sourceDirName": "schema/postgres",
+  "slug": "/schema/postgres/custom-functions",
+  "permalink": "/docs/latest/schema/postgres/custom-functions",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/postgres/custom-functions.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4.1,
+  "frontMatter": {
+    "sidebar_label": "Extend with SQL functions",
+    "sidebar_position": 4.1,
+    "description": "Customize the Hasura GraphQL schema with Postgres SQL functions",
+    "keywords": [
+      "hasura",
+      "docs",
+      "postgres",
+      "schema",
+      "sql functions",
+      "stored procedures"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Extend with views",
+    "permalink": "/docs/latest/schema/postgres/views"
+  },
+  "next": {
+    "title": "Computed fields",
+    "permalink": "/docs/latest/schema/postgres/computed-fields"
+  }
+}

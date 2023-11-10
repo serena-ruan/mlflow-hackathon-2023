@@ -1,0 +1,33 @@
+{
+  "unversionedId": "api-reference/schema-api/index",
+  "id": "api-reference/schema-api/index",
+  "title": "Schema API Reference",
+  "description": "Hasura schema API reference",
+  "source": "@site/docs/api-reference/schema-api/index.mdx",
+  "sourceDirName": "api-reference/schema-api",
+  "slug": "/api-reference/schema-api/index",
+  "permalink": "/docs/latest/api-reference/schema-api/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/schema-api/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Hasura schema API reference",
+    "keywords": [
+      "hasura",
+      "docs",
+      "schema API",
+      "API reference"
+    ],
+    "slug": "index"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Mutation",
+    "permalink": "/docs/latest/api-reference/relay-graphql-api/mutation"
+  },
+  "next": {
+    "title": "Run SQL",
+    "permalink": "/docs/latest/api-reference/schema-api/run-sql"
+  }
+}

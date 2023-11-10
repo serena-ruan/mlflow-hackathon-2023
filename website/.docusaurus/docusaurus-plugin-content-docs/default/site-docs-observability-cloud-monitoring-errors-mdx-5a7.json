@@ -1,0 +1,37 @@
+{
+  "unversionedId": "observability/cloud-monitoring/errors",
+  "id": "observability/cloud-monitoring/errors",
+  "title": "Cloud: Errors",
+  "description": "Hasura Cloud error analysis",
+  "source": "@site/docs/observability/cloud-monitoring/errors.mdx",
+  "sourceDirName": "observability/cloud-monitoring",
+  "slug": "/observability/cloud-monitoring/errors",
+  "permalink": "/docs/latest/observability/cloud-monitoring/errors",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/observability/cloud-monitoring/errors.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "Errors",
+    "title": "Cloud: Errors",
+    "description": "Hasura Cloud error analysis",
+    "keywords": [
+      "hasura",
+      "docs",
+      "cloud",
+      "reliability",
+      "errors"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Configure alerts",
+    "permalink": "/docs/latest/observability/cloud-monitoring/alerting/configure-alerts"
+  },
+  "next": {
+    "title": "Usage summaries",
+    "permalink": "/docs/latest/observability/cloud-monitoring/usage"
+  }
+}

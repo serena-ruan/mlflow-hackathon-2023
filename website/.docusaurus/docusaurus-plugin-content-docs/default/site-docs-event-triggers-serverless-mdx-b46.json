@@ -1,0 +1,35 @@
+{
+  "unversionedId": "event-triggers/serverless",
+  "id": "event-triggers/serverless",
+  "title": "Use Serverless Functions",
+  "description": "Use serverless functions with Hasura Event Triggers",
+  "source": "@site/docs/event-triggers/serverless.mdx",
+  "sourceDirName": "event-triggers",
+  "slug": "/event-triggers/serverless",
+  "permalink": "/docs/latest/event-triggers/serverless",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/event-triggers/serverless.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Use serverless functions",
+    "sidebar_position": 5,
+    "description": "Use serverless functions with Hasura Event Triggers",
+    "keywords": [
+      "hasura",
+      "docs",
+      "event trigger",
+      "serverless function"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Invoke trigger manually",
+    "permalink": "/docs/latest/event-triggers/invoke-trigger-manually"
+  },
+  "next": {
+    "title": "Event Trigger samples",
+    "permalink": "/docs/latest/event-triggers/samples"
+  }
+}

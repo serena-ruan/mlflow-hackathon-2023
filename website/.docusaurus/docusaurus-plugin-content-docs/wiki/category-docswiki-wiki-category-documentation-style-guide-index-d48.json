@@ -1,0 +1,15 @@
+{
+  "title": "Documentation Style Guide Index",
+  "slug": "/category/style",
+  "permalink": "/docs/wiki/category/style",
+  "navigation": {
+    "previous": {
+      "title": "LatestRelease Tag",
+      "permalink": "/docs/wiki/docusaurus-mdx-guide/release-tag"
+    },
+    "next": {
+      "title": "General",
+      "permalink": "/docs/wiki/style/general"
+    }
+  }
+}

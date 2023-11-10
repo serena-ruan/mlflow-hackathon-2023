@@ -1,0 +1,38 @@
+{
+  "unversionedId": "schema/bigquery/remote-relationships/remote-schema-relationships",
+  "id": "schema/bigquery/remote-relationships/remote-schema-relationships",
+  "title": "BigQuery: Database to Remote Schema Relationships",
+  "description": "Adding Remote Schema relationships with BigQuery tables in Hasura",
+  "source": "@site/docs/schema/bigquery/remote-relationships/remote-schema-relationships.mdx",
+  "sourceDirName": "schema/bigquery/remote-relationships",
+  "slug": "/schema/bigquery/remote-relationships/remote-schema-relationships",
+  "permalink": "/docs/latest/schema/bigquery/remote-relationships/remote-schema-relationships",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/bigquery/remote-relationships/remote-schema-relationships.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "To Remote Schema",
+    "sidebar_position": 2,
+    "description": "Adding Remote Schema relationships with BigQuery tables in Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "remote schema relationship",
+      "remote join",
+      "remote schema",
+      "data federation",
+      "bigquery"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "To remote database",
+    "permalink": "/docs/latest/schema/bigquery/remote-relationships/remote-source-relationships"
+  },
+  "next": {
+    "title": "Extend with views",
+    "permalink": "/docs/latest/schema/bigquery/views"
+  }
+}

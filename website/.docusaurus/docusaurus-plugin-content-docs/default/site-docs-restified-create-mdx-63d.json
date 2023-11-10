@@ -1,0 +1,37 @@
+{
+  "unversionedId": "restified/create",
+  "id": "restified/create",
+  "title": "Create a RESTified Endpoint",
+  "description": "Create a RESTified endpoint in Hasura Cloud and EE",
+  "source": "@site/docs/restified/create.mdx",
+  "sourceDirName": "restified",
+  "slug": "/restified/create",
+  "permalink": "/docs/latest/restified/create",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/restified/create.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2.5,
+  "frontMatter": {
+    "description": "Create a RESTified endpoint in Hasura Cloud and EE",
+    "sidebar_label": "Create Endpoints",
+    "keywords": [
+      "hasura",
+      "docs",
+      "RESTified",
+      "REST",
+      "endpoint",
+      "create"
+    ],
+    "sidebar_position": 2.5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Quickstart",
+    "permalink": "/docs/latest/restified/quickstart"
+  },
+  "next": {
+    "title": "Export OpenAPI Specification",
+    "permalink": "/docs/latest/restified/export-oas"
+  }
+}

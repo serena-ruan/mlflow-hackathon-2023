@@ -1,0 +1,36 @@
+{
+  "unversionedId": "auth/authentication/quickstart",
+  "id": "auth/authentication/quickstart",
+  "title": "Quickstart",
+  "description": "Quickstart with authentication in your app with Hasura",
+  "source": "@site/docs/auth/authentication/quickstart.mdx",
+  "sourceDirName": "auth/authentication",
+  "slug": "/auth/authentication/quickstart",
+  "permalink": "/docs/latest/auth/authentication/quickstart",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/auth/authentication/quickstart.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "description": "Quickstart with authentication in your app with Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "authentication",
+      "auth",
+      "quickstart",
+      "3rd party integrations"
+    ],
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Authentication",
+    "permalink": "/docs/latest/auth/authentication/index"
+  },
+  "next": {
+    "title": "JWT",
+    "permalink": "/docs/latest/auth/authentication/jwt"
+  }
+}

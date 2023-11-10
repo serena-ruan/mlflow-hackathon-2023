@@ -1,0 +1,33 @@
+{
+  "unversionedId": "actions/codegen/index",
+  "id": "actions/codegen/index",
+  "title": "Actions Codegen",
+  "description": "Codegen for Hasura Actions",
+  "source": "@site/docs/actions/codegen/index.mdx",
+  "sourceDirName": "actions/codegen",
+  "slug": "/actions/codegen/index",
+  "permalink": "/docs/latest/actions/codegen/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/actions/codegen/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Codegen for Hasura Actions",
+    "keywords": [
+      "hasura",
+      "docs",
+      "actions",
+      "codegen"
+    ],
+    "slug": "index"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "OpenAPI spec import",
+    "permalink": "/docs/latest/actions/open-api"
+  },
+  "next": {
+    "title": "Python & Flask",
+    "permalink": "/docs/latest/actions/codegen/python-flask"
+  }
+}

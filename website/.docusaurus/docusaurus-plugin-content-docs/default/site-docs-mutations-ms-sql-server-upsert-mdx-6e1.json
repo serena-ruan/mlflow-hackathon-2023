@@ -1,0 +1,36 @@
+{
+  "unversionedId": "mutations/ms-sql-server/upsert",
+  "id": "mutations/ms-sql-server/upsert",
+  "title": "MS SQL Server: Upsert Mutation",
+  "description": "Use upsert mutations on MS SQL Server with Hasura",
+  "source": "@site/docs/mutations/ms-sql-server/upsert.mdx",
+  "sourceDirName": "mutations/ms-sql-server",
+  "slug": "/mutations/ms-sql-server/upsert",
+  "permalink": "/docs/latest/mutations/ms-sql-server/upsert",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/mutations/ms-sql-server/upsert.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Upsert",
+    "sidebar_position": 2,
+    "description": "Use upsert mutations on MS SQL Server with Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "ms sql server",
+      "mutation",
+      "upsert"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Insert",
+    "permalink": "/docs/latest/mutations/ms-sql-server/insert"
+  },
+  "next": {
+    "title": "Update",
+    "permalink": "/docs/latest/mutations/ms-sql-server/update"
+  }
+}

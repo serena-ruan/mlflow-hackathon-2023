@@ -1,0 +1,37 @@
+{
+  "unversionedId": "api-reference/metadata-api/logical-models",
+  "id": "api-reference/metadata-api/logical-models",
+  "title": "Metadata API Reference: Logical models",
+  "description": "Manage Logical Models with the Hasura Metadata API",
+  "source": "@site/docs/api-reference/metadata-api/logical-models.mdx",
+  "sourceDirName": "api-reference/metadata-api",
+  "slug": "/api-reference/metadata-api/logical-models",
+  "permalink": "/docs/latest/api-reference/metadata-api/logical-models",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/metadata-api/logical-models.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Logical models",
+    "sidebar_position": 3,
+    "description": "Manage Logical Models with the Hasura Metadata API",
+    "keywords": [
+      "hasura",
+      "docs",
+      "Metadata API",
+      "API reference",
+      "logical models",
+      "native queries"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Tables/Views",
+    "permalink": "/docs/latest/api-reference/metadata-api/table-view"
+  },
+  "next": {
+    "title": "Native queries",
+    "permalink": "/docs/latest/api-reference/metadata-api/native-queries"
+  }
+}

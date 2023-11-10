@@ -1,0 +1,37 @@
+{
+  "unversionedId": "schema/postgres/relay-schema",
+  "id": "schema/postgres/relay-schema",
+  "title": "Postgres: Relay Schema",
+  "description": "Using Hasura's Relay API",
+  "source": "@site/docs/schema/postgres/relay-schema.mdx",
+  "sourceDirName": "schema/postgres",
+  "slug": "/schema/postgres/relay-schema",
+  "permalink": "/docs/latest/schema/postgres/relay-schema",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/postgres/relay-schema.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_label": "Relay schema",
+    "sidebar_position": 12,
+    "description": "Using Hasura's Relay API",
+    "sidebar_class_name": "beta-tag",
+    "keywords": [
+      "hasura",
+      "docs",
+      "Relay",
+      "schema",
+      "API"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Use an existing database",
+    "permalink": "/docs/latest/schema/postgres/using-existing-database"
+  },
+  "next": {
+    "title": "Supported Postgres types",
+    "permalink": "/docs/latest/schema/postgres/postgresql-types"
+  }
+}

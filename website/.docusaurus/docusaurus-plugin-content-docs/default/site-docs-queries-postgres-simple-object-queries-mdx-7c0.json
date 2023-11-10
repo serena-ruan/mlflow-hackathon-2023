@@ -1,0 +1,36 @@
+{
+  "unversionedId": "queries/postgres/simple-object-queries",
+  "id": "queries/postgres/simple-object-queries",
+  "title": "Postgres: Simple Object Queries",
+  "description": "Make simple object queries on Postgres in Hasura",
+  "source": "@site/docs/queries/postgres/simple-object-queries.mdx",
+  "sourceDirName": "queries/postgres",
+  "slug": "/queries/postgres/simple-object-queries",
+  "permalink": "/docs/latest/queries/postgres/simple-object-queries",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/queries/postgres/simple-object-queries.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Simple object queries",
+    "sidebar_position": 1,
+    "description": "Make simple object queries on Postgres in Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "postgres",
+      "query",
+      "object query"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Postgres: GraphQL Queries",
+    "permalink": "/docs/latest/queries/postgres/index"
+  },
+  "next": {
+    "title": "Nested object queries",
+    "permalink": "/docs/latest/queries/postgres/nested-object-queries"
+  }
+}

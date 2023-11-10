@@ -1,0 +1,36 @@
+{
+  "unversionedId": "schema/postgres/enums",
+  "id": "schema/postgres/enums",
+  "title": "Postgres: Enum Type Fields",
+  "description": "Use enums in Hasura with Postgres",
+  "source": "@site/docs/schema/postgres/enums.mdx",
+  "sourceDirName": "schema/postgres",
+  "slug": "/schema/postgres/enums",
+  "permalink": "/docs/latest/schema/postgres/enums",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/postgres/enums.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_label": "Enum type fields",
+    "sidebar_position": 7,
+    "description": "Use enums in Hasura with Postgres",
+    "keywords": [
+      "hasura",
+      "docs",
+      "postgres",
+      "schema",
+      "enum"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Created_at / updated_at timestamps",
+    "permalink": "/docs/latest/schema/postgres/default-values/created-updated-timestamps"
+  },
+  "next": {
+    "title": "Customize auto-generated fields",
+    "permalink": "/docs/latest/schema/postgres/custom-field-names"
+  }
+}

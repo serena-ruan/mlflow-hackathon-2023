@@ -1,0 +1,29 @@
+{
+  "unversionedId": "integrations",
+  "id": "integrations",
+  "title": "Supported Integrations",
+  "description": "We worked with documentation website generators to have DocSearch directly embedded as a first class citizen in the websites they produce.",
+  "source": "@site/docs/integrations.md",
+  "sourceDirName": ".",
+  "slug": "/integrations",
+  "permalink": "/docs/integrations",
+  "draft": false,
+  "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/integrations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Supported Integrations"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Tips for a good search",
+    "permalink": "/docs/tips"
+  },
+  "next": {
+    "title": "How does it work?",
+    "permalink": "/docs/how-does-it-work"
+  }
+}

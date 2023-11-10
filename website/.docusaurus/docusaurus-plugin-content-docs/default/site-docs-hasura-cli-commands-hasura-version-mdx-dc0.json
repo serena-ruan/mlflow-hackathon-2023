@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/commands/hasura_version",
+  "id": "hasura-cli/commands/hasura_version",
+  "title": "Hasura CLI: hasura version",
+  "description": "Print the CLI version using the Hasura CLI",
+  "source": "@site/docs/hasura-cli/commands/hasura_version.mdx",
+  "sourceDirName": "hasura-cli/commands",
+  "slug": "/hasura-cli/commands/hasura_version",
+  "permalink": "/docs/latest/hasura-cli/commands/hasura_version",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/commands/hasura_version.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 40,
+  "frontMatter": {
+    "sidebar_label": "hasura version",
+    "sidebar_position": 40,
+    "description": "Print the CLI version using the Hasura CLI",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "hasura version"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "hasura update-cli",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_update-cli"
+  },
+  "next": {
+    "title": "Configuration reference",
+    "permalink": "/docs/latest/hasura-cli/config-reference"
+  }
+}

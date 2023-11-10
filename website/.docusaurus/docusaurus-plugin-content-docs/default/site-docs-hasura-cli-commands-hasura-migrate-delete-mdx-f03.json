@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/commands/hasura_migrate_delete",
+  "id": "hasura-cli/commands/hasura_migrate_delete",
+  "title": "Hasura CLI: hasura migrate delete",
+  "description": "(PREVIEW) clear migrations from local project and server using the Hasura CLI",
+  "source": "@site/docs/hasura-cli/commands/hasura_migrate_delete.mdx",
+  "sourceDirName": "hasura-cli/commands",
+  "slug": "/hasura-cli/commands/hasura_migrate_delete",
+  "permalink": "/docs/latest/hasura-cli/commands/hasura_migrate_delete",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/commands/hasura_migrate_delete.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 25,
+  "frontMatter": {
+    "sidebar_label": "hasura migrate delete",
+    "sidebar_position": 25,
+    "description": "(PREVIEW) clear migrations from local project and server using the Hasura CLI",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "hasura migrate delete"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "hasura migrate create",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_migrate_create"
+  },
+  "next": {
+    "title": "hasura migrate squash",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_migrate_squash"
+  }
+}

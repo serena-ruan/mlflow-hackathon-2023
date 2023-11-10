@@ -1,0 +1,40 @@
+{
+  "unversionedId": "enterprise/sso/azure-ad",
+  "id": "enterprise/sso/azure-ad",
+  "title": "EE: Azure AD SSO",
+  "description": "Azure Active Directory SSO tutorial for Hasura Enterprise Edition",
+  "source": "@site/docs/enterprise/sso/azure-ad.mdx",
+  "sourceDirName": "enterprise/sso",
+  "slug": "/enterprise/sso/azure-ad",
+  "permalink": "/docs/latest/enterprise/sso/azure-ad",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/enterprise/sso/azure-ad.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Azure Active Directory",
+    "description": "Azure Active Directory SSO tutorial for Hasura Enterprise Edition",
+    "title": "EE: Azure AD SSO",
+    "keywords": [
+      "hasura",
+      "console",
+      "docs",
+      "enterprise",
+      "single sign on",
+      "SSO",
+      "SAML",
+      "Azure"
+    ],
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Auth0",
+    "permalink": "/docs/latest/enterprise/sso/auth0"
+  },
+  "next": {
+    "title": "Google Workspace",
+    "permalink": "/docs/latest/enterprise/sso/google-workspace"
+  }
+}

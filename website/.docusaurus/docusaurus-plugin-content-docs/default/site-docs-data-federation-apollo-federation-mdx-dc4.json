@@ -1,0 +1,37 @@
+{
+  "unversionedId": "data-federation/apollo-federation",
+  "id": "data-federation/apollo-federation",
+  "title": "Apollo Federation Support",
+  "description": "Use Hasura as a subgraph in an Apollo gateway",
+  "source": "@site/docs/data-federation/apollo-federation.mdx",
+  "sourceDirName": "data-federation",
+  "slug": "/data-federation/apollo-federation",
+  "permalink": "/docs/latest/data-federation/apollo-federation",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/data-federation/apollo-federation.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Apollo Federation",
+    "sidebar_position": 5,
+    "description": "Use Hasura as a subgraph in an Apollo gateway",
+    "keywords": [
+      "hasura",
+      "docs",
+      "apollo gateway",
+      "apollo federation",
+      "subgraph",
+      "data federation"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Schema Registry",
+    "permalink": "/docs/latest/data-federation/schema-registry"
+  },
+  "next": {
+    "title": "The Data API",
+    "permalink": "/docs/latest/_heading_data_api"
+  }
+}

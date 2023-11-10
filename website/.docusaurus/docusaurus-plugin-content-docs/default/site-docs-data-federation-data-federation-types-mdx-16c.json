@@ -1,0 +1,35 @@
+{
+  "unversionedId": "data-federation/data-federation-types",
+  "id": "data-federation/data-federation-types",
+  "title": "Data Federation Types",
+  "description": "Join data across remote data sources",
+  "source": "@site/docs/data-federation/data-federation-types.mdx",
+  "sourceDirName": "data-federation",
+  "slug": "/data-federation/data-federation-types",
+  "permalink": "/docs/latest/data-federation/data-federation-types",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/data-federation/data-federation-types.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Data federation types",
+    "sidebar_position": 3,
+    "description": "Join data across remote data sources",
+    "keywords": [
+      "hasura",
+      "docs",
+      "remote join",
+      "data federation"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Federation Architectures",
+    "permalink": "/docs/latest/data-federation/hasura-graphql-federation-architectures"
+  },
+  "next": {
+    "title": "Schema Registry",
+    "permalink": "/docs/latest/data-federation/schema-registry"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/commands/hasura_migrate_status",
+  "id": "hasura-cli/commands/hasura_migrate_status",
+  "title": "Hasura CLI: hasura migrate status",
+  "description": "Display current status of migrations on a database using the Hasura CLI",
+  "source": "@site/docs/hasura-cli/commands/hasura_migrate_status.mdx",
+  "sourceDirName": "hasura-cli/commands",
+  "slug": "/hasura-cli/commands/hasura_migrate_status",
+  "permalink": "/docs/latest/hasura-cli/commands/hasura_migrate_status",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/commands/hasura_migrate_status.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 27,
+  "frontMatter": {
+    "sidebar_label": "hasura migrate status",
+    "sidebar_position": 27,
+    "description": "Display current status of migrations on a database using the Hasura CLI",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "hasura migrate status"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "hasura migrate squash",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_migrate_squash"
+  },
+  "next": {
+    "title": "hasura plugins",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_plugins"
+  }
+}

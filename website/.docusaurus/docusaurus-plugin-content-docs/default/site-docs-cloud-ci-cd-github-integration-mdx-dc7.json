@@ -1,0 +1,38 @@
+{
+  "unversionedId": "cloud-ci-cd/github-integration",
+  "id": "cloud-ci-cd/github-integration",
+  "title": "Cloud: GitHub Deployment",
+  "description": "GitHub deployment",
+  "source": "@site/docs/cloud-ci-cd/github-integration.mdx",
+  "sourceDirName": "cloud-ci-cd",
+  "slug": "/cloud-ci-cd/github-integration",
+  "permalink": "/docs/latest/cloud-ci-cd/github-integration",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/cloud-ci-cd/github-integration.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "GitHub deployment",
+    "title": "Cloud: GitHub Deployment",
+    "keywords": [
+      "hasura",
+      "docs",
+      "project",
+      "github",
+      "deployment",
+      "git"
+    ],
+    "sidebar_label": "GitHub deployment",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Continuous Integration and Continuous Deployment with Hasura Cloud",
+    "permalink": "/docs/latest/cloud-ci-cd/index"
+  },
+  "next": {
+    "title": "Preview Apps",
+    "permalink": "/docs/latest/cloud-ci-cd/preview-apps"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/connector-plugin/commands/connector_generate-configuration",
+  "id": "hasura-cli/connector-plugin/commands/connector_generate-configuration",
+  "title": "Hasura CLI: connector generate-configuration",
+  "description": "Generate Hasura Data Connector configuration for the connector given in the flag `--github-repo-url` using the Hasura CLI",
+  "source": "@site/docs/hasura-cli/connector-plugin/commands/connector_generate-configuration.mdx",
+  "sourceDirName": "hasura-cli/connector-plugin/commands",
+  "slug": "/hasura-cli/connector-plugin/commands/connector_generate-configuration",
+  "permalink": "/docs/latest/hasura-cli/connector-plugin/commands/connector_generate-configuration",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/connector-plugin/commands/connector_generate-configuration.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "hasura connector generate-configuration",
+    "sidebar_position": 4,
+    "description": "Generate Hasura Data Connector configuration for the connector given in the flag `--github-repo-url` using the Hasura CLI",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "connector generate-configuration"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "hasura connector delete",
+    "permalink": "/docs/latest/hasura-cli/connector-plugin/commands/connector_delete"
+  },
+  "next": {
+    "title": "hasura connector list",
+    "permalink": "/docs/latest/hasura-cli/connector-plugin/commands/connector_list"
+  }
+}

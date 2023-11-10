@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/commands/hasura_plugins_install",
+  "id": "hasura-cli/commands/hasura_plugins_install",
+  "title": "Hasura CLI: hasura plugins install",
+  "description": "Install a plugin from the index using the Hasura CLI",
+  "source": "@site/docs/hasura-cli/commands/hasura_plugins_install.mdx",
+  "sourceDirName": "hasura-cli/commands",
+  "slug": "/hasura-cli/commands/hasura_plugins_install",
+  "permalink": "/docs/latest/hasura-cli/commands/hasura_plugins_install",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/commands/hasura_plugins_install.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 29,
+  "frontMatter": {
+    "sidebar_label": "hasura plugins install",
+    "sidebar_position": 29,
+    "description": "Install a plugin from the index using the Hasura CLI",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "hasura plugins install"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "hasura plugins",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_plugins"
+  },
+  "next": {
+    "title": "hasura plugins list",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_plugins_list"
+  }
+}

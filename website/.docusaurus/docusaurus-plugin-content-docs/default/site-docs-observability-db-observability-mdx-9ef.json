@@ -1,0 +1,37 @@
+{
+  "unversionedId": "observability/db-observability",
+  "id": "observability/db-observability",
+  "title": "Database observability",
+  "description": "Database observability best practices",
+  "source": "@site/docs/observability/db-observability.mdx",
+  "sourceDirName": "observability",
+  "slug": "/observability/db-observability",
+  "permalink": "/docs/latest/observability/db-observability",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/observability/db-observability.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Database observability",
+    "description": "Database observability best practices",
+    "keywords": [
+      "hasura",
+      "docs",
+      "best practices",
+      "observability",
+      "database observability"
+    ],
+    "sidebar_label": "Database observability",
+    "sidebar_position": 7
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Query Tags",
+    "permalink": "/docs/latest/observability/query-tags"
+  },
+  "next": {
+    "title": "Deployment",
+    "permalink": "/docs/latest/_heading_deployment"
+  }
+}

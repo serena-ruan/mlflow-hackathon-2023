@@ -1,0 +1,33 @@
+{
+  "unversionedId": "databases/clickhouse/getting-started/index",
+  "id": "databases/clickhouse/getting-started/index",
+  "title": "Get Started with ClickHouse",
+  "description": "Get started with ClickHouse",
+  "source": "@site/docs/databases/clickhouse/getting-started/index.mdx",
+  "sourceDirName": "databases/clickhouse/getting-started",
+  "slug": "/databases/clickhouse/getting-started/index",
+  "permalink": "/docs/latest/databases/clickhouse/getting-started/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/clickhouse/getting-started/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "index",
+    "description": "Get started with ClickHouse",
+    "keywords": [
+      "hasura",
+      "docs",
+      "databases",
+      "ClickHouse"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "ClickHouse",
+    "permalink": "/docs/latest/databases/clickhouse/index"
+  },
+  "next": {
+    "title": "Hasura Cloud",
+    "permalink": "/docs/latest/databases/clickhouse/getting-started/cloud"
+  }
+}

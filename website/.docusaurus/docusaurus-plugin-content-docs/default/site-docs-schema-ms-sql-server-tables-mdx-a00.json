@@ -1,0 +1,36 @@
+{
+  "unversionedId": "schema/ms-sql-server/tables",
+  "id": "schema/ms-sql-server/tables",
+  "title": "MS SQL Server: Tables Basics",
+  "description": "GraphQL over MS SQL Server tables in Hasura",
+  "source": "@site/docs/schema/ms-sql-server/tables.mdx",
+  "sourceDirName": "schema/ms-sql-server",
+  "slug": "/schema/ms-sql-server/tables",
+  "permalink": "/docs/latest/schema/ms-sql-server/tables",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/ms-sql-server/tables.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Tables basics",
+    "sidebar_position": 1,
+    "description": "GraphQL over MS SQL Server tables in Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "ms sql server",
+      "schema",
+      "tables"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "MS SQL Server",
+    "permalink": "/docs/latest/schema/ms-sql-server/index"
+  },
+  "next": {
+    "title": "MS SQL Server: Relationships between Tables/Views/Native Queries",
+    "permalink": "/docs/latest/schema/ms-sql-server/table-relationships/index"
+  }
+}

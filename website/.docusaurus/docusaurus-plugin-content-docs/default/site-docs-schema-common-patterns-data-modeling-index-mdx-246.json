@@ -1,0 +1,36 @@
+{
+  "unversionedId": "schema/common-patterns/data-modeling/index",
+  "id": "schema/common-patterns/data-modeling/index",
+  "title": "GraphQL Data Modeling",
+  "description": "Guides for data modeling with Hasura",
+  "source": "@site/docs/schema/common-patterns/data-modeling/index.mdx",
+  "sourceDirName": "schema/common-patterns/data-modeling",
+  "slug": "/schema/common-patterns/data-modeling/index",
+  "permalink": "/docs/latest/schema/common-patterns/data-modeling/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/common-patterns/data-modeling/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "Guides for data modeling with Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "guide",
+      "data modeling"
+    ],
+    "sidebar_position": 1,
+    "slug": "index",
+    "sidebar_label": "GraphQL data modeling"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Common Patterns",
+    "permalink": "/docs/latest/schema/common-patterns/index"
+  },
+  "next": {
+    "title": "One-to-one relationship",
+    "permalink": "/docs/latest/schema/common-patterns/data-modeling/one-to-one"
+  }
+}

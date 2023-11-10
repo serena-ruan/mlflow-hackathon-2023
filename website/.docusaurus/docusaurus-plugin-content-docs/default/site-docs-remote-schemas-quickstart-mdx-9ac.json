@@ -1,0 +1,35 @@
+{
+  "unversionedId": "remote-schemas/quickstart",
+  "id": "remote-schemas/quickstart",
+  "title": "Quickstart",
+  "description": "Quickstart with Hasura Remote Schemas",
+  "source": "@site/docs/remote-schemas/quickstart.mdx",
+  "sourceDirName": "remote-schemas",
+  "slug": "/remote-schemas/quickstart",
+  "permalink": "/docs/latest/remote-schemas/quickstart",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/remote-schemas/quickstart.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "Quickstart with Hasura Remote Schemas",
+    "title": "Quickstart",
+    "keywords": [
+      "hasura",
+      "docs",
+      "remote schemas",
+      "quickstart"
+    ],
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/latest/remote-schemas/overview"
+  },
+  "next": {
+    "title": "Add a Remote Schema",
+    "permalink": "/docs/latest/remote-schemas/adding-schema"
+  }
+}

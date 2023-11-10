@@ -1,0 +1,36 @@
+{
+  "unversionedId": "api-reference/metadata-api/computed-field",
+  "id": "api-reference/metadata-api/computed-field",
+  "title": "Metadata API Reference: Computed Fields",
+  "description": "Manage computed fields with the Hasura Metadata API",
+  "source": "@site/docs/api-reference/metadata-api/computed-field.mdx",
+  "sourceDirName": "api-reference/metadata-api",
+  "slug": "/api-reference/metadata-api/computed-field",
+  "permalink": "/docs/latest/api-reference/metadata-api/computed-field",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/metadata-api/computed-field.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_label": "Computed fields",
+    "sidebar_position": 11,
+    "description": "Manage computed fields with the Hasura Metadata API",
+    "keywords": [
+      "hasura",
+      "docs",
+      "Metadata API",
+      "API reference",
+      "computed field"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Remote Schema permissions",
+    "permalink": "/docs/latest/api-reference/metadata-api/remote-schema-permissions"
+  },
+  "next": {
+    "title": "Event Triggers",
+    "permalink": "/docs/latest/api-reference/metadata-api/event-triggers"
+  }
+}

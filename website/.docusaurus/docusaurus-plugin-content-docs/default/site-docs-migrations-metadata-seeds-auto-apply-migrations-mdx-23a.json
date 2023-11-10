@@ -1,0 +1,36 @@
+{
+  "unversionedId": "migrations-metadata-seeds/auto-apply-migrations",
+  "id": "migrations-metadata-seeds/auto-apply-migrations",
+  "title": "Auto-Apply Migrations and Metadata",
+  "description": "Auto-apply Migrations and Metadata",
+  "source": "@site/docs/migrations-metadata-seeds/auto-apply-migrations.mdx",
+  "sourceDirName": "migrations-metadata-seeds",
+  "slug": "/migrations-metadata-seeds/auto-apply-migrations",
+  "permalink": "/docs/latest/migrations-metadata-seeds/auto-apply-migrations",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/migrations-metadata-seeds/auto-apply-migrations.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_label": "Auto-apply Migrations and Metadata",
+    "sidebar_position": 8,
+    "description": "Auto-apply Migrations and Metadata",
+    "keywords": [
+      "hasura",
+      "auto-apply",
+      "migration",
+      "metadata",
+      "server"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Metadata format",
+    "permalink": "/docs/latest/migrations-metadata-seeds/metadata-format"
+  },
+  "next": {
+    "title": "Reset Migrations and Metadata",
+    "permalink": "/docs/latest/migrations-metadata-seeds/resetting-migrations-metadata"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "required-configuration",
+  "id": "required-configuration",
+  "title": "Required configuration",
+  "description": "This section, gives you the best practices to optimize our crawl. Adopting this following specification is required to let our crawler build the best experience from your website. You will need to update your website and follow these rules.",
+  "source": "@site/docs/required-configuration.mdx",
+  "sourceDirName": ".",
+  "slug": "/required-configuration",
+  "permalink": "/docs/required-configuration",
+  "draft": false,
+  "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/required-configuration.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Required configuration"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "How does it work?",
+    "permalink": "/docs/how-does-it-work"
+  }
+}

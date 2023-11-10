@@ -1,0 +1,36 @@
+{
+  "unversionedId": "remote-schemas/auth/remote-schema-bypass-auth",
+  "id": "remote-schemas/auth/remote-schema-bypass-auth",
+  "title": "Bypassing Hasura's Auth for Remote Schemas",
+  "description": "Bypassing auth in your Remote Schema with Hasura",
+  "source": "@site/docs/remote-schemas/auth/remote-schema-bypass-auth.mdx",
+  "sourceDirName": "remote-schemas/auth",
+  "slug": "/remote-schemas/auth/remote-schema-bypass-auth",
+  "permalink": "/docs/latest/remote-schemas/auth/remote-schema-bypass-auth",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/remote-schemas/auth/remote-schema-bypass-auth.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "description": "Bypassing auth in your Remote Schema with Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "remote schema",
+      "authorization",
+      "bypass"
+    ],
+    "sidebar_position": 4,
+    "sidebar_label": "Bypassing Hasura's auth for Remote Schemas"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Remote Schema permissions",
+    "permalink": "/docs/latest/remote-schemas/auth/remote-schema-permissions"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/latest/data-federation/overview"
+  }
+}

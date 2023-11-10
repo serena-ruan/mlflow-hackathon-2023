@@ -1,0 +1,1088 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "current",
+          "banner": null,
+          "badge": true,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs",
+          "editUrlLocalized": "https://github.com/algolia/docsearch/edit/main/packages/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/serena.ruan/Documents/repos/mlflow-hackathon-2023/website/sidebars.js",
+          "contentPath": "/Users/serena.ruan/Documents/repos/mlflow-hackathon-2023/website/docs",
+          "contentPathLocalized": "/Users/serena.ruan/Documents/repos/mlflow-hackathon-2023/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "api",
+              "id": "api",
+              "title": "API Reference",
+              "description": "The following content is for DocSearch v3. If you are using DocSearch v2, see the legacy documentation.",
+              "source": "@site/docs/api.mdx",
+              "sourceDirName": ".",
+              "slug": "/api",
+              "permalink": "/docs/api",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/api.mdx",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "API Reference"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/DocSearch-v3"
+              },
+              "next": {
+                "title": "Styling",
+                "permalink": "/docs/styling"
+              }
+            },
+            {
+              "unversionedId": "crawler",
+              "id": "crawler",
+              "title": "DocSearch x Algolia Crawler",
+              "description": "If you're not finding the answer to your question on this website, this page will help you. If you're still unsure, don't hesitate to send your question to us directly.",
+              "source": "@site/docs/crawler.mdx",
+              "sourceDirName": ".",
+              "slug": "/crawler",
+              "permalink": "/docs/crawler",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/crawler.mdx",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "DocSearch x Algolia Crawler"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Manage your crawls",
+                "permalink": "/docs/manage-your-crawls"
+              },
+              "next": {
+                "title": "DocSearch program",
+                "permalink": "/docs/DocSearch-program"
+              }
+            },
+            {
+              "unversionedId": "DocSearch-program",
+              "id": "DocSearch-program",
+              "title": "DocSearch program",
+              "description": "If you're not finding the answer to your question on this website, this page will help you. If you're still unsure, don't hesitate to send your question to us directly.",
+              "source": "@site/docs/DocSearch-program.md",
+              "sourceDirName": ".",
+              "slug": "/DocSearch-program",
+              "permalink": "/docs/DocSearch-program",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/DocSearch-program.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "DocSearch program"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "DocSearch x Algolia Crawler",
+                "permalink": "/docs/crawler"
+              },
+              "next": {
+                "title": "Tips for a good search",
+                "permalink": "/docs/tips"
+              }
+            },
+            {
+              "unversionedId": "DocSearch-v3",
+              "id": "DocSearch-v3",
+              "title": "Getting Started",
+              "description": "The following content is for DocSearch v3. If you are using DocSearch v2, see the legacy documentation.",
+              "source": "@site/docs/DocSearch-v3.mdx",
+              "sourceDirName": ".",
+              "slug": "/DocSearch-v3",
+              "permalink": "/docs/DocSearch-v3",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/DocSearch-v3.mdx",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Getting Started"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Migrating from the legacy scraper",
+                "permalink": "/docs/migrating-from-legacy"
+              },
+              "next": {
+                "title": "API Reference",
+                "permalink": "/docs/api"
+              }
+            },
+            {
+              "unversionedId": "how-does-it-work",
+              "id": "how-does-it-work",
+              "title": "How does it work?",
+              "description": "Getting up and ready with DocSearch is a straightforward process that requires three steps: you apply, we configure the crawler and the Algolia app for you, and you integrate our UI in your frontend. You only need to copy and paste a JavaScript snippet.",
+              "source": "@site/docs/how-does-it-work.mdx",
+              "sourceDirName": ".",
+              "slug": "/how-does-it-work",
+              "permalink": "/docs/how-does-it-work",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/how-does-it-work.mdx",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "How does it work?"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Supported Integrations",
+                "permalink": "/docs/integrations"
+              },
+              "next": {
+                "title": "Required configuration",
+                "permalink": "/docs/required-configuration"
+              }
+            },
+            {
+              "unversionedId": "integrations",
+              "id": "integrations",
+              "title": "Supported Integrations",
+              "description": "We worked with documentation website generators to have DocSearch directly embedded as a first class citizen in the websites they produce.",
+              "source": "@site/docs/integrations.md",
+              "sourceDirName": ".",
+              "slug": "/integrations",
+              "permalink": "/docs/integrations",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/integrations.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Supported Integrations"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Tips for a good search",
+                "permalink": "/docs/tips"
+              },
+              "next": {
+                "title": "How does it work?",
+                "permalink": "/docs/how-does-it-work"
+              }
+            },
+            {
+              "unversionedId": "manage-your-crawls",
+              "id": "manage-your-crawls",
+              "title": "Manage your crawls",
+              "description": "DocSearch comes with the Algolia Crawler web interface that allows you to configure how and when your Algolia index will be populated.",
+              "source": "@site/docs/manage-your-crawls.mdx",
+              "sourceDirName": ".",
+              "slug": "/manage-your-crawls",
+              "permalink": "/docs/manage-your-crawls",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/manage-your-crawls.mdx",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Manage your crawls"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Config templates",
+                "permalink": "/docs/templates"
+              },
+              "next": {
+                "title": "DocSearch x Algolia Crawler",
+                "permalink": "/docs/crawler"
+              }
+            },
+            {
+              "unversionedId": "migrating-from-legacy",
+              "id": "migrating-from-legacy",
+              "title": "Migrating from the legacy scraper",
+              "description": "Introduction",
+              "source": "@site/docs/migrating-from-legacy.mdx",
+              "sourceDirName": ".",
+              "slug": "/migrating-from-legacy",
+              "permalink": "/docs/migrating-from-legacy",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/migrating-from-legacy.mdx",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Migrating from the legacy scraper"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Who can apply?",
+                "permalink": "/docs/who-can-apply"
+              },
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/docs/DocSearch-v3"
+              }
+            },
+            {
+              "unversionedId": "migrating-from-v2",
+              "id": "migrating-from-v2",
+              "title": "Migrating from DocSearch v2",
+              "description": "This page lists the differences between the DocSearch v2 and DocSearch v3 API, you can also take a look at the exhaustive API reference list and the Getting started guide.",
+              "source": "@site/docs/migrating-from-v2.md",
+              "sourceDirName": ".",
+              "slug": "/migrating-from-v2",
+              "permalink": "/docs/migrating-from-v2",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/migrating-from-v2.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Migrating from DocSearch v2"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Styling",
+                "permalink": "/docs/styling"
+              },
+              "next": {
+                "title": "Record Extractor",
+                "permalink": "/docs/record-extractor"
+              }
+            },
+            {
+              "unversionedId": "mlflow-doc-main",
+              "id": "mlflow-doc-main",
+              "title": "mlflow-doc-main",
+              "description": "",
+              "source": "@site/docs/mlflow-doc-main.md",
+              "sourceDirName": ".",
+              "slug": "/mlflow-doc-main",
+              "permalink": "/docs/mlflow-doc-main",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/mlflow-doc-main.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "next": {
+                "title": "What is DocSearch?",
+                "permalink": "/docs/what-is-docsearch"
+              }
+            },
+            {
+              "unversionedId": "record-extractor",
+              "id": "record-extractor",
+              "title": "Record Extractor",
+              "description": "Introduction",
+              "source": "@site/docs/record-extractor.md",
+              "sourceDirName": ".",
+              "slug": "/record-extractor",
+              "permalink": "/docs/record-extractor",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/record-extractor.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Record Extractor"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Migrating from DocSearch v2",
+                "permalink": "/docs/migrating-from-v2"
+              },
+              "next": {
+                "title": "Config templates",
+                "permalink": "/docs/templates"
+              }
+            },
+            {
+              "unversionedId": "required-configuration",
+              "id": "required-configuration",
+              "title": "Required configuration",
+              "description": "This section, gives you the best practices to optimize our crawl. Adopting this following specification is required to let our crawler build the best experience from your website. You will need to update your website and follow these rules.",
+              "source": "@site/docs/required-configuration.mdx",
+              "sourceDirName": ".",
+              "slug": "/required-configuration",
+              "permalink": "/docs/required-configuration",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/required-configuration.mdx",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Required configuration"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "How does it work?",
+                "permalink": "/docs/how-does-it-work"
+              }
+            },
+            {
+              "unversionedId": "styling",
+              "id": "styling",
+              "title": "Styling",
+              "description": "The following content is for DocSearch v3. If you are using DocSearch v2, see the legacy documentation.",
+              "source": "@site/docs/styling.md",
+              "sourceDirName": ".",
+              "slug": "/styling",
+              "permalink": "/docs/styling",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/styling.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Styling"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "API Reference",
+                "permalink": "/docs/api"
+              },
+              "next": {
+                "title": "Migrating from DocSearch v2",
+                "permalink": "/docs/migrating-from-v2"
+              }
+            },
+            {
+              "unversionedId": "templates",
+              "id": "templates",
+              "title": "Config templates",
+              "description": "To help you create the best search experience for your users, we provide config templates for multiple websites generators. If you'd like to add a new template to our list, or believe we should update an existing one, please send us an email or open a pull request.",
+              "source": "@site/docs/templates.mdx",
+              "sourceDirName": ".",
+              "slug": "/templates",
+              "permalink": "/docs/templates",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/templates.mdx",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Config templates"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Record Extractor",
+                "permalink": "/docs/record-extractor"
+              },
+              "next": {
+                "title": "Manage your crawls",
+                "permalink": "/docs/manage-your-crawls"
+              }
+            },
+            {
+              "unversionedId": "tips",
+              "id": "tips",
+              "title": "Tips for a good search",
+              "description": "DocSearch can work with almost any website, but we've found that some site structures yield more relevant results or faster indexing time. In this page we'll share some tips on how you can make the most out of DocSearch.",
+              "source": "@site/docs/tips.md",
+              "sourceDirName": ".",
+              "slug": "/tips",
+              "permalink": "/docs/tips",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/tips.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Tips for a good search"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "DocSearch program",
+                "permalink": "/docs/DocSearch-program"
+              },
+              "next": {
+                "title": "Supported Integrations",
+                "permalink": "/docs/integrations"
+              }
+            },
+            {
+              "unversionedId": "what-is-docsearch",
+              "id": "what-is-docsearch",
+              "title": "What is DocSearch?",
+              "description": "Why?",
+              "source": "@site/docs/what-is-docsearch.md",
+              "sourceDirName": ".",
+              "slug": "/what-is-docsearch",
+              "permalink": "/docs/what-is-docsearch",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/what-is-docsearch.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "What is DocSearch?",
+                "sidebar_label": "What is DocSearch?"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "mlflow-doc-main",
+                "permalink": "/docs/mlflow-doc-main"
+              },
+              "next": {
+                "title": "Who can apply?",
+                "permalink": "/docs/who-can-apply"
+              }
+            },
+            {
+              "unversionedId": "who-can-apply",
+              "id": "who-can-apply",
+              "title": "Who can apply?",
+              "description": "Open for all developer documentation and technical blogs.",
+              "source": "@site/docs/who-can-apply.md",
+              "sourceDirName": ".",
+              "slug": "/who-can-apply",
+              "permalink": "/docs/who-can-apply",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/who-can-apply.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Who can apply?"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "What is DocSearch?",
+                "permalink": "/docs/what-is-docsearch"
+              },
+              "next": {
+                "title": "Migrating from the legacy scraper",
+                "permalink": "/docs/migrating-from-legacy"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "docs": [
+              {
+                "type": "doc",
+                "id": "mlflow-doc-main",
+                "label": "MLflow",
+                "translatable": true
+              },
+              {
+                "type": "category",
+                "label": "Introduction",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "what-is-docsearch"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "who-can-apply"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "migrating-from-legacy"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "DocSearch v3",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "DocSearch-v3"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "api"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "styling"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "migrating-from-v2"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Algolia Crawler",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "record-extractor"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "templates"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "manage-your-crawls"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Requirements, tips, FAQ",
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "FAQ",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "crawler"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "DocSearch-program"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tips"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "integrations"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Under the hood",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "how-does-it-work"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "required-configuration"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        },
+        {
+          "versionName": "legacy",
+          "label": "legacy",
+          "banner": "unmaintained",
+          "badge": true,
+          "noIndex": false,
+          "className": "docs-version-legacy",
+          "path": "/docs/legacy",
+          "tagsPath": "/docs/legacy/tags",
+          "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/versioned_docs/version-legacy",
+          "editUrlLocalized": "https://github.com/algolia/docsearch/edit/main/packages/website/i18n/en/docusaurus-plugin-content-docs/version-legacy",
+          "isLast": false,
+          "sidebarFilePath": "/Users/serena.ruan/Documents/repos/mlflow-hackathon-2023/website/versioned_sidebars/version-legacy-sidebars.json",
+          "contentPath": "/Users/serena.ruan/Documents/repos/mlflow-hackathon-2023/website/versioned_docs/version-legacy",
+          "contentPathLocalized": "/Users/serena.ruan/Documents/repos/mlflow-hackathon-2023/website/i18n/en/docusaurus-plugin-content-docs/version-legacy",
+          "docs": [
+            {
+              "unversionedId": "behavior",
+              "id": "version-legacy/behavior",
+              "title": "Dropdown Behavior",
+              "description": "The following references to Autocomplete.js are outdated. If you would like to try the latest version, please visit the Autocomplete documentation",
+              "source": "@site/versioned_docs/version-legacy/behavior.md",
+              "sourceDirName": ".",
+              "slug": "/behavior",
+              "permalink": "/docs/legacy/behavior",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/versioned_docs/version-legacy/behavior.md",
+              "tags": [],
+              "version": "legacy",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Dropdown Behavior",
+                "sidebar_label": "Behavior"
+              },
+              "sidebar": "version-legacy/docs",
+              "previous": {
+                "title": "Styling DocSearch",
+                "permalink": "/docs/legacy/styling"
+              },
+              "next": {
+                "title": "Required configuration",
+                "permalink": "/docs/legacy/required-configuration"
+              }
+            },
+            {
+              "unversionedId": "config-file",
+              "id": "version-legacy/config-file",
+              "title": "Config Files",
+              "description": "A DocSearch looks like this:",
+              "source": "@site/versioned_docs/version-legacy/config-file.md",
+              "sourceDirName": ".",
+              "slug": "/config-file",
+              "permalink": "/docs/legacy/config-file",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/versioned_docs/version-legacy/config-file.md",
+              "tags": [],
+              "version": "legacy",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Config Files"
+              },
+              "sidebar": "version-legacy/docs",
+              "previous": {
+                "title": "Inside the engine",
+                "permalink": "/docs/legacy/inside-the-engine"
+              },
+              "next": {
+                "title": "How do we build a DocSearch index?",
+                "permalink": "/docs/legacy/how-do-we-build-an-index"
+              }
+            },
+            {
+              "unversionedId": "dropdown",
+              "id": "version-legacy/dropdown",
+              "title": "Dropdown Search-UI",
+              "description": "Once your Algolia DocSearch index is ready, set up, and filled with the right data, you will need to integrate our dedicated Search-UI. To add the dropdown of results below your search input, you'll have to include our DocSearch library into your website as per the following example.",
+              "source": "@site/versioned_docs/version-legacy/dropdown.md",
+              "sourceDirName": ".",
+              "slug": "/dropdown",
+              "permalink": "/docs/legacy/dropdown",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/versioned_docs/version-legacy/dropdown.md",
+              "tags": [],
+              "version": "legacy",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Dropdown Search-UI"
+              },
+              "sidebar": "version-legacy/docs",
+              "next": {
+                "title": "Styling DocSearch",
+                "permalink": "/docs/legacy/styling"
+              }
+            },
+            {
+              "unversionedId": "faq",
+              "id": "version-legacy/faq",
+              "title": "FAQ",
+              "description": "If you're not finding the answer to your question on this website, this page will help you. If you're still unsure, don't hesitate to send your question to us directly.",
+              "source": "@site/versioned_docs/version-legacy/faq.md",
+              "sourceDirName": ".",
+              "slug": "/faq",
+              "permalink": "/docs/legacy/faq",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/versioned_docs/version-legacy/faq.md",
+              "tags": [],
+              "version": "legacy",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "FAQ"
+              },
+              "sidebar": "version-legacy/docs",
+              "previous": {
+                "title": "Tips for a good search",
+                "permalink": "/docs/legacy/tips"
+              },
+              "next": {
+                "title": "Supported Integrations",
+                "permalink": "/docs/legacy/integrations"
+              }
+            },
+            {
+              "unversionedId": "how-do-we-build-an-index",
+              "id": "version-legacy/how-do-we-build-an-index",
+              "title": "How do we build a DocSearch index?",
+              "description": "In this section you will learn how we build a DocSearch index from your page.",
+              "source": "@site/versioned_docs/version-legacy/how-do-we-build-an-index.mdx",
+              "sourceDirName": ".",
+              "slug": "/how-do-we-build-an-index",
+              "permalink": "/docs/legacy/how-do-we-build-an-index",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/versioned_docs/version-legacy/how-do-we-build-an-index.mdx",
+              "tags": [],
+              "version": "legacy",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "How do we build a DocSearch index?"
+              },
+              "sidebar": "version-legacy/docs",
+              "previous": {
+                "title": "Config Files",
+                "permalink": "/docs/legacy/config-file"
+              },
+              "next": {
+                "title": "Run your own",
+                "permalink": "/docs/legacy/run-your-own"
+              }
+            },
+            {
+              "unversionedId": "inside-the-engine",
+              "id": "version-legacy/inside-the-engine",
+              "title": "Inside the engine",
+              "description": "This page explains in more detail how the crawler extracts content from your page, and how it ranks the results.",
+              "source": "@site/versioned_docs/version-legacy/inside-the-engine.md",
+              "sourceDirName": ".",
+              "slug": "/inside-the-engine",
+              "permalink": "/docs/legacy/inside-the-engine",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/versioned_docs/version-legacy/inside-the-engine.md",
+              "tags": [],
+              "version": "legacy",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Inside the engine"
+              },
+              "sidebar": "version-legacy/docs",
+              "previous": {
+                "title": "Supported Integrations",
+                "permalink": "/docs/legacy/integrations"
+              },
+              "next": {
+                "title": "Config Files",
+                "permalink": "/docs/legacy/config-file"
+              }
+            },
+            {
+              "unversionedId": "integrations",
+              "id": "version-legacy/integrations",
+              "title": "Supported Integrations",
+              "description": "We worked with documentation website generators to have DocSearch directly embedded as a first class citizen in the websites they produce.",
+              "source": "@site/versioned_docs/version-legacy/integrations.md",
+              "sourceDirName": ".",
+              "slug": "/integrations",
+              "permalink": "/docs/legacy/integrations",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/versioned_docs/version-legacy/integrations.md",
+              "tags": [],
+              "version": "legacy",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Supported Integrations"
+              },
+              "sidebar": "version-legacy/docs",
+              "previous": {
+                "title": "FAQ",
+                "permalink": "/docs/legacy/faq"
+              },
+              "next": {
+                "title": "Inside the engine",
+                "permalink": "/docs/legacy/inside-the-engine"
+              }
+            },
+            {
+              "unversionedId": "required-configuration",
+              "id": "version-legacy/required-configuration",
+              "title": "Required configuration",
+              "description": "This section, empowered by the details about how we build a DocSearch index, gives you the best practices to optimize our crawl. Adopting this following specification is required to let our crawler build the best experience from your website. You will need to update your website and follow these rules.",
+              "source": "@site/versioned_docs/version-legacy/required-configuration.md",
+              "sourceDirName": ".",
+              "slug": "/required-configuration",
+              "permalink": "/docs/legacy/required-configuration",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/versioned_docs/version-legacy/required-configuration.md",
+              "tags": [],
+              "version": "legacy",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Required configuration"
+              },
+              "sidebar": "version-legacy/docs",
+              "previous": {
+                "title": "Behavior",
+                "permalink": "/docs/legacy/behavior"
+              },
+              "next": {
+                "title": "Tips for a good search",
+                "permalink": "/docs/legacy/tips"
+              }
+            },
+            {
+              "unversionedId": "run-your-own",
+              "id": "version-legacy/run-your-own",
+              "title": "Run your own",
+              "description": "If you want to update your results with more control, or if you are not compliant with our checklist, or if your website sits behind a firewall, you might want to run the crawler yourself.",
+              "source": "@site/versioned_docs/version-legacy/run-your-own.md",
+              "sourceDirName": ".",
+              "slug": "/run-your-own",
+              "permalink": "/docs/legacy/run-your-own",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/versioned_docs/version-legacy/run-your-own.md",
+              "tags": [],
+              "version": "legacy",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Run your own"
+              },
+              "sidebar": "version-legacy/docs",
+              "previous": {
+                "title": "How do we build a DocSearch index?",
+                "permalink": "/docs/legacy/how-do-we-build-an-index"
+              }
+            },
+            {
+              "unversionedId": "scraper-overview",
+              "id": "version-legacy/scraper-overview",
+              "title": "Scraper Overview",
+              "description": "How?",
+              "source": "@site/versioned_docs/version-legacy/scraper-overview.md",
+              "sourceDirName": ".",
+              "slug": "/scraper-overview",
+              "permalink": "/docs/legacy/scraper-overview",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/versioned_docs/version-legacy/scraper-overview.md",
+              "tags": [],
+              "version": "legacy",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Scraper Overview"
+              }
+            },
+            {
+              "unversionedId": "styling",
+              "id": "version-legacy/styling",
+              "title": "Styling DocSearch",
+              "description": "DocSearch default color scheme comes in a grey theme with blue highlight.",
+              "source": "@site/versioned_docs/version-legacy/styling.mdx",
+              "sourceDirName": ".",
+              "slug": "/styling",
+              "permalink": "/docs/legacy/styling",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/versioned_docs/version-legacy/styling.mdx",
+              "tags": [],
+              "version": "legacy",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Styling DocSearch"
+              },
+              "sidebar": "version-legacy/docs",
+              "previous": {
+                "title": "Dropdown Search-UI",
+                "permalink": "/docs/legacy/dropdown"
+              },
+              "next": {
+                "title": "Behavior",
+                "permalink": "/docs/legacy/behavior"
+              }
+            },
+            {
+              "unversionedId": "tips",
+              "id": "version-legacy/tips",
+              "title": "Tips for a good search",
+              "description": "DocSearch can work with almost any website, but we've found that some site structures yield more relevant results or faster indexing time. In this page we'll share some tips on how you can make the most out of DocSearch.",
+              "source": "@site/versioned_docs/version-legacy/tips.md",
+              "sourceDirName": ".",
+              "slug": "/tips",
+              "permalink": "/docs/legacy/tips",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/versioned_docs/version-legacy/tips.md",
+              "tags": [],
+              "version": "legacy",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {
+                "title": "Tips for a good search"
+              },
+              "sidebar": "version-legacy/docs",
+              "previous": {
+                "title": "Required configuration",
+                "permalink": "/docs/legacy/required-configuration"
+              },
+              "next": {
+                "title": "FAQ",
+                "permalink": "/docs/legacy/faq"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "version-legacy/docs": [
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Adding DocSearch to your UI",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "version-legacy/dropdown"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-legacy/styling"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-legacy/behavior"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Requirements, tips, FAQ",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "version-legacy/required-configuration"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-legacy/tips"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-legacy/faq"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-legacy/integrations"
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Under the Hood",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "version-legacy/inside-the-engine"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-legacy/config-file"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-legacy/how-do-we-build-an-index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-legacy/run-your-own"
+                  }
+                ],
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/apply",
+        "source": "@site/src/pages/apply.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-theme-search-algolia": {},
+  "loaders": {},
+  "postcss-tailwindcss-loader": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

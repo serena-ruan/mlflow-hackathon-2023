@@ -1,0 +1,37 @@
+{
+  "unversionedId": "api-reference/metadata-api/native-queries",
+  "id": "api-reference/metadata-api/native-queries",
+  "title": "Metadata API Reference: Native Queries",
+  "description": "Manage Native Queries with the Hasura Metadata API",
+  "source": "@site/docs/api-reference/metadata-api/native-queries.mdx",
+  "sourceDirName": "api-reference/metadata-api",
+  "slug": "/api-reference/metadata-api/native-queries",
+  "permalink": "/docs/latest/api-reference/metadata-api/native-queries",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/metadata-api/native-queries.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Native queries",
+    "sidebar_position": 4,
+    "description": "Manage Native Queries with the Hasura Metadata API",
+    "keywords": [
+      "hasura",
+      "docs",
+      "Metadata API",
+      "API reference",
+      "logical models",
+      "native queries"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Logical models",
+    "permalink": "/docs/latest/api-reference/metadata-api/logical-models"
+  },
+  "next": {
+    "title": "Stored Procedures",
+    "permalink": "/docs/latest/api-reference/metadata-api/stored-procedures"
+  }
+}

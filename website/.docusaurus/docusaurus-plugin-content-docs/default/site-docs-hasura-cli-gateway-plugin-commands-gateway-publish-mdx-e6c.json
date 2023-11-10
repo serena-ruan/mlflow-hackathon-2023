@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/gateway-plugin/commands/gateway_publish",
+  "id": "hasura-cli/gateway-plugin/commands/gateway_publish",
+  "title": "Hasura CLI: gateway publish",
+  "description": "publish configuration to gateway",
+  "source": "@site/docs/hasura-cli/gateway-plugin/commands/gateway_publish.mdx",
+  "sourceDirName": "hasura-cli/gateway-plugin/commands",
+  "slug": "/hasura-cli/gateway-plugin/commands/gateway_publish",
+  "permalink": "/docs/latest/hasura-cli/gateway-plugin/commands/gateway_publish",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/gateway-plugin/commands/gateway_publish.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "gateway publish",
+    "sidebar_position": 2,
+    "description": "publish configuration to gateway",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "connector create"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "gateway check",
+    "permalink": "/docs/latest/hasura-cli/gateway-plugin/commands/gateway_check"
+  },
+  "next": {
+    "title": "Hasura Pro CLI",
+    "permalink": "/docs/latest/hasura-cli/pro-cli/"
+  }
+}

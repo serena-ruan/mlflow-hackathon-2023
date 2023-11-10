@@ -1,0 +1,33 @@
+{
+  "unversionedId": "queries/bigquery/index",
+  "id": "queries/bigquery/index",
+  "title": "BigQuery: GraphQL Queries",
+  "description": "Manage queries on BigQuery with Hasura",
+  "source": "@site/docs/queries/bigquery/index.mdx",
+  "sourceDirName": "queries/bigquery",
+  "slug": "/queries/bigquery/index",
+  "permalink": "/docs/latest/queries/bigquery/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/queries/bigquery/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Manage queries on BigQuery with Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "bigquery",
+      "query"
+    ],
+    "slug": "index"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Query performance",
+    "permalink": "/docs/latest/queries/postgres/performance"
+  },
+  "next": {
+    "title": "Simple object queries",
+    "permalink": "/docs/latest/queries/bigquery/simple-object-queries"
+  }
+}

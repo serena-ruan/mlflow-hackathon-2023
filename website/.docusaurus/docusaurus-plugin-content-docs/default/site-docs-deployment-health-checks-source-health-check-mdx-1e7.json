@@ -1,0 +1,38 @@
+{
+  "unversionedId": "deployment/health-checks/source-health-check",
+  "id": "deployment/health-checks/source-health-check",
+  "title": "Cloud: Source Health Check",
+  "description": "Hasura database source Health Check",
+  "source": "@site/docs/deployment/health-checks/source-health-check.mdx",
+  "sourceDirName": "deployment/health-checks",
+  "slug": "/deployment/health-checks/source-health-check",
+  "permalink": "/docs/latest/deployment/health-checks/source-health-check",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/deployment/health-checks/source-health-check.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "description": "Hasura database source Health Check",
+    "title": "Cloud: Source Health Check",
+    "keywords": [
+      "hasura",
+      "cloud",
+      "enterprise",
+      "source health check",
+      "source health"
+    ],
+    "sidebar_label": "Source Health Check",
+    "sidebar_position": 20,
+    "sidebar_class_name": "cloud-and-enterprise-icon"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Healthz Check",
+    "permalink": "/docs/latest/deployment/health-checks/healthz-check"
+  },
+  "next": {
+    "title": "Server logs",
+    "permalink": "/docs/latest/deployment/logging"
+  }
+}

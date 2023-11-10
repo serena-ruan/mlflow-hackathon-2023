@@ -1,0 +1,37 @@
+{
+  "unversionedId": "api-reference/metadata-api/remote-schema-permissions",
+  "id": "api-reference/metadata-api/remote-schema-permissions",
+  "title": "Metadata API Reference: Remote Schema Permissions",
+  "description": "Manage Remote Schema permissions with the Hasura Metadata API",
+  "source": "@site/docs/api-reference/metadata-api/remote-schema-permissions.mdx",
+  "sourceDirName": "api-reference/metadata-api",
+  "slug": "/api-reference/metadata-api/remote-schema-permissions",
+  "permalink": "/docs/latest/api-reference/metadata-api/remote-schema-permissions",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/metadata-api/remote-schema-permissions.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_label": "Remote Schema permissions",
+    "sidebar_position": 10,
+    "description": "Manage Remote Schema permissions with the Hasura Metadata API",
+    "keywords": [
+      "hasura",
+      "docs",
+      "Metadata API",
+      "API reference",
+      "remote schema permissions",
+      "permission"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Inherited roles",
+    "permalink": "/docs/latest/api-reference/metadata-api/inherited-roles"
+  },
+  "next": {
+    "title": "Computed fields",
+    "permalink": "/docs/latest/api-reference/metadata-api/computed-field"
+  }
+}

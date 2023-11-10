@@ -1,0 +1,36 @@
+{
+  "unversionedId": "migrations-metadata-seeds/legacy-configs/config-v2/advanced/resetting-migrations",
+  "id": "migrations-metadata-seeds/legacy-configs/config-v2/advanced/resetting-migrations",
+  "title": "Reset Hasura Migrations (config v2)",
+  "description": "Reset Hasura Migrations",
+  "source": "@site/docs/migrations-metadata-seeds/legacy-configs/config-v2/advanced/resetting-migrations.mdx",
+  "sourceDirName": "migrations-metadata-seeds/legacy-configs/config-v2/advanced",
+  "slug": "/migrations-metadata-seeds/legacy-configs/config-v2/advanced/resetting-migrations",
+  "permalink": "/docs/latest/migrations-metadata-seeds/legacy-configs/config-v2/advanced/resetting-migrations",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/migrations-metadata-seeds/legacy-configs/config-v2/advanced/resetting-migrations.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Reset Hasura Migrations (config v2)",
+    "sidebar_position": 5,
+    "description": "Reset Hasura Migrations",
+    "keywords": [
+      "hasura",
+      "docs",
+      "migration",
+      "reset migrations",
+      "clear migrations"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Create a seed data migration (config v2)",
+    "permalink": "/docs/latest/migrations-metadata-seeds/legacy-configs/config-v2/advanced/seed-data-migration"
+  },
+  "next": {
+    "title": "Reference documentation",
+    "permalink": "/docs/latest/migrations-metadata-seeds/legacy-configs/config-v2/reference/index"
+  }
+}

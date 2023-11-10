@@ -1,0 +1,36 @@
+{
+  "unversionedId": "getting-started/docker-simple",
+  "id": "getting-started/docker-simple",
+  "title": "Quickstart with Docker",
+  "description": "Get started with Hasura using Docker",
+  "source": "@site/docs/getting-started/docker-simple.mdx",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/docker-simple",
+  "permalink": "/docs/latest/getting-started/docker-simple",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/getting-started/docker-simple.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Quickstart with Hasura using Docker",
+    "title": "Quickstart with Docker",
+    "sidebar_position": 3,
+    "description": "Get started with Hasura using Docker",
+    "keywords": [
+      "hasura",
+      "docs",
+      "start",
+      "docker"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Quickstart with Hasura Cloud",
+    "permalink": "/docs/latest/getting-started/getting-started-cloud"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/latest/getting-started/use-case/overview"
+  }
+}

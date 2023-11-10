@@ -1,0 +1,35 @@
+{
+  "unversionedId": "enterprise/getting-started/start-using-hasura-ee",
+  "id": "enterprise/getting-started/start-using-hasura-ee",
+  "title": "Start Using Hasura Enterprise Edition",
+  "description": "Start using Hasura Enterprise Edition",
+  "source": "@site/docs/enterprise/getting-started/start-using-hasura-ee.mdx",
+  "sourceDirName": "enterprise/getting-started",
+  "slug": "/enterprise/getting-started/start-using-hasura-ee",
+  "permalink": "/docs/latest/enterprise/getting-started/start-using-hasura-ee",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/enterprise/getting-started/start-using-hasura-ee.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Start using Hasura Enterprise Edition",
+    "description": "Start using Hasura Enterprise Edition",
+    "title": "Start Using Hasura Enterprise Edition",
+    "keywords": [
+      "hasura",
+      "docs",
+      "enterprise"
+    ],
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Quickstart with Google Cloud Run",
+    "permalink": "/docs/latest/enterprise/getting-started/quickstart-google-cloud-run"
+  },
+  "next": {
+    "title": "SSO",
+    "permalink": "/docs/latest/enterprise/sso/index"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "unversionedId": "api-reference/schema-metadata-api/restified-endpoints",
+  "id": "api-reference/schema-metadata-api/restified-endpoints",
+  "title": "Schema/Metadata API Reference: RESTified GraphQL Endpoints (Deprecated)",
+  "description": "Manage RESTified endpoints with the Hasura schema/Metadata API",
+  "source": "@site/docs/api-reference/schema-metadata-api/restified-endpoints.mdx",
+  "sourceDirName": "api-reference/schema-metadata-api",
+  "slug": "/api-reference/schema-metadata-api/restified-endpoints",
+  "permalink": "/docs/latest/api-reference/schema-metadata-api/restified-endpoints",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/schema-metadata-api/restified-endpoints.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_label": "RESTified GraphQL endpoints",
+    "sidebar_position": 13,
+    "description": "Manage RESTified endpoints with the Hasura schema/Metadata API",
+    "keywords": [
+      "hasura",
+      "docs",
+      "restified-endpoints/Metadata API",
+      "API reference",
+      "RESTified endpoints"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Query collections",
+    "permalink": "/docs/latest/api-reference/schema-metadata-api/query-collections"
+  },
+  "next": {
+    "title": "Custom types",
+    "permalink": "/docs/latest/api-reference/schema-metadata-api/custom-types"
+  }
+}

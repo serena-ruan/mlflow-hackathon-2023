@@ -1,0 +1,37 @@
+{
+  "unversionedId": "actions/open-api",
+  "id": "actions/open-api",
+  "title": "Import Action from OpenAPI Spec",
+  "description": "Import an Action from an OpenAPI spec",
+  "source": "@site/docs/actions/open-api.mdx",
+  "sourceDirName": "actions",
+  "slug": "/actions/open-api",
+  "permalink": "/docs/latest/actions/open-api",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/actions/open-api.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "OpenAPI spec import",
+    "sidebar_position": 4,
+    "description": "Import an Action from an OpenAPI spec",
+    "keywords": [
+      "hasura",
+      "docs",
+      "actions",
+      "import",
+      "openapi"
+    ],
+    "sidebar_class_name": "cloud-and-enterprise-icon"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Async Actions",
+    "permalink": "/docs/latest/actions/async-actions"
+  },
+  "next": {
+    "title": "Actions Codegen",
+    "permalink": "/docs/latest/actions/codegen/index"
+  }
+}

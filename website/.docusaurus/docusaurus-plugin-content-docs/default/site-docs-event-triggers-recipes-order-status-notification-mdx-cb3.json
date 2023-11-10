@@ -1,0 +1,39 @@
+{
+  "unversionedId": "event-triggers/recipes/order-status-notification",
+  "id": "event-triggers/recipes/order-status-notification",
+  "title": "Using Event Triggers to send order-status-change notifications.",
+  "description": "Succinct, tested, and reusable code recipes for common use cases in Hasura.",
+  "source": "@site/docs/event-triggers/recipes/order-status-notification.mdx",
+  "sourceDirName": "event-triggers/recipes",
+  "slug": "/event-triggers/recipes/order-status-notification",
+  "permalink": "/docs/latest/event-triggers/recipes/order-status-notification",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/event-triggers/recipes/order-status-notification.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Using Event Triggers to send order-status-change notifications.",
+    "description": "Succinct, tested, and reusable code recipes for common use cases in Hasura.",
+    "sidebar_label": "Send a Notification when a Value Changes",
+    "keywords": [
+      "hasura",
+      "docs",
+      "recipes",
+      "event triggers",
+      "order",
+      "status change",
+      "notifications"
+    ],
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Send an Email when a User Signs Up",
+    "permalink": "/docs/latest/event-triggers/recipes/new-user-welcome"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/latest/scheduled-triggers/overview"
+  }
+}

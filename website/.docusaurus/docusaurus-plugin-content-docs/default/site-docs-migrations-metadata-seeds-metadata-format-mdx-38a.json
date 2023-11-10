@@ -1,0 +1,35 @@
+{
+  "unversionedId": "migrations-metadata-seeds/metadata-format",
+  "id": "migrations-metadata-seeds/metadata-format",
+  "title": "Metadata Format Reference",
+  "description": "Metadata formats",
+  "source": "@site/docs/migrations-metadata-seeds/metadata-format.mdx",
+  "sourceDirName": "migrations-metadata-seeds",
+  "slug": "/migrations-metadata-seeds/metadata-format",
+  "permalink": "/docs/latest/migrations-metadata-seeds/metadata-format",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/migrations-metadata-seeds/metadata-format.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Metadata format",
+    "sidebar_position": 6,
+    "description": "Metadata formats",
+    "keywords": [
+      "hasura",
+      "format",
+      "Metadata"
+    ],
+    "toc_max_heading_level": 6
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Manage Seeds",
+    "permalink": "/docs/latest/migrations-metadata-seeds/manage-seeds"
+  },
+  "next": {
+    "title": "Auto-apply Migrations and Metadata",
+    "permalink": "/docs/latest/migrations-metadata-seeds/auto-apply-migrations"
+  }
+}

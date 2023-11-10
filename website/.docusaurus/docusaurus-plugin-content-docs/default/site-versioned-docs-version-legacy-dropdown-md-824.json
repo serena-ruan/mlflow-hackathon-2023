@@ -1,0 +1,25 @@
+{
+  "unversionedId": "dropdown",
+  "id": "version-legacy/dropdown",
+  "title": "Dropdown Search-UI",
+  "description": "Once your Algolia DocSearch index is ready, set up, and filled with the right data, you will need to integrate our dedicated Search-UI. To add the dropdown of results below your search input, you'll have to include our DocSearch library into your website as per the following example.",
+  "source": "@site/versioned_docs/version-legacy/dropdown.md",
+  "sourceDirName": ".",
+  "slug": "/dropdown",
+  "permalink": "/docs/legacy/dropdown",
+  "draft": false,
+  "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/versioned_docs/version-legacy/dropdown.md",
+  "tags": [],
+  "version": "legacy",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Dropdown Search-UI"
+  },
+  "sidebar": "version-legacy/docs",
+  "next": {
+    "title": "Styling DocSearch",
+    "permalink": "/docs/legacy/styling"
+  }
+}

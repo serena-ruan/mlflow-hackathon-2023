@@ -1,0 +1,38 @@
+{
+  "unversionedId": "hasura-cloud/sso",
+  "id": "hasura-cloud/sso",
+  "title": "Enterprise Edition: Enable SSO through SAML",
+  "description": "Enable single sign-on (SSO) for Hasura Enterprise through the SAML 2.0 protocol",
+  "source": "@site/docs/hasura-cloud/sso.mdx",
+  "sourceDirName": "hasura-cloud",
+  "slug": "/hasura-cloud/sso",
+  "permalink": "/docs/latest/hasura-cloud/sso",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cloud/sso.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 80,
+  "frontMatter": {
+    "sidebar_label": "SSO",
+    "description": "Enable single sign-on (SSO) for Hasura Enterprise through the SAML 2.0 protocol",
+    "title": "Enterprise Edition: Enable SSO through SAML",
+    "keywords": [
+      "hasura",
+      "docs",
+      "enterprise",
+      "single sign on",
+      "SSO",
+      "SAML"
+    ],
+    "sidebar_position": 80
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Disaster recovery",
+    "permalink": "/docs/latest/hasura-cloud/disaster-recovery"
+  },
+  "next": {
+    "title": "GraphQL API Explorer",
+    "permalink": "/docs/latest/hasura-cloud/graphql-api-explorer/index"
+  }
+}

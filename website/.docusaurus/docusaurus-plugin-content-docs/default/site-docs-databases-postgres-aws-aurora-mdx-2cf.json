@@ -1,0 +1,37 @@
+{
+  "unversionedId": "databases/postgres/aws-aurora",
+  "id": "databases/postgres/aws-aurora",
+  "title": "Cloud: Using Hasura Cloud with an AWS RDS Aurora Postgres database",
+  "description": "Using Hasura with an AWS RDS Aurora database",
+  "source": "@site/docs/databases/postgres/aws-aurora.mdx",
+  "sourceDirName": "databases/postgres",
+  "slug": "/databases/postgres/aws-aurora",
+  "permalink": "/docs/latest/databases/postgres/aws-aurora",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/postgres/aws-aurora.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "description": "Using Hasura with an AWS RDS Aurora database",
+    "title": "Cloud: Using Hasura Cloud with an AWS RDS Aurora Postgres database",
+    "keywords": [
+      "hasura",
+      "docs",
+      "existing database",
+      "guide",
+      "aws rds aurora"
+    ],
+    "sidebar_label": "AWS RDS Aurora Postgres",
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "AlloyDB Postgres",
+    "permalink": "/docs/latest/databases/postgres/alloy"
+  },
+  "next": {
+    "title": "AWS RDS Postgres",
+    "permalink": "/docs/latest/databases/postgres/aws-postgres"
+  }
+}

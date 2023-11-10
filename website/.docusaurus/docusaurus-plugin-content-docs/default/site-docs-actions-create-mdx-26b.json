@@ -1,0 +1,35 @@
+{
+  "unversionedId": "actions/create",
+  "id": "actions/create",
+  "title": "Create Actions",
+  "description": "Create Hasura Actions",
+  "source": "@site/docs/actions/create.mdx",
+  "sourceDirName": "actions",
+  "slug": "/actions/create",
+  "permalink": "/docs/latest/actions/create",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/actions/create.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Create Actions",
+    "sidebar_position": 3,
+    "description": "Create Hasura Actions",
+    "keywords": [
+      "hasura",
+      "docs",
+      "actions",
+      "create"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Action handlers",
+    "permalink": "/docs/latest/actions/action-handlers"
+  },
+  "next": {
+    "title": "Async Actions",
+    "permalink": "/docs/latest/actions/async-actions"
+  }
+}

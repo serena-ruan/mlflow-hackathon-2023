@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cloud/disaster-recovery",
+  "id": "hasura-cloud/disaster-recovery",
+  "title": "Disaster Recovery and Passive Standby Config for Hasura Cloud",
+  "description": "Disaster recovery and passive standby on Hasura Cloud",
+  "source": "@site/docs/hasura-cloud/disaster-recovery.mdx",
+  "sourceDirName": "hasura-cloud",
+  "slug": "/hasura-cloud/disaster-recovery",
+  "permalink": "/docs/latest/hasura-cloud/disaster-recovery",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cloud/disaster-recovery.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 70,
+  "frontMatter": {
+    "description": "Disaster recovery and passive standby on Hasura Cloud",
+    "keywords": [
+      "hasura",
+      "disaster",
+      "recovery",
+      "SLA"
+    ],
+    "sidebar_label": "Disaster recovery",
+    "sidebar_position": 70
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "High-availability configuration",
+    "permalink": "/docs/latest/hasura-cloud/high-availability"
+  },
+  "next": {
+    "title": "SSO",
+    "permalink": "/docs/latest/hasura-cloud/sso"
+  }
+}

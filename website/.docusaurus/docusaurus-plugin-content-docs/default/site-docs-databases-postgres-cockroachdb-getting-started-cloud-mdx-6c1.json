@@ -1,0 +1,36 @@
+{
+  "unversionedId": "databases/postgres/cockroachdb/getting-started/cloud",
+  "id": "databases/postgres/cockroachdb/getting-started/cloud",
+  "title": "Get Started with Hasura Cloud & CockroachDB",
+  "description": "Hasura Cloud for CockroachDB",
+  "source": "@site/docs/databases/postgres/cockroachdb/getting-started/cloud.mdx",
+  "sourceDirName": "databases/postgres/cockroachdb/getting-started",
+  "slug": "/databases/postgres/cockroachdb/getting-started/cloud",
+  "permalink": "/docs/latest/databases/postgres/cockroachdb/getting-started/cloud",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/postgres/cockroachdb/getting-started/cloud.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Hasura Cloud",
+    "sidebar_position": 1,
+    "description": "Hasura Cloud for CockroachDB",
+    "keywords": [
+      "hasura",
+      "docs",
+      "databases",
+      "cockroachdb",
+      "hasura-cloud"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Get Started with CockroachDB",
+    "permalink": "/docs/latest/databases/postgres/cockroachdb/getting-started/index"
+  },
+  "next": {
+    "title": "Docker",
+    "permalink": "/docs/latest/databases/postgres/cockroachdb/getting-started/docker"
+  }
+}

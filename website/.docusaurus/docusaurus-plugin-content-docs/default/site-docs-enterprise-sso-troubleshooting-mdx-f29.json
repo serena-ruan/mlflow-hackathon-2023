@@ -1,0 +1,40 @@
+{
+  "unversionedId": "enterprise/sso/troubleshooting",
+  "id": "enterprise/sso/troubleshooting",
+  "title": "EE: Troubleshoot SSO",
+  "description": "Troubleshoot SSO Errors for Hasura Enterprise Edition",
+  "source": "@site/docs/enterprise/sso/troubleshooting.mdx",
+  "sourceDirName": "enterprise/sso",
+  "slug": "/enterprise/sso/troubleshooting",
+  "permalink": "/docs/latest/enterprise/sso/troubleshooting",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/enterprise/sso/troubleshooting.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_label": "Troubleshooting",
+    "description": "Troubleshoot SSO Errors for Hasura Enterprise Edition",
+    "title": "EE: Troubleshoot SSO",
+    "keywords": [
+      "hasura",
+      "console",
+      "docs",
+      "enterprise",
+      "single sign on",
+      "SSO",
+      "SAML",
+      "troubleshooting"
+    ],
+    "sidebar_position": 8
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "LDAP",
+    "permalink": "/docs/latest/enterprise/sso/ldap"
+  },
+  "next": {
+    "title": "Release notes",
+    "permalink": "/docs/latest/enterprise/release-notes"
+  }
+}

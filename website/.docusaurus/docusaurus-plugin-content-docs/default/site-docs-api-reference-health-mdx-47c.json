@@ -1,0 +1,35 @@
+{
+  "unversionedId": "api-reference/health",
+  "id": "api-reference/health",
+  "title": "Health Check API Reference",
+  "description": "Hasura health API reference",
+  "source": "@site/docs/api-reference/health.mdx",
+  "sourceDirName": "api-reference",
+  "slug": "/api-reference/health",
+  "permalink": "/docs/latest/api-reference/health",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/health.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_label": "Health Check API",
+    "sidebar_position": 8,
+    "description": "Hasura health API reference",
+    "keywords": [
+      "hasura",
+      "docs",
+      "health API",
+      "API reference"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Version API",
+    "permalink": "/docs/latest/api-reference/version"
+  },
+  "next": {
+    "title": "PG Dump API",
+    "permalink": "/docs/latest/api-reference/pgdump"
+  }
+}

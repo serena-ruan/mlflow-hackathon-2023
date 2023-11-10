@@ -1,0 +1,36 @@
+{
+  "unversionedId": "mutations/ms-sql-server/insert",
+  "id": "mutations/ms-sql-server/insert",
+  "title": "MS SQL Server: Insert Mutation",
+  "description": "Insert an object into MS SQL Server using a mutation",
+  "source": "@site/docs/mutations/ms-sql-server/insert.mdx",
+  "sourceDirName": "mutations/ms-sql-server",
+  "slug": "/mutations/ms-sql-server/insert",
+  "permalink": "/docs/latest/mutations/ms-sql-server/insert",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/mutations/ms-sql-server/insert.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Insert",
+    "sidebar_position": 1,
+    "description": "Insert an object into MS SQL Server using a mutation",
+    "keywords": [
+      "hasura",
+      "docs",
+      "ms sql server",
+      "mutation",
+      "insert"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "MS SQL Server: GraphQL Mutations",
+    "permalink": "/docs/latest/mutations/ms-sql-server/index"
+  },
+  "next": {
+    "title": "Upsert",
+    "permalink": "/docs/latest/mutations/ms-sql-server/upsert"
+  }
+}

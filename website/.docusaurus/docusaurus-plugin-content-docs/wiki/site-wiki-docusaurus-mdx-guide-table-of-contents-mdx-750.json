@@ -1,0 +1,30 @@
+{
+  "unversionedId": "docusaurus-mdx-guide/table-of-contents",
+  "id": "docusaurus-mdx-guide/table-of-contents",
+  "title": "Table of Contents",
+  "description": "Two ways to list table of contents.",
+  "source": "@site/wiki/docusaurus-mdx-guide/table-of-contents.mdx",
+  "sourceDirName": "docusaurus-mdx-guide",
+  "slug": "/docusaurus-mdx-guide/table-of-contents",
+  "permalink": "/docs/wiki/docusaurus-mdx-guide/table-of-contents",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/docusaurus-mdx-guide/table-of-contents.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "wiki",
+  "previous": {
+    "title": "Links",
+    "permalink": "/docs/wiki/docusaurus-mdx-guide/links"
+  },
+  "next": {
+    "title": "Code Blocks",
+    "permalink": "/docs/wiki/docusaurus-mdx-guide/code-blocks"
+  }
+}

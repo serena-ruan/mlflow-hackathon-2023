@@ -1,0 +1,36 @@
+{
+  "unversionedId": "queries/bigquery/pagination",
+  "id": "queries/bigquery/pagination",
+  "title": "BigQuery: Paginate Query Results",
+  "description": "Manage pagination on BigQuery in Hasura",
+  "source": "@site/docs/queries/bigquery/pagination.mdx",
+  "sourceDirName": "queries/bigquery",
+  "slug": "/queries/bigquery/pagination",
+  "permalink": "/docs/latest/queries/bigquery/pagination",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/queries/bigquery/pagination.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_label": "Paginate query results",
+    "sidebar_position": 7,
+    "description": "Manage pagination on BigQuery in Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "bigquery",
+      "query",
+      "pagination"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Distinct query results",
+    "permalink": "/docs/latest/queries/bigquery/distinct-queries"
+  },
+  "next": {
+    "title": "Use multiple arguments",
+    "permalink": "/docs/latest/queries/bigquery/multiple-arguments"
+  }
+}

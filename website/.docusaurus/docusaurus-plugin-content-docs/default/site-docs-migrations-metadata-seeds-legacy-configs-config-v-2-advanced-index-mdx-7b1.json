@@ -1,0 +1,35 @@
+{
+  "unversionedId": "migrations-metadata-seeds/legacy-configs/config-v2/advanced/index",
+  "id": "migrations-metadata-seeds/legacy-configs/config-v2/advanced/index",
+  "title": "Advanced use cases",
+  "description": "Examples for advanced Hasura Migration use cases",
+  "source": "@site/docs/migrations-metadata-seeds/legacy-configs/config-v2/advanced/index.mdx",
+  "sourceDirName": "migrations-metadata-seeds/legacy-configs/config-v2/advanced",
+  "slug": "/migrations-metadata-seeds/legacy-configs/config-v2/advanced/index",
+  "permalink": "/docs/latest/migrations-metadata-seeds/legacy-configs/config-v2/advanced/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/migrations-metadata-seeds/legacy-configs/config-v2/advanced/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Advanced use cases",
+    "description": "Examples for advanced Hasura Migration use cases",
+    "keywords": [
+      "hasura",
+      "docs",
+      "migration",
+      "advanced",
+      "use case"
+    ],
+    "slug": "index"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Manage Metadata",
+    "permalink": "/docs/latest/migrations-metadata-seeds/legacy-configs/config-v2/manage-metadata"
+  },
+  "next": {
+    "title": "Auto-apply Migrations/Metadata when the server starts (config v2)",
+    "permalink": "/docs/latest/migrations-metadata-seeds/legacy-configs/config-v2/advanced/auto-apply-migrations"
+  }
+}

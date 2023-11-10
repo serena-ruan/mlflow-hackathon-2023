@@ -1,0 +1,38 @@
+{
+  "unversionedId": "enterprise/try-hasura-enterprise-edition",
+  "id": "enterprise/try-hasura-enterprise-edition",
+  "title": "Enterprise Edition Trial: Explore Hasura Enterprise Edition for 30 days",
+  "description": "A guide to try Hasura Enterprise Edition",
+  "source": "@site/docs/enterprise/try-hasura-enterprise-edition.mdx",
+  "sourceDirName": "enterprise",
+  "slug": "/enterprise/try-hasura-enterprise-edition",
+  "permalink": "/docs/latest/enterprise/try-hasura-enterprise-edition",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/enterprise/try-hasura-enterprise-edition.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Try Hasura Enterprise",
+    "description": "A guide to try Hasura Enterprise Edition",
+    "title": "Enterprise Edition Trial: Explore Hasura Enterprise Edition for 30 days",
+    "keywords": [
+      "hasura",
+      "docs",
+      "enterprise",
+      "ee",
+      "trial"
+    ],
+    "sidebar_position": 2,
+    "toc_max_heading_level": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/latest/enterprise/overview"
+  },
+  "next": {
+    "title": "Get started",
+    "permalink": "/docs/latest/enterprise/getting-started/index"
+  }
+}

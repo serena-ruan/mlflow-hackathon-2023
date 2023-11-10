@@ -1,0 +1,35 @@
+{
+  "unversionedId": "schema/postgres/postgres-guides/indexes",
+  "id": "schema/postgres/postgres-guides/indexes",
+  "title": "Postgres Indexes",
+  "description": "Use Postgres indexes with Hasura",
+  "source": "@site/docs/schema/postgres/postgres-guides/indexes.mdx",
+  "sourceDirName": "schema/postgres/postgres-guides",
+  "slug": "/schema/postgres/postgres-guides/indexes",
+  "permalink": "/docs/latest/schema/postgres/postgres-guides/indexes",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/postgres/postgres-guides/indexes.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "description": "Use Postgres indexes with Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "postgres",
+      "indexes"
+    ],
+    "sidebar_position": 6,
+    "sidebar_label": "Indexes"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Triggers",
+    "permalink": "/docs/latest/schema/postgres/postgres-guides/triggers"
+  },
+  "next": {
+    "title": "Import data from CSV",
+    "permalink": "/docs/latest/schema/postgres/postgres-guides/import-data-from-csv"
+  }
+}

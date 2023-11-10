@@ -1,0 +1,37 @@
+{
+  "unversionedId": "queries/postgres/filters/using-computed-fields",
+  "id": "queries/postgres/filters/using-computed-fields",
+  "title": "Postgres: Filter Using Values of Computed Fields",
+  "description": "Filter query results and search queries on Postgres in Hasura",
+  "source": "@site/docs/queries/postgres/filters/using-computed-fields.mdx",
+  "sourceDirName": "queries/postgres/filters",
+  "slug": "/queries/postgres/filters/using-computed-fields",
+  "permalink": "/docs/latest/queries/postgres/filters/using-computed-fields",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/queries/postgres/filters/using-computed-fields.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_label": "Filter using values of computed fields",
+    "sidebar_position": 8,
+    "description": "Filter query results and search queries on Postgres in Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "postgres",
+      "query",
+      "filter",
+      "search"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Filter based on fields of nested objects",
+    "permalink": "/docs/latest/queries/postgres/filters/using-nested-objects"
+  },
+  "next": {
+    "title": "Sort query results",
+    "permalink": "/docs/latest/queries/postgres/sorting"
+  }
+}

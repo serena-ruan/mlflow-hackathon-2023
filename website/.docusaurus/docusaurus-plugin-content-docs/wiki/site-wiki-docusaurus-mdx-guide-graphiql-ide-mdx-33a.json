@@ -1,0 +1,30 @@
+{
+  "unversionedId": "docusaurus-mdx-guide/graphiql-ide",
+  "id": "docusaurus-mdx-guide/graphiql-ide",
+  "title": "GraphiQL IDE",
+  "description": "We use graphiql editor wherever applicable for example showcase throughout docs.",
+  "source": "@site/wiki/docusaurus-mdx-guide/graphiql-ide.mdx",
+  "sourceDirName": "docusaurus-mdx-guide",
+  "slug": "/docusaurus-mdx-guide/graphiql-ide",
+  "permalink": "/docs/wiki/docusaurus-mdx-guide/graphiql-ide",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/docusaurus-mdx-guide/graphiql-ide.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "wiki",
+  "previous": {
+    "title": "Tabs",
+    "permalink": "/docs/wiki/docusaurus-mdx-guide/tabs"
+  },
+  "next": {
+    "title": "Thumbnail",
+    "permalink": "/docs/wiki/docusaurus-mdx-guide/thumbnail"
+  }
+}

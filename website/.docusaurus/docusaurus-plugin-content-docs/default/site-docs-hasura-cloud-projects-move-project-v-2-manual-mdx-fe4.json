@@ -1,0 +1,38 @@
+{
+  "unversionedId": "hasura-cloud/projects/move-project-v2-manual",
+  "id": "hasura-cloud/projects/move-project-v2-manual",
+  "title": "Cloud: Manually move Hasura Cloud v1.3 Projects to Hasura v2.0",
+  "description": "Move Project to v2",
+  "source": "@site/docs/hasura-cloud/projects/move-project-v2-manual.mdx",
+  "sourceDirName": "hasura-cloud/projects",
+  "slug": "/hasura-cloud/projects/move-project-v2-manual",
+  "permalink": "/docs/latest/hasura-cloud/projects/move-project-v2-manual",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cloud/projects/move-project-v2-manual.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 18,
+  "frontMatter": {
+    "description": "Move Project to v2",
+    "title": "Cloud: Manually move Hasura Cloud v1.3 Projects to Hasura v2.0",
+    "keywords": [
+      "hasura",
+      "docs",
+      "project",
+      "upgrade",
+      "move",
+      "v2"
+    ],
+    "sidebar_position": 18,
+    "sidebar_label": "Move Project to v2"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Move a Project",
+    "permalink": "/docs/latest/hasura-cloud/projects/move-project-manual"
+  },
+  "next": {
+    "title": "Account management",
+    "permalink": "/docs/latest/hasura-cloud/account-management/index"
+  }
+}

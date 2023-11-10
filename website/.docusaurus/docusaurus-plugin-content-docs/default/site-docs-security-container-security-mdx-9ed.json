@@ -1,0 +1,35 @@
+{
+  "unversionedId": "security/container-security",
+  "id": "security/container-security",
+  "title": "Container Security",
+  "description": "Container security of Hasura GraphQL Engine images",
+  "source": "@site/docs/security/container-security.mdx",
+  "sourceDirName": "security",
+  "slug": "/security/container-security",
+  "permalink": "/docs/latest/security/container-security",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/security/container-security.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "description": "Container security of Hasura GraphQL Engine images",
+    "sidebar_label": "Container Security",
+    "keywords": [
+      "hasura",
+      "docs",
+      "deployment",
+      "container"
+    ],
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Allow List",
+    "permalink": "/docs/latest/security/allow-list"
+  },
+  "next": {
+    "title": "API limits",
+    "permalink": "/docs/latest/security/api-limits"
+  }
+}

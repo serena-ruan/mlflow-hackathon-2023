@@ -1,0 +1,39 @@
+{
+  "unversionedId": "mutations/quickstart",
+  "id": "mutations/quickstart",
+  "title": "Quickstart Mutations",
+  "description": "Quickstart Mutations",
+  "source": "@site/docs/mutations/quickstart.mdx",
+  "sourceDirName": "mutations",
+  "slug": "/mutations/quickstart",
+  "permalink": "/docs/latest/mutations/quickstart",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/mutations/quickstart.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "Quickstart Mutations",
+    "title": "Quickstart Mutations",
+    "keywords": [
+      "hasura",
+      "docs",
+      "mutations",
+      "quickstart",
+      "guide",
+      "tutorial"
+    ],
+    "sidebar_label": "Quickstart",
+    "toc_max_heading_level": 2,
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/latest/mutations/overview"
+  },
+  "next": {
+    "title": "Postgres: GraphQL Mutations",
+    "permalink": "/docs/latest/mutations/postgres/index"
+  }
+}

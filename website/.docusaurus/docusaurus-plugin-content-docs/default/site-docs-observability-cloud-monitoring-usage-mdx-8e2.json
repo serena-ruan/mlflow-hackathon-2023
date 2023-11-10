@@ -1,0 +1,37 @@
+{
+  "unversionedId": "observability/cloud-monitoring/usage",
+  "id": "observability/cloud-monitoring/usage",
+  "title": "Cloud: Usage summaries",
+  "description": "Hasura Cloud usage analysis",
+  "source": "@site/docs/observability/cloud-monitoring/usage.mdx",
+  "sourceDirName": "observability/cloud-monitoring",
+  "slug": "/observability/cloud-monitoring/usage",
+  "permalink": "/docs/latest/observability/cloud-monitoring/usage",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/observability/cloud-monitoring/usage.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "sidebar_label": "Usage summaries",
+    "description": "Hasura Cloud usage analysis",
+    "title": "Cloud: Usage summaries",
+    "keywords": [
+      "hasura",
+      "docs",
+      "cloud",
+      "reliability",
+      "usage"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Errors",
+    "permalink": "/docs/latest/observability/cloud-monitoring/errors"
+  },
+  "next": {
+    "title": "Operations",
+    "permalink": "/docs/latest/observability/cloud-monitoring/operations"
+  }
+}

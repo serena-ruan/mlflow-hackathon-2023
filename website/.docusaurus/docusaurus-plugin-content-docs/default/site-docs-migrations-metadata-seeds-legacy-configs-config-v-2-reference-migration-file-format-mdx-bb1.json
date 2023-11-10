@@ -1,0 +1,35 @@
+{
+  "unversionedId": "migrations-metadata-seeds/legacy-configs/config-v2/reference/migration-file-format",
+  "id": "migrations-metadata-seeds/legacy-configs/config-v2/reference/migration-file-format",
+  "title": "Migration File Format Reference (config v2)",
+  "description": "Hasura Migration file format reference",
+  "source": "@site/docs/migrations-metadata-seeds/legacy-configs/config-v2/reference/migration-file-format.mdx",
+  "sourceDirName": "migrations-metadata-seeds/legacy-configs/config-v2/reference",
+  "slug": "/migrations-metadata-seeds/legacy-configs/config-v2/reference/migration-file-format",
+  "permalink": "/docs/latest/migrations-metadata-seeds/legacy-configs/config-v2/reference/migration-file-format",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/migrations-metadata-seeds/legacy-configs/config-v2/reference/migration-file-format.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Migration file format",
+    "sidebar_position": 2,
+    "description": "Hasura Migration file format reference",
+    "keywords": [
+      "hasura",
+      "docs",
+      "migration",
+      "file format"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "How Hasura Migrations work (config v2)",
+    "permalink": "/docs/latest/migrations-metadata-seeds/legacy-configs/config-v2/reference/how-it-works"
+  },
+  "next": {
+    "title": "Metadata format",
+    "permalink": "/docs/latest/migrations-metadata-seeds/legacy-configs/config-v2/reference/metadata-format"
+  }
+}

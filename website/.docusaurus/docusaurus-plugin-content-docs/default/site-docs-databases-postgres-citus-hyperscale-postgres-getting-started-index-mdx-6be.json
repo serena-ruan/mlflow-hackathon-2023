@@ -1,0 +1,33 @@
+{
+  "unversionedId": "databases/postgres/citus-hyperscale-postgres/getting-started/index",
+  "id": "databases/postgres/citus-hyperscale-postgres/getting-started/index",
+  "title": "Get Started with Citus - Hyperscale",
+  "description": "Get started with Hasura &amp; Citus - Hyperscale",
+  "source": "@site/docs/databases/postgres/citus-hyperscale-postgres/getting-started/index.mdx",
+  "sourceDirName": "databases/postgres/citus-hyperscale-postgres/getting-started",
+  "slug": "/databases/postgres/citus-hyperscale-postgres/getting-started/index",
+  "permalink": "/docs/latest/databases/postgres/citus-hyperscale-postgres/getting-started/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/postgres/citus-hyperscale-postgres/getting-started/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Get started with Hasura &amp; Citus - Hyperscale",
+    "keywords": [
+      "hasura",
+      "docs",
+      "databases",
+      "citus"
+    ],
+    "slug": "index"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Citus / Hyperscale",
+    "permalink": "/docs/latest/databases/postgres/citus-hyperscale-postgres/index"
+  },
+  "next": {
+    "title": "Hasura Cloud",
+    "permalink": "/docs/latest/databases/postgres/citus-hyperscale-postgres/getting-started/cloud"
+  }
+}

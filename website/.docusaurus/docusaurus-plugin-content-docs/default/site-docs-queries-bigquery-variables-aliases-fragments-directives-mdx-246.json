@@ -1,0 +1,39 @@
+{
+  "unversionedId": "queries/bigquery/variables-aliases-fragments-directives",
+  "id": "queries/bigquery/variables-aliases-fragments-directives",
+  "title": "Use Variables / Aliases / Fragments / Directives in Queries",
+  "description": "Use variables, aliases, fragments and directives in Hasura queries",
+  "source": "@site/docs/queries/bigquery/variables-aliases-fragments-directives.mdx",
+  "sourceDirName": "queries/bigquery",
+  "slug": "/queries/bigquery/variables-aliases-fragments-directives",
+  "permalink": "/docs/latest/queries/bigquery/variables-aliases-fragments-directives",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/queries/bigquery/variables-aliases-fragments-directives.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_label": "Use variables / aliases / fragments / directives",
+    "sidebar_position": 10,
+    "description": "Use variables, aliases, fragments and directives in Hasura queries",
+    "keywords": [
+      "hasura",
+      "docs",
+      "bigquery",
+      "query",
+      "variable",
+      "alias",
+      "fragment",
+      "directive"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Multiple queries in a request",
+    "permalink": "/docs/latest/queries/bigquery/multiple-queries"
+  },
+  "next": {
+    "title": "MS SQL Server: GraphQL Queries",
+    "permalink": "/docs/latest/queries/ms-sql-server/index"
+  }
+}

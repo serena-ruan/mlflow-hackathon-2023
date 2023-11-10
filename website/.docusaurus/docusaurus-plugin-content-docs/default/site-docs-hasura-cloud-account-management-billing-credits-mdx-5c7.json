@@ -1,0 +1,37 @@
+{
+  "unversionedId": "hasura-cloud/account-management/billing/credits",
+  "id": "hasura-cloud/account-management/billing/credits",
+  "title": "Cloud: Coupons and credits",
+  "description": "Hasura Cloud coupon and credits",
+  "source": "@site/docs/hasura-cloud/account-management/billing/credits.mdx",
+  "sourceDirName": "hasura-cloud/account-management/billing",
+  "slug": "/hasura-cloud/account-management/billing/credits",
+  "permalink": "/docs/latest/hasura-cloud/account-management/billing/credits",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cloud/account-management/billing/credits.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "description": "Hasura Cloud coupon and credits",
+    "title": "Cloud: Coupons and credits",
+    "keywords": [
+      "hasura",
+      "docs",
+      "cloud",
+      "coupon",
+      "credits"
+    ],
+    "sidebar_position": 3,
+    "sidebar_label": "Hasura Cloud credits"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Manage payment methods",
+    "permalink": "/docs/latest/hasura-cloud/account-management/billing/payment-methods"
+  },
+  "next": {
+    "title": "Hasura Cloud data usage calculation",
+    "permalink": "/docs/latest/hasura-cloud/account-management/billing/billing-data-calculation"
+  }
+}

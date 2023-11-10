@@ -1,0 +1,33 @@
+{
+  "unversionedId": "schema/ms-sql-server/index",
+  "id": "schema/ms-sql-server/index",
+  "title": "MS SQL Server",
+  "description": "Manage GraphQL schema over MS SQL Server with Hasura",
+  "source": "@site/docs/schema/ms-sql-server/index.mdx",
+  "sourceDirName": "schema/ms-sql-server",
+  "slug": "/schema/ms-sql-server/index",
+  "permalink": "/docs/latest/schema/ms-sql-server/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/ms-sql-server/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "index",
+    "description": "Manage GraphQL schema over MS SQL Server with Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "ms sql server",
+      "schema"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Supported BigQuery types",
+    "permalink": "/docs/latest/schema/bigquery/bigquery-types"
+  },
+  "next": {
+    "title": "Tables basics",
+    "permalink": "/docs/latest/schema/ms-sql-server/tables"
+  }
+}

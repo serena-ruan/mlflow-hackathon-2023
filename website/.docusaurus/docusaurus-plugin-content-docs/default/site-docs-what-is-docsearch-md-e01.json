@@ -1,0 +1,30 @@
+{
+  "unversionedId": "what-is-docsearch",
+  "id": "what-is-docsearch",
+  "title": "What is DocSearch?",
+  "description": "Why?",
+  "source": "@site/docs/what-is-docsearch.md",
+  "sourceDirName": ".",
+  "slug": "/what-is-docsearch",
+  "permalink": "/docs/what-is-docsearch",
+  "draft": false,
+  "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/what-is-docsearch.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "What is DocSearch?",
+    "sidebar_label": "What is DocSearch?"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "mlflow-doc-main",
+    "permalink": "/docs/mlflow-doc-main"
+  },
+  "next": {
+    "title": "Who can apply?",
+    "permalink": "/docs/who-can-apply"
+  }
+}

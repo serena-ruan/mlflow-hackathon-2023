@@ -1,0 +1,33 @@
+{
+  "unversionedId": "databases/oracle/index",
+  "id": "databases/oracle/index",
+  "title": "Oracle",
+  "description": "Hasura Oracle database support",
+  "source": "@site/docs/databases/oracle/index.mdx",
+  "sourceDirName": "databases/oracle",
+  "slug": "/databases/oracle/index",
+  "permalink": "/docs/latest/databases/oracle/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/oracle/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Hasura Oracle database support",
+    "keywords": [
+      "hasura",
+      "docs",
+      "databases",
+      "Oracle"
+    ],
+    "slug": "index"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Aiven MySQL",
+    "permalink": "/docs/latest/databases/mysql/aiven"
+  },
+  "next": {
+    "title": "Hasura Cloud",
+    "permalink": "/docs/latest/databases/oracle/cloud"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "unversionedId": "databases/mysql/aiven",
+  "id": "databases/mysql/aiven",
+  "title": "Cloud: Using Hasura Cloud with an Aiven MySQL database",
+  "description": "Learn how to connect Hasura Cloud to Aiven MySQL databases, including set up instructions, service configuration, and secure connection details.",
+  "source": "@site/docs/databases/mysql/aiven.mdx",
+  "sourceDirName": "databases/mysql",
+  "slug": "/databases/mysql/aiven",
+  "permalink": "/docs/latest/databases/mysql/aiven",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/mysql/aiven.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "description": "Learn how to connect Hasura Cloud to Aiven MySQL databases, including set up instructions, service configuration, and secure connection details.",
+    "title": "Cloud: Using Hasura Cloud with an Aiven MySQL database",
+    "keywords": [
+      "hasura cloud",
+      "aiven mysql integration",
+      "graphql database connection",
+      "mysql jdbc string",
+      "secure database setup",
+      "hasura console guide",
+      "cloud database management",
+      "mysql service configuration",
+      "aiven service creation",
+      "connect hasura to mysql"
+    ],
+    "sidebar_label": "Aiven MySQL",
+    "sidebar_position": 4,
+    "seoFrontMatterUpdated": true
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Google Cloud SQL for MySQL",
+    "permalink": "/docs/latest/databases/mysql/gcp"
+  },
+  "next": {
+    "title": "Oracle",
+    "permalink": "/docs/latest/databases/oracle/index"
+  }
+}

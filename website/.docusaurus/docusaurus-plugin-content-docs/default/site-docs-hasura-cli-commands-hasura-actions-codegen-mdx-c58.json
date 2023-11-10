@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/commands/hasura_actions_codegen",
+  "id": "hasura-cli/commands/hasura_actions_codegen",
+  "title": "Hasura CLI: hasura actions codegen",
+  "description": "Generate code for Actions using the Hasura CLI",
+  "source": "@site/docs/hasura-cli/commands/hasura_actions_codegen.mdx",
+  "sourceDirName": "hasura-cli/commands",
+  "slug": "/hasura-cli/commands/hasura_actions_codegen",
+  "permalink": "/docs/latest/hasura-cli/commands/hasura_actions_codegen",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/commands/hasura_actions_codegen.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "hasura actions codegen",
+    "sidebar_position": 3,
+    "description": "Generate code for Actions using the Hasura CLI",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "hasura actions codegen"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "hasura actions",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_actions"
+  },
+  "next": {
+    "title": "hasura actions create",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_actions_create"
+  }
+}

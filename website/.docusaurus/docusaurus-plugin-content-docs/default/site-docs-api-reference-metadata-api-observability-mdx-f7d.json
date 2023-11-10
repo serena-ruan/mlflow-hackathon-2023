@@ -1,0 +1,45 @@
+{
+  "unversionedId": "api-reference/metadata-api/observability",
+  "id": "api-reference/metadata-api/observability",
+  "title": "Metadata API Reference: Observability Options",
+  "description": "Manage observability options with the Hasura metadata API",
+  "source": "@site/docs/api-reference/metadata-api/observability.mdx",
+  "sourceDirName": "api-reference/metadata-api",
+  "slug": "/api-reference/metadata-api/observability",
+  "permalink": "/docs/latest/api-reference/metadata-api/observability",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/metadata-api/observability.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 24,
+  "frontMatter": {
+    "sidebar_label": "Observability Options",
+    "sidebar_position": 24,
+    "description": "Manage observability options with the Hasura metadata API",
+    "keywords": [
+      "hasura",
+      "docs",
+      "metadata API",
+      "API reference",
+      "observability options",
+      "opentelemetry",
+      "open telemetry",
+      "traces",
+      "tracing",
+      "metrics config",
+      "metrics",
+      "monitoring",
+      "enterprise",
+      "ee"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "API Limits",
+    "permalink": "/docs/latest/api-reference/metadata-api/api-limits"
+  },
+  "next": {
+    "title": "Schema / Metadata API Reference (Deprecated)",
+    "permalink": "/docs/latest/api-reference/schema-metadata-api/index"
+  }
+}

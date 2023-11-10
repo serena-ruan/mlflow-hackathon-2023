@@ -1,0 +1,36 @@
+{
+  "unversionedId": "api-reference/metadata-api/relationship",
+  "id": "api-reference/metadata-api/relationship",
+  "title": "Metadata API Reference: Relationships",
+  "description": "Use relationships with the Hasura Metadata API",
+  "source": "@site/docs/api-reference/metadata-api/relationship.mdx",
+  "sourceDirName": "api-reference/metadata-api",
+  "slug": "/api-reference/metadata-api/relationship",
+  "permalink": "/docs/latest/api-reference/metadata-api/relationship",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/metadata-api/relationship.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_label": "Relationships",
+    "sidebar_position": 7,
+    "description": "Use relationships with the Hasura Metadata API",
+    "keywords": [
+      "hasura",
+      "docs",
+      "Metadata API",
+      "API reference",
+      "relationship"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Custom functions",
+    "permalink": "/docs/latest/api-reference/metadata-api/custom-functions"
+  },
+  "next": {
+    "title": "Permissions",
+    "permalink": "/docs/latest/api-reference/metadata-api/permission"
+  }
+}

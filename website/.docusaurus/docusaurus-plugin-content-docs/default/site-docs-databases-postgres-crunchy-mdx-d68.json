@@ -1,0 +1,37 @@
+{
+  "unversionedId": "databases/postgres/crunchy",
+  "id": "databases/postgres/crunchy",
+  "title": "Cloud: Using Hasura Cloud with a Crunchy Postgres database",
+  "description": "Using Hasura with a Crunchy Postgres database",
+  "source": "@site/docs/databases/postgres/crunchy.mdx",
+  "sourceDirName": "databases/postgres",
+  "slug": "/databases/postgres/crunchy",
+  "permalink": "/docs/latest/databases/postgres/crunchy",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/postgres/crunchy.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "description": "Using Hasura with a Crunchy Postgres database",
+    "title": "Cloud: Using Hasura Cloud with a Crunchy Postgres database",
+    "keywords": [
+      "hasura",
+      "docs",
+      "existing database",
+      "guide",
+      "crunchy"
+    ],
+    "sidebar_label": "Crunchy Postgres",
+    "sidebar_position": 9
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Azure Postgres",
+    "permalink": "/docs/latest/databases/postgres/azure"
+  },
+  "next": {
+    "title": "DigitalOcean Postgres",
+    "permalink": "/docs/latest/databases/postgres/digital-ocean"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "unversionedId": "observability/cloud/azure-monitor",
+  "id": "observability/cloud/azure-monitor",
+  "title": "Cloud: Azure Monitor Integration",
+  "description": "Azure monitor Integration on Hasura Cloud",
+  "source": "@site/docs/observability/cloud/azure-monitor.mdx",
+  "sourceDirName": "observability/cloud",
+  "slug": "/observability/cloud/azure-monitor",
+  "permalink": "/docs/latest/observability/cloud/azure-monitor",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/observability/cloud/azure-monitor.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "description": "Azure monitor Integration on Hasura Cloud",
+    "title": "Cloud: Azure Monitor Integration",
+    "keywords": [
+      "hasura",
+      "docs",
+      "cloud",
+      "metrics",
+      "integration",
+      "export logs",
+      "azure monitor"
+    ],
+    "sidebar_label": "Azure Monitor"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "New Relic",
+    "permalink": "/docs/latest/observability/cloud/newrelic"
+  },
+  "next": {
+    "title": "EE: Observability integrations with external services",
+    "permalink": "/docs/latest/observability/enterprise-edition/index"
+  }
+}

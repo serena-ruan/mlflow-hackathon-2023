@@ -1,0 +1,35 @@
+{
+  "unversionedId": "actions/async-actions",
+  "id": "actions/async-actions",
+  "title": "Async Actions",
+  "description": "Async Actions",
+  "source": "@site/docs/actions/async-actions.mdx",
+  "sourceDirName": "actions",
+  "slug": "/actions/async-actions",
+  "permalink": "/docs/latest/actions/async-actions",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/actions/async-actions.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Async Actions",
+    "sidebar_position": 4,
+    "description": "Async Actions",
+    "keywords": [
+      "hasura",
+      "docs",
+      "actions",
+      "async actions"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Create Actions",
+    "permalink": "/docs/latest/actions/create"
+  },
+  "next": {
+    "title": "OpenAPI spec import",
+    "permalink": "/docs/latest/actions/open-api"
+  }
+}

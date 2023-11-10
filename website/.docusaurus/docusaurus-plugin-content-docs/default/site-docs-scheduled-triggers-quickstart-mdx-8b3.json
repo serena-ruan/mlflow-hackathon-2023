@@ -1,0 +1,38 @@
+{
+  "unversionedId": "scheduled-triggers/quickstart",
+  "id": "scheduled-triggers/quickstart",
+  "title": "Quickstart Scheduled Triggers",
+  "description": "Quickstart Scheduled Triggers",
+  "source": "@site/docs/scheduled-triggers/quickstart.mdx",
+  "sourceDirName": "scheduled-triggers",
+  "slug": "/scheduled-triggers/quickstart",
+  "permalink": "/docs/latest/scheduled-triggers/quickstart",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/scheduled-triggers/quickstart.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "Quickstart Scheduled Triggers",
+    "title": "Quickstart Scheduled Triggers",
+    "keywords": [
+      "hasura",
+      "docs",
+      "scheduled triggers",
+      "quickstart",
+      "guide",
+      "tutorial"
+    ],
+    "sidebar_label": "Quickstart",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/latest/scheduled-triggers/overview"
+  },
+  "next": {
+    "title": "How it works",
+    "permalink": "/docs/latest/scheduled-triggers/how-it-works"
+  }
+}

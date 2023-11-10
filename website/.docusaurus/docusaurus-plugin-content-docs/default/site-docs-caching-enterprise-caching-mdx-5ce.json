@@ -1,0 +1,39 @@
+{
+  "unversionedId": "caching/enterprise-caching",
+  "id": "caching/enterprise-caching",
+  "title": "Enterprise Edition: Enable GraphQL caching",
+  "description": "Caching in Hasura Enterprise Edition",
+  "source": "@site/docs/caching/enterprise-caching.mdx",
+  "sourceDirName": "caching",
+  "slug": "/caching/enterprise-caching",
+  "permalink": "/docs/latest/caching/enterprise-caching",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/caching/enterprise-caching.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Enable caching in EE",
+    "sidebar_position": 5,
+    "description": "Caching in Hasura Enterprise Edition",
+    "title": "Enterprise Edition: Enable GraphQL caching",
+    "sidebar_class_name": "enterprise-icon",
+    "keywords": [
+      "hasura",
+      "docs",
+      "enterprise",
+      "graphql engine",
+      "data plane",
+      "caching"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Caching Config",
+    "permalink": "/docs/latest/caching/caching-config"
+  },
+  "next": {
+    "title": "Caching Metrics",
+    "permalink": "/docs/latest/caching/caching-metrics"
+  }
+}

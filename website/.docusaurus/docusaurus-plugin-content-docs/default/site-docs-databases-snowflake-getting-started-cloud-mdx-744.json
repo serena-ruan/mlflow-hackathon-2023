@@ -1,0 +1,36 @@
+{
+  "unversionedId": "databases/snowflake/getting-started/cloud",
+  "id": "databases/snowflake/getting-started/cloud",
+  "title": "Get Started with Hasura Cloud & Snowflake",
+  "description": "Hasura Cloud for Snowflake",
+  "source": "@site/docs/databases/snowflake/getting-started/cloud.mdx",
+  "sourceDirName": "databases/snowflake/getting-started",
+  "slug": "/databases/snowflake/getting-started/cloud",
+  "permalink": "/docs/latest/databases/snowflake/getting-started/cloud",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/snowflake/getting-started/cloud.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Hasura Cloud",
+    "sidebar_position": 1,
+    "description": "Hasura Cloud for Snowflake",
+    "keywords": [
+      "hasura",
+      "docs",
+      "databases",
+      "snowflake",
+      "hasura cloud"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Get Started with Snowflake",
+    "permalink": "/docs/latest/databases/snowflake/getting-started/index"
+  },
+  "next": {
+    "title": "Docker",
+    "permalink": "/docs/latest/databases/snowflake/getting-started/docker"
+  }
+}

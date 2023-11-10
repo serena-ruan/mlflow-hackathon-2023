@@ -1,0 +1,41 @@
+{
+  "unversionedId": "databases/mongodb/cloud",
+  "id": "databases/mongodb/cloud",
+  "title": "Get Started with MongoDB in Hasura Cloud",
+  "description": "A comprehensive guide to setting up MongoDB with Hasura Cloud. Learn how to connect your MongoDB database, track collections, and execute GraphQL queries seamlessly using Hasura Cloud's intuitive interface.",
+  "source": "@site/docs/databases/mongodb/cloud.mdx",
+  "sourceDirName": "databases/mongodb",
+  "slug": "/databases/mongodb/cloud",
+  "permalink": "/docs/latest/databases/mongodb/cloud",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/mongodb/cloud.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Hasura Cloud",
+    "sidebar_position": 1,
+    "description": "A comprehensive guide to setting up MongoDB with Hasura Cloud. Learn how to connect your MongoDB database, track collections, and execute GraphQL queries seamlessly using Hasura Cloud's intuitive interface.",
+    "keywords": [
+      "hasura cloud mongodb",
+      "mongodb integration",
+      "graphql data connector",
+      "connect mongodb to hasura",
+      "track mongodb collections",
+      "graphql api with mongodb",
+      "hasura graphql engine",
+      "mongodb graphql query",
+      "hasura cloud project",
+      "mongodb database connection"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "MongoDB",
+    "permalink": "/docs/latest/databases/mongodb/index"
+  },
+  "next": {
+    "title": "Docker",
+    "permalink": "/docs/latest/databases/mongodb/docker"
+  }
+}

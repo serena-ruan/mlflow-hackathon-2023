@@ -1,0 +1,29 @@
+{
+  "unversionedId": "record-extractor",
+  "id": "record-extractor",
+  "title": "Record Extractor",
+  "description": "Introduction",
+  "source": "@site/docs/record-extractor.md",
+  "sourceDirName": ".",
+  "slug": "/record-extractor",
+  "permalink": "/docs/record-extractor",
+  "draft": false,
+  "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/record-extractor.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Record Extractor"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Migrating from DocSearch v2",
+    "permalink": "/docs/migrating-from-v2"
+  },
+  "next": {
+    "title": "Config templates",
+    "permalink": "/docs/templates"
+  }
+}

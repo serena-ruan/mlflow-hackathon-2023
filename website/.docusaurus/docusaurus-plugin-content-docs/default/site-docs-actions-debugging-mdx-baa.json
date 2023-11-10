@@ -1,0 +1,36 @@
+{
+  "unversionedId": "actions/debugging",
+  "id": "actions/debugging",
+  "title": "Debugging Actions",
+  "description": "Debugging Hasura Actions",
+  "source": "@site/docs/actions/debugging.mdx",
+  "sourceDirName": "actions",
+  "slug": "/actions/debugging",
+  "permalink": "/docs/latest/actions/debugging",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/actions/debugging.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_label": "Debugging",
+    "sidebar_position": 10,
+    "description": "Debugging Hasura Actions",
+    "keywords": [
+      "hasura",
+      "docs",
+      "actions",
+      "debug",
+      "debugging"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "REST connectors",
+    "permalink": "/docs/latest/actions/rest-connectors"
+  },
+  "next": {
+    "title": "Async Action logs clean up",
+    "permalink": "/docs/latest/actions/logs-clean-up"
+  }
+}

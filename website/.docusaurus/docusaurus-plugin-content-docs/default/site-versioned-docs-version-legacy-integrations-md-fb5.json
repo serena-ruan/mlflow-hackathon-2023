@@ -1,0 +1,29 @@
+{
+  "unversionedId": "integrations",
+  "id": "version-legacy/integrations",
+  "title": "Supported Integrations",
+  "description": "We worked with documentation website generators to have DocSearch directly embedded as a first class citizen in the websites they produce.",
+  "source": "@site/versioned_docs/version-legacy/integrations.md",
+  "sourceDirName": ".",
+  "slug": "/integrations",
+  "permalink": "/docs/legacy/integrations",
+  "draft": false,
+  "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/versioned_docs/version-legacy/integrations.md",
+  "tags": [],
+  "version": "legacy",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Supported Integrations"
+  },
+  "sidebar": "version-legacy/docs",
+  "previous": {
+    "title": "FAQ",
+    "permalink": "/docs/legacy/faq"
+  },
+  "next": {
+    "title": "Inside the engine",
+    "permalink": "/docs/legacy/inside-the-engine"
+  }
+}

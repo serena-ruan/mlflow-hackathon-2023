@@ -1,0 +1,35 @@
+{
+  "unversionedId": "style/links",
+  "id": "style/links",
+  "title": "Links",
+  "description": "Style for links in documentation",
+  "source": "@site/wiki/style/links.mdx",
+  "sourceDirName": "style",
+  "slug": "/style/links",
+  "permalink": "/docs/wiki/style/links",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/style/links.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Links",
+    "description": "Style for links in documentation",
+    "keywords": [
+      "hasura",
+      "style",
+      "links"
+    ]
+  },
+  "sidebar": "wiki",
+  "previous": {
+    "title": "Images",
+    "permalink": "/docs/wiki/style/images"
+  },
+  "next": {
+    "title": "Product Badges",
+    "permalink": "/docs/wiki/style/product-badges"
+  }
+}

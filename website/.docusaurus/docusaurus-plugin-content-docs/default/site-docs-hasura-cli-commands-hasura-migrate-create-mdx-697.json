@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/commands/hasura_migrate_create",
+  "id": "hasura-cli/commands/hasura_migrate_create",
+  "title": "Hasura CLI: hasura migrate create",
+  "description": "Create ``sql`` files required for a migration using the Hasura CLI",
+  "source": "@site/docs/hasura-cli/commands/hasura_migrate_create.mdx",
+  "sourceDirName": "hasura-cli/commands",
+  "slug": "/hasura-cli/commands/hasura_migrate_create",
+  "permalink": "/docs/latest/hasura-cli/commands/hasura_migrate_create",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/commands/hasura_migrate_create.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 24,
+  "frontMatter": {
+    "sidebar_label": "hasura migrate create",
+    "sidebar_position": 24,
+    "description": "Create ``sql`` files required for a migration using the Hasura CLI",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "hasura migrate create"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "hasura migrate apply",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_migrate_apply"
+  },
+  "next": {
+    "title": "hasura migrate delete",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_migrate_delete"
+  }
+}

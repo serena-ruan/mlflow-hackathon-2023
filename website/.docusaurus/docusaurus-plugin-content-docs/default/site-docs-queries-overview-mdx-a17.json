@@ -1,0 +1,36 @@
+{
+  "unversionedId": "queries/overview",
+  "id": "queries/overview",
+  "title": "Queries Overview",
+  "description": "Manage queries on your databases with Hasura",
+  "source": "@site/docs/queries/overview.mdx",
+  "sourceDirName": "queries",
+  "slug": "/queries/overview",
+  "permalink": "/docs/latest/queries/overview",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/queries/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "Manage queries on your databases with Hasura",
+    "title": "Queries Overview",
+    "sidebar_label": "Overview",
+    "keywords": [
+      "hasura",
+      "docs",
+      "query"
+    ],
+    "hide_table_of_contents": true,
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Export the Hasura GraphQL Schema",
+    "permalink": "/docs/latest/schema/common-patterns/export-graphql-schema"
+  },
+  "next": {
+    "title": "Quickstart",
+    "permalink": "/docs/latest/queries/quickstart"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/commands/hasura_metadata_inconsistency_list",
+  "id": "hasura-cli/commands/hasura_metadata_inconsistency_list",
+  "title": "Hasura CLI: hasura metadata inconsistency list",
+  "description": "List all inconsistent objects from the Hasura Metadata using the Hasura CLI",
+  "source": "@site/docs/hasura-cli/commands/hasura_metadata_inconsistency_list.mdx",
+  "sourceDirName": "hasura-cli/commands",
+  "slug": "/hasura-cli/commands/hasura_metadata_inconsistency_list",
+  "permalink": "/docs/latest/hasura-cli/commands/hasura_metadata_inconsistency_list",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/commands/hasura_metadata_inconsistency_list.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 19,
+  "frontMatter": {
+    "sidebar_label": "hasura metadata inconsistency list",
+    "sidebar_position": 19,
+    "description": "List all inconsistent objects from the Hasura Metadata using the Hasura CLI",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "hasura metadata inconsistency list"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "hasura metadata inconsistency drop",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_metadata_inconsistency_drop"
+  },
+  "next": {
+    "title": "hasura metadata inconsistency status",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_metadata_inconsistency_status"
+  }
+}

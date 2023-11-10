@@ -1,0 +1,37 @@
+{
+  "unversionedId": "deployment/postgres-requirements",
+  "id": "deployment/postgres-requirements",
+  "title": "Postgres Requirements",
+  "description": "Postgres requirements for Hasura GraphQL Engine",
+  "source": "@site/docs/deployment/postgres-requirements.mdx",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/postgres-requirements",
+  "permalink": "/docs/latest/deployment/postgres-requirements",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/deployment/postgres-requirements.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 60,
+  "frontMatter": {
+    "description": "Postgres requirements for Hasura GraphQL Engine",
+    "keywords": [
+      "hasura",
+      "docs",
+      "deployment",
+      "postgres",
+      "postgres permissions",
+      "postgres version"
+    ],
+    "sidebar_position": 60,
+    "sidebar_label": "Postgres requirements"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Server logs",
+    "permalink": "/docs/latest/deployment/logging"
+  },
+  "next": {
+    "title": "HTTP compression",
+    "permalink": "/docs/latest/deployment/compression"
+  }
+}

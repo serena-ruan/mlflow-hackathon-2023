@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/commands/hasura_metadata_reload",
+  "id": "hasura-cli/commands/hasura_metadata_reload",
+  "title": "Hasura CLI: hasura metadata reload",
+  "description": "Reload Hasura GraphQL Engine schema to pick up changes in any underlying data sources (database or remote schema) using the Hasura CLI",
+  "source": "@site/docs/hasura-cli/commands/hasura_metadata_reload.mdx",
+  "sourceDirName": "hasura-cli/commands",
+  "slug": "/hasura-cli/commands/hasura_metadata_reload",
+  "permalink": "/docs/latest/hasura-cli/commands/hasura_metadata_reload",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/commands/hasura_metadata_reload.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 21,
+  "frontMatter": {
+    "sidebar_label": "hasura metadata reload",
+    "sidebar_position": 21,
+    "description": "Reload Hasura GraphQL Engine schema to pick up changes in any underlying data sources (database or remote schema) using the Hasura CLI",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "hasura metadata reload"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "hasura metadata inconsistency status",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_metadata_inconsistency_status"
+  },
+  "next": {
+    "title": "hasura migrate",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_migrate"
+  }
+}

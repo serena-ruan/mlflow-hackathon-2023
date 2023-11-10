@@ -1,0 +1,36 @@
+{
+  "unversionedId": "auth/authorization/permissions/column-presets",
+  "id": "auth/authorization/permissions/column-presets",
+  "title": "Column Presets",
+  "description": "Column Presets",
+  "source": "@site/docs/auth/authorization/permissions/column-presets.mdx",
+  "sourceDirName": "auth/authorization/permissions",
+  "slug": "/auth/authorization/permissions/column-presets",
+  "permalink": "/docs/latest/auth/authorization/permissions/column-presets",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/auth/authorization/permissions/column-presets.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 60,
+  "frontMatter": {
+    "description": "Column Presets",
+    "keywords": [
+      "hasura",
+      "docs",
+      "permissions",
+      "rules",
+      "column",
+      "presets"
+    ],
+    "sidebar_position": 60
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Root Field Visibility",
+    "permalink": "/docs/latest/auth/authorization/permissions/disabling-root-fields"
+  },
+  "next": {
+    "title": "Backend Only Mutations",
+    "permalink": "/docs/latest/auth/authorization/permissions/backend-only"
+  }
+}

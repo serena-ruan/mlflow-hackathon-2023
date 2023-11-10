@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/commands/hasura_scripts_update-project-v2",
+  "id": "hasura-cli/commands/hasura_scripts_update-project-v2",
+  "title": "Hasura CLI: hasura scripts update-project-v2",
+  "description": "Update the Hasura Project from config v1 to v2 using the Hasura CLI",
+  "source": "@site/docs/hasura-cli/commands/hasura_scripts_update-project-v2.mdx",
+  "sourceDirName": "hasura-cli/commands",
+  "slug": "/hasura-cli/commands/hasura_scripts_update-project-v2",
+  "permalink": "/docs/latest/hasura-cli/commands/hasura_scripts_update-project-v2",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/commands/hasura_scripts_update-project-v2.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 34,
+  "frontMatter": {
+    "sidebar_label": "hasura scripts update-project-v2",
+    "sidebar_position": 34,
+    "description": "Update the Hasura Project from config v1 to v2 using the Hasura CLI",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "hasura scripts update-project-v2"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "hasura scripts",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_scripts"
+  },
+  "next": {
+    "title": "hasura scripts update-project-v3",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_scripts_update-project-v3"
+  }
+}

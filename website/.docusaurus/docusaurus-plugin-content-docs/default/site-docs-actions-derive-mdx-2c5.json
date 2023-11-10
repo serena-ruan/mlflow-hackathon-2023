@@ -1,0 +1,35 @@
+{
+  "unversionedId": "actions/derive",
+  "id": "actions/derive",
+  "title": "Derive Actions",
+  "description": "Derive Hasura Actions",
+  "source": "@site/docs/actions/derive.mdx",
+  "sourceDirName": "actions",
+  "slug": "/actions/derive",
+  "permalink": "/docs/latest/actions/derive",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/actions/derive.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "description": "Derive Hasura Actions",
+    "keywords": [
+      "hasura",
+      "docs",
+      "actions",
+      "derive"
+    ],
+    "sidebar_label": "Derive Actions"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Python & Flask",
+    "permalink": "/docs/latest/actions/codegen/python-flask"
+  },
+  "next": {
+    "title": "Actions permissions",
+    "permalink": "/docs/latest/actions/action-permissions"
+  }
+}

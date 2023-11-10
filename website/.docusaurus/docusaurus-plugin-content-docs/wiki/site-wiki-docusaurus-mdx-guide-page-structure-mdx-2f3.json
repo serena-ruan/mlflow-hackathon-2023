@@ -1,0 +1,31 @@
+{
+  "unversionedId": "docusaurus-mdx-guide/page-structure",
+  "id": "docusaurus-mdx-guide/page-structure",
+  "title": "Docs Page Structure",
+  "description": "Meta information",
+  "source": "@site/wiki/docusaurus-mdx-guide/page-structure.mdx",
+  "sourceDirName": "docusaurus-mdx-guide",
+  "slug": "/docusaurus-mdx-guide/page-structure",
+  "permalink": "/docs/wiki/docusaurus-mdx-guide/page-structure",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/docusaurus-mdx-guide/page-structure.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "Page Structure",
+    "sidebar_position": 0
+  },
+  "sidebar": "wiki",
+  "previous": {
+    "title": "Docusaurus MDX Guide",
+    "permalink": "/docs/wiki/category/docusaurus-mdx-guide"
+  },
+  "next": {
+    "title": "Headings & Ids",
+    "permalink": "/docs/wiki/docusaurus-mdx-guide/headings"
+  }
+}

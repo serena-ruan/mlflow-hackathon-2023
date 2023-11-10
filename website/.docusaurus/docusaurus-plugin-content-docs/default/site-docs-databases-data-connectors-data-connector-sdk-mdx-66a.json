@@ -1,0 +1,36 @@
+{
+  "unversionedId": "databases/data-connectors/data-connector-sdk",
+  "id": "databases/data-connectors/data-connector-sdk",
+  "title": "Hasura GraphQL Data Connector SDK",
+  "description": "Information about using the Hasura Data Connectors SDK",
+  "source": "@site/docs/databases/data-connectors/data-connector-sdk.mdx",
+  "sourceDirName": "databases/data-connectors",
+  "slug": "/databases/data-connectors/data-connector-sdk",
+  "permalink": "/docs/latest/databases/data-connectors/data-connector-sdk",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/data-connectors/data-connector-sdk.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "description": "Information about using the Hasura Data Connectors SDK",
+    "sidebar_label": "Data Connector SDK",
+    "keywords": [
+      "hasura",
+      "docs",
+      "databases",
+      "data connectors",
+      "sdk"
+    ],
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Add Data Connectors",
+    "permalink": "/docs/latest/databases/data-connectors/adding-data-connectors"
+  },
+  "next": {
+    "title": "Postgres & Compatible Databases",
+    "permalink": "/docs/latest/databases/postgres/index"
+  }
+}

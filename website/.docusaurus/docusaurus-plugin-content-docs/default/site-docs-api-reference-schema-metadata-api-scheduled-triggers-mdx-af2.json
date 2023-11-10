@@ -1,0 +1,36 @@
+{
+  "unversionedId": "api-reference/schema-metadata-api/scheduled-triggers",
+  "id": "api-reference/schema-metadata-api/scheduled-triggers",
+  "title": "Schema/Metadata API Reference: Scheduled Triggers (Deprecated)",
+  "description": "Manage Scheduled Triggers with the Hasura schema/Metadata API",
+  "source": "@site/docs/api-reference/schema-metadata-api/scheduled-triggers.mdx",
+  "sourceDirName": "api-reference/schema-metadata-api",
+  "slug": "/api-reference/schema-metadata-api/scheduled-triggers",
+  "permalink": "/docs/latest/api-reference/schema-metadata-api/scheduled-triggers",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/schema-metadata-api/scheduled-triggers.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_label": "Scheduled Triggers",
+    "sidebar_position": 9,
+    "description": "Manage Scheduled Triggers with the Hasura schema/Metadata API",
+    "keywords": [
+      "hasura",
+      "docs",
+      "schema/Metadata API",
+      "API reference",
+      "scheduled trigger"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Event Triggers",
+    "permalink": "/docs/latest/api-reference/schema-metadata-api/event-triggers"
+  },
+  "next": {
+    "title": "Remote Schemas",
+    "permalink": "/docs/latest/api-reference/schema-metadata-api/remote-schemas"
+  }
+}

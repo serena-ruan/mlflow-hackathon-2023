@@ -1,0 +1,36 @@
+{
+  "unversionedId": "databases/data-connectors/adding-data-connectors",
+  "id": "databases/data-connectors/adding-data-connectors",
+  "title": "Add a Hasura GraphQL Data Connector Agent to Metadata",
+  "description": "Information about adding Hasura Data Connectors",
+  "source": "@site/docs/databases/data-connectors/adding-data-connectors.mdx",
+  "sourceDirName": "databases/data-connectors",
+  "slug": "/databases/data-connectors/adding-data-connectors",
+  "permalink": "/docs/latest/databases/data-connectors/adding-data-connectors",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/data-connectors/adding-data-connectors.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "Information about adding Hasura Data Connectors",
+    "sidebar_label": "Add Data Connectors",
+    "keywords": [
+      "hasura",
+      "docs",
+      "databases",
+      "data connectors",
+      "add"
+    ],
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Data Connectors",
+    "permalink": "/docs/latest/databases/data-connectors/"
+  },
+  "next": {
+    "title": "Data Connector SDK",
+    "permalink": "/docs/latest/databases/data-connectors/data-connector-sdk"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "unversionedId": "data-federation/hasura-graphql-federation-architectures",
+  "id": "data-federation/hasura-graphql-federation-architectures",
+  "title": "Hasura GraphQL federation architectures",
+  "description": "Hasura GraphQL Data Federation Supergraphs",
+  "source": "@site/docs/data-federation/hasura-graphql-federation-architectures.mdx",
+  "sourceDirName": "data-federation",
+  "slug": "/data-federation/hasura-graphql-federation-architectures",
+  "permalink": "/docs/latest/data-federation/hasura-graphql-federation-architectures",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/data-federation/hasura-graphql-federation-architectures.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "Hasura GraphQL Data Federation Supergraphs",
+    "title": "Hasura GraphQL federation architectures",
+    "sidebar_label": "Federation Architectures",
+    "keywords": [
+      "hasura",
+      "docs",
+      "data",
+      "federation",
+      "data federation",
+      "supergraphs",
+      "subgraphs"
+    ],
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/latest/data-federation/overview"
+  },
+  "next": {
+    "title": "Data federation types",
+    "permalink": "/docs/latest/data-federation/data-federation-types"
+  }
+}

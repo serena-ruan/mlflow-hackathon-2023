@@ -1,0 +1,29 @@
+{
+  "unversionedId": "how-does-it-work",
+  "id": "how-does-it-work",
+  "title": "How does it work?",
+  "description": "Getting up and ready with DocSearch is a straightforward process that requires three steps: you apply, we configure the crawler and the Algolia app for you, and you integrate our UI in your frontend. You only need to copy and paste a JavaScript snippet.",
+  "source": "@site/docs/how-does-it-work.mdx",
+  "sourceDirName": ".",
+  "slug": "/how-does-it-work",
+  "permalink": "/docs/how-does-it-work",
+  "draft": false,
+  "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/how-does-it-work.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "How does it work?"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Supported Integrations",
+    "permalink": "/docs/integrations"
+  },
+  "next": {
+    "title": "Required configuration",
+    "permalink": "/docs/required-configuration"
+  }
+}

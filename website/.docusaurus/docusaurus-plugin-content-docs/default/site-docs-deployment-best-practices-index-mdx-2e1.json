@@ -1,0 +1,37 @@
+{
+  "unversionedId": "deployment/best-practices/index",
+  "id": "deployment/best-practices/index",
+  "title": "Best Practices",
+  "description": "Best practices for running Hasura",
+  "source": "@site/docs/deployment/best-practices/index.mdx",
+  "sourceDirName": "deployment/best-practices",
+  "slug": "/deployment/best-practices/index",
+  "permalink": "/docs/latest/deployment/best-practices/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/deployment/best-practices/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 105,
+  "frontMatter": {
+    "title": "Best Practices",
+    "description": "Best practices for running Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "guide",
+      "best practices"
+    ],
+    "slug": "index",
+    "sidebar_label": "Best Practices",
+    "sidebar_position": 105
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Server config examples",
+    "permalink": "/docs/latest/deployment/graphql-engine-flags/config-examples"
+  },
+  "next": {
+    "title": "Secure the GraphQL endpoint",
+    "permalink": "/docs/latest/deployment/securing-graphql-endpoint"
+  }
+}

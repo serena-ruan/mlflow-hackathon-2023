@@ -1,0 +1,41 @@
+{
+  "unversionedId": "security/disable-graphql-introspection",
+  "id": "security/disable-graphql-introspection",
+  "title": "Cloud Professional & Enterprise Edition: Disable GraphQL introspection",
+  "description": "Hasura Cloud and Enterprise Edition disable GraphQL introspection",
+  "source": "@site/docs/security/disable-graphql-introspection.mdx",
+  "sourceDirName": "security",
+  "slug": "/security/disable-graphql-introspection",
+  "permalink": "/docs/latest/security/disable-graphql-introspection",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/security/disable-graphql-introspection.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "description": "Hasura Cloud and Enterprise Edition disable GraphQL introspection",
+    "title": "Cloud Professional & Enterprise Edition: Disable GraphQL introspection",
+    "keywords": [
+      "hasura",
+      "docs",
+      "cloud",
+      "enterprise",
+      "security",
+      "introspection",
+      "disable",
+      "GraphQL"
+    ],
+    "sidebar_position": 6,
+    "sidebar_label": "Disable GraphQL introspection",
+    "sidebar_class_name": "cloud-and-enterprise-icon"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "API limits",
+    "permalink": "/docs/latest/security/api-limits"
+  },
+  "next": {
+    "title": "Proactive vulnerability scanning",
+    "permalink": "/docs/latest/security/container-images"
+  }
+}

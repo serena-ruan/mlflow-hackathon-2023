@@ -1,0 +1,37 @@
+{
+  "unversionedId": "schema/ms-sql-server/custom-field-names",
+  "id": "schema/ms-sql-server/custom-field-names",
+  "title": "MS SQL Server: Customize Auto-Generated Field Names",
+  "description": "Use custom field names for MS SQL Server in Hasura",
+  "source": "@site/docs/schema/ms-sql-server/custom-field-names.mdx",
+  "sourceDirName": "schema/ms-sql-server",
+  "slug": "/schema/ms-sql-server/custom-field-names",
+  "permalink": "/docs/latest/schema/ms-sql-server/custom-field-names",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/ms-sql-server/custom-field-names.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Customize auto-generated fields",
+    "sidebar_position": 5,
+    "description": "Use custom field names for MS SQL Server in Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "ms sql server",
+      "schema",
+      "custom field name",
+      "rename"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Native Queries",
+    "permalink": "/docs/latest/schema/ms-sql-server/native-queries"
+  },
+  "next": {
+    "title": "MS SQL Server: Setting Default Values for Fields",
+    "permalink": "/docs/latest/schema/ms-sql-server/default-values/index"
+  }
+}

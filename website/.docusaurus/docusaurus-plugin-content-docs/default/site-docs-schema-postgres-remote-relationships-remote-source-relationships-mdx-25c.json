@@ -1,0 +1,37 @@
+{
+  "unversionedId": "schema/postgres/remote-relationships/remote-source-relationships",
+  "id": "schema/postgres/remote-relationships/remote-source-relationships",
+  "title": "Postgres: Database to Remote Database Relationships",
+  "description": "Adding remote database relationships with Postgres tables in Hasura",
+  "source": "@site/docs/schema/postgres/remote-relationships/remote-source-relationships.mdx",
+  "sourceDirName": "schema/postgres/remote-relationships",
+  "slug": "/schema/postgres/remote-relationships/remote-source-relationships",
+  "permalink": "/docs/latest/schema/postgres/remote-relationships/remote-source-relationships",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/postgres/remote-relationships/remote-source-relationships.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "To remote database",
+    "sidebar_position": 1,
+    "description": "Adding remote database relationships with Postgres tables in Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "remote database relationship",
+      "remote join",
+      "remote source",
+      "data federation"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Postgres: Remote Relationships",
+    "permalink": "/docs/latest/schema/postgres/remote-relationships/index"
+  },
+  "next": {
+    "title": "To Remote Schema",
+    "permalink": "/docs/latest/schema/postgres/remote-relationships/remote-schema-relationships"
+  }
+}

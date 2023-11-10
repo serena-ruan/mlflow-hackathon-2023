@@ -1,0 +1,36 @@
+{
+  "unversionedId": "deployment/updating-graphql-engine",
+  "id": "deployment/updating-graphql-engine",
+  "title": "Update Hasura GraphQL Engine",
+  "description": "Update Hasura GraphQL Engine version",
+  "source": "@site/docs/deployment/updating-graphql-engine.mdx",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/updating-graphql-engine",
+  "permalink": "/docs/latest/deployment/updating-graphql-engine",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/deployment/updating-graphql-engine.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 110,
+  "frontMatter": {
+    "description": "Update Hasura GraphQL Engine version",
+    "keywords": [
+      "hasura",
+      "docs",
+      "deployment",
+      "update",
+      "version"
+    ],
+    "sidebar_position": 110,
+    "sidebar_label": "Update GraphQL Engine"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Production checklist",
+    "permalink": "/docs/latest/deployment/production-checklist"
+  },
+  "next": {
+    "title": "Downgrade GraphQL Engine",
+    "permalink": "/docs/latest/deployment/downgrading"
+  }
+}

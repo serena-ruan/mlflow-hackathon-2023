@@ -1,0 +1,36 @@
+{
+  "unversionedId": "queries/bigquery/sorting",
+  "id": "queries/bigquery/sorting",
+  "title": "BigQuery: Sort Query Results",
+  "description": "Sort query results on BigQuery in Hasura",
+  "source": "@site/docs/queries/bigquery/sorting.mdx",
+  "sourceDirName": "queries/bigquery",
+  "slug": "/queries/bigquery/sorting",
+  "permalink": "/docs/latest/queries/bigquery/sorting",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/queries/bigquery/sorting.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Sort query results",
+    "sidebar_position": 5,
+    "description": "Sort query results on BigQuery in Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "bigquery",
+      "query",
+      "sort"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Filter based on fields of nested objects",
+    "permalink": "/docs/latest/queries/bigquery/filters/using-nested-objects"
+  },
+  "next": {
+    "title": "Distinct query results",
+    "permalink": "/docs/latest/queries/bigquery/distinct-queries"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "unversionedId": "resources/tutorials",
+  "id": "resources/tutorials",
+  "title": "Tutorials",
+  "description": "Tutorials available to learn Hasura and GraphQL",
+  "source": "@site/docs/resources/tutorials.mdx",
+  "sourceDirName": "resources",
+  "slug": "/resources/tutorials/index",
+  "permalink": "/docs/latest/resources/tutorials/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/resources/tutorials.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "Tutorials available to learn Hasura and GraphQL",
+    "keywords": [
+      "hasura",
+      "docs",
+      "tutorial",
+      "tutorials",
+      "graphql",
+      "learn"
+    ],
+    "sidebar_position": 2,
+    "slug": "tutorials/index"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Sample apps & boilerplates",
+    "permalink": "/docs/latest/resources/sample-apps/index"
+  },
+  "next": {
+    "title": "Updating to Hasura v2",
+    "permalink": "/docs/latest/resources/upgrade-hasura-v2"
+  }
+}

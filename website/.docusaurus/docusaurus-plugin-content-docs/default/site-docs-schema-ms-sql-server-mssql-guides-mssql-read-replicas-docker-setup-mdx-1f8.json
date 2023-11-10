@@ -1,0 +1,35 @@
+{
+  "unversionedId": "schema/ms-sql-server/mssql-guides/mssql-read-replicas-docker-setup",
+  "id": "schema/ms-sql-server/mssql-guides/mssql-read-replicas-docker-setup",
+  "title": "MS SQL Server Read Replicas Using Docker",
+  "description": "Sample Docker Setup for MSSQL Read Replica",
+  "source": "@site/docs/schema/ms-sql-server/mssql-guides/mssql-read-replicas-docker-setup.mdx",
+  "sourceDirName": "schema/ms-sql-server/mssql-guides",
+  "slug": "/schema/ms-sql-server/mssql-guides/mssql-read-replicas-docker-setup",
+  "permalink": "/docs/latest/schema/ms-sql-server/mssql-guides/mssql-read-replicas-docker-setup",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/ms-sql-server/mssql-guides/mssql-read-replicas-docker-setup.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "description": "Sample Docker Setup for MSSQL Read Replica",
+    "keywords": [
+      "hasura",
+      "docs",
+      "read replicas",
+      "mssql"
+    ],
+    "sidebar_position": 7,
+    "sidebar_label": "Read Replicas using Docker"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "MS SQL Server Guides",
+    "permalink": "/docs/latest/schema/ms-sql-server/mssql-guides/index"
+  },
+  "next": {
+    "title": "MongoDB: Schema",
+    "permalink": "/docs/latest/schema/mongodb/index"
+  }
+}

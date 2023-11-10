@@ -1,0 +1,38 @@
+{
+  "unversionedId": "style/general",
+  "id": "style/general",
+  "title": "General",
+  "description": "General documentation style",
+  "source": "@site/wiki/style/general.mdx",
+  "sourceDirName": "style",
+  "slug": "/style/general",
+  "permalink": "/docs/wiki/style/general",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/style/general.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "General",
+    "description": "General documentation style",
+    "sidebar_position": 1,
+    "keywords": [
+      "hasura",
+      "style",
+      "general"
+    ],
+    "slug": "general"
+  },
+  "sidebar": "wiki",
+  "previous": {
+    "title": "Style",
+    "permalink": "/docs/wiki/category/style"
+  },
+  "next": {
+    "title": "Bullet Lists",
+    "permalink": "/docs/wiki/style/bullets"
+  }
+}

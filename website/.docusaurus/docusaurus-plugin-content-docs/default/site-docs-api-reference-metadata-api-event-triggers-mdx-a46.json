@@ -1,0 +1,36 @@
+{
+  "unversionedId": "api-reference/metadata-api/event-triggers",
+  "id": "api-reference/metadata-api/event-triggers",
+  "title": "Metadata API Reference: Event Triggers",
+  "description": "Manage Event Triggers with the Hasura Metadata API",
+  "source": "@site/docs/api-reference/metadata-api/event-triggers.mdx",
+  "sourceDirName": "api-reference/metadata-api",
+  "slug": "/api-reference/metadata-api/event-triggers",
+  "permalink": "/docs/latest/api-reference/metadata-api/event-triggers",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/metadata-api/event-triggers.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_label": "Event Triggers",
+    "sidebar_position": 12,
+    "description": "Manage Event Triggers with the Hasura Metadata API",
+    "keywords": [
+      "hasura",
+      "docs",
+      "Metadata API",
+      "API reference",
+      "event trigger"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Computed fields",
+    "permalink": "/docs/latest/api-reference/metadata-api/computed-field"
+  },
+  "next": {
+    "title": "Scheduled Triggers",
+    "permalink": "/docs/latest/api-reference/metadata-api/scheduled-triggers"
+  }
+}

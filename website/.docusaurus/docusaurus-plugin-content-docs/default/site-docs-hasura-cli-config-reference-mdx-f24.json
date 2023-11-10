@@ -1,0 +1,36 @@
+{
+  "unversionedId": "hasura-cli/config-reference",
+  "id": "hasura-cli/config-reference",
+  "title": "Hasura CLI Configuration Reference",
+  "description": "Hasura GraphQL CLI configuration reference",
+  "source": "@site/docs/hasura-cli/config-reference.mdx",
+  "sourceDirName": "hasura-cli",
+  "slug": "/hasura-cli/config-reference",
+  "permalink": "/docs/latest/hasura-cli/config-reference",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/config-reference.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Configuration reference",
+    "sidebar_position": 3,
+    "description": "Hasura GraphQL CLI configuration reference",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "CLI reference",
+      "config"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "hasura version",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_version"
+  },
+  "next": {
+    "title": "Install / Uninstall",
+    "permalink": "/docs/latest/hasura-cli/install-hasura-cli"
+  }
+}

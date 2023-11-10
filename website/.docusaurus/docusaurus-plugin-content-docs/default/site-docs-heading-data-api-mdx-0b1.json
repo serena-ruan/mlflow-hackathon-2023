@@ -1,0 +1,29 @@
+{
+  "unversionedId": "_heading_data_api",
+  "id": "_heading_data_api",
+  "title": "_heading_data_api",
+  "description": "",
+  "source": "@site/docs/_heading_data_api.mdx",
+  "sourceDirName": ".",
+  "slug": "/_heading_data_api",
+  "permalink": "/docs/latest/_heading_data_api",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/_heading_data_api.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 30,
+  "frontMatter": {
+    "sidebar_position": 30,
+    "sidebar_label": "The Data API",
+    "sidebar_class_name": "sidebar_heading"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Apollo Federation",
+    "permalink": "/docs/latest/data-federation/apollo-federation"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/latest/schema/overview"
+  }
+}

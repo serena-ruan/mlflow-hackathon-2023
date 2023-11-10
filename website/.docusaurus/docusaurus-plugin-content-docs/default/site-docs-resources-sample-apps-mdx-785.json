@@ -1,0 +1,36 @@
+{
+  "unversionedId": "resources/sample-apps",
+  "id": "resources/sample-apps",
+  "title": "Sample Apps & Boilerplates",
+  "description": "Sample apps and boilerplates using Hasura",
+  "source": "@site/docs/resources/sample-apps.mdx",
+  "sourceDirName": "resources",
+  "slug": "/resources/sample-apps/index",
+  "permalink": "/docs/latest/resources/sample-apps/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/resources/sample-apps.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "Sample apps and boilerplates using Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "sample app",
+      "boilerplate"
+    ],
+    "sidebar_position": 2,
+    "slug": "sample-apps/index",
+    "sidebar_label": "Sample apps & boilerplates"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/latest/resources/overview"
+  },
+  "next": {
+    "title": "Tutorials",
+    "permalink": "/docs/latest/resources/tutorials/index"
+  }
+}

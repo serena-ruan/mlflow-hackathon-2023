@@ -1,0 +1,37 @@
+{
+  "unversionedId": "hasura-cli/install-hasura-cli",
+  "id": "hasura-cli/install-hasura-cli",
+  "title": "Install / Uninstall the Hasura CLI",
+  "description": "Install the Hasura CLI on Linux, Mac OS, Windows",
+  "source": "@site/docs/hasura-cli/install-hasura-cli.mdx",
+  "sourceDirName": "hasura-cli",
+  "slug": "/hasura-cli/install-hasura-cli",
+  "permalink": "/docs/latest/hasura-cli/install-hasura-cli",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/install-hasura-cli.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Install / Uninstall",
+    "sidebar_position": 3,
+    "description": "Install the Hasura CLI on Linux, Mac OS, Windows",
+    "keywords": [
+      "hasura",
+      "hasura cli",
+      "install",
+      "linux",
+      "mac",
+      "windows"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Configuration reference",
+    "permalink": "/docs/latest/hasura-cli/config-reference"
+  },
+  "next": {
+    "title": "Hasura Data Connector plugin on Hasura Cloud",
+    "permalink": "/docs/latest/hasura-cli/connector-plugin/"
+  }
+}

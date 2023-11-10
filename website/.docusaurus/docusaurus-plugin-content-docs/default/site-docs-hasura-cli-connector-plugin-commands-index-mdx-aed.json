@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/connector-plugin/commands/index",
+  "id": "hasura-cli/connector-plugin/commands/index",
+  "title": "Commands",
+  "description": "Use Connector plugin tooling to deploy connectors in Hasura cloud",
+  "source": "@site/docs/hasura-cli/connector-plugin/commands/index.mdx",
+  "sourceDirName": "hasura-cli/connector-plugin/commands",
+  "slug": "/hasura-cli/connector-plugin/commands/index",
+  "permalink": "/docs/latest/hasura-cli/connector-plugin/commands/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/connector-plugin/commands/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Commands",
+    "description": "Use Connector plugin tooling to deploy connectors in Hasura cloud",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "connector",
+      "commands"
+    ],
+    "slug": "index"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Hasura Data Connector plugin on Hasura Cloud",
+    "permalink": "/docs/latest/hasura-cli/connector-plugin/"
+  },
+  "next": {
+    "title": "hasura connector",
+    "permalink": "/docs/latest/hasura-cli/connector-plugin/commands/connector"
+  }
+}

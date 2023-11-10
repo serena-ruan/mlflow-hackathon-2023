@@ -1,0 +1,39 @@
+{
+  "unversionedId": "deployment/graphql-engine-flags/reference",
+  "id": "deployment/graphql-engine-flags/reference",
+  "title": "GraphQL Engine Server Configuration Reference",
+  "description": "Hasura GraphQL Engine Server Configuration Reference (Flags/Environment variables)",
+  "source": "@site/docs/deployment/graphql-engine-flags/reference.mdx",
+  "sourceDirName": "deployment/graphql-engine-flags",
+  "slug": "/deployment/graphql-engine-flags/reference",
+  "permalink": "/docs/latest/deployment/graphql-engine-flags/reference",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/deployment/graphql-engine-flags/reference.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "Hasura GraphQL Engine Server Configuration Reference (Flags/Environment variables)",
+    "keywords": [
+      "hasura",
+      "docs",
+      "deployment",
+      "server",
+      "config",
+      "flags",
+      "env vars",
+      "environment variables"
+    ],
+    "sidebar_position": 2,
+    "sidebar_label": "Server configuration reference"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Server configuration",
+    "permalink": "/docs/latest/deployment/graphql-engine-flags/index"
+  },
+  "next": {
+    "title": "Server config examples",
+    "permalink": "/docs/latest/deployment/graphql-engine-flags/config-examples"
+  }
+}

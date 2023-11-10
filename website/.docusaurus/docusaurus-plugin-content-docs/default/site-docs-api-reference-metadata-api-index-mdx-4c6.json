@@ -1,0 +1,33 @@
+{
+  "unversionedId": "api-reference/metadata-api/index",
+  "id": "api-reference/metadata-api/index",
+  "title": "Metadata API Reference",
+  "description": "Hasura Metadata API reference",
+  "source": "@site/docs/api-reference/metadata-api/index.mdx",
+  "sourceDirName": "api-reference/metadata-api",
+  "slug": "/api-reference/metadata-api/index",
+  "permalink": "/docs/latest/api-reference/metadata-api/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/metadata-api/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Hasura Metadata API reference",
+    "keywords": [
+      "hasura",
+      "docs",
+      "Metadata API",
+      "API reference"
+    ],
+    "slug": "index"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Run SQL",
+    "permalink": "/docs/latest/api-reference/schema-api/run-sql"
+  },
+  "next": {
+    "title": "Databases",
+    "permalink": "/docs/latest/api-reference/metadata-api/source"
+  }
+}

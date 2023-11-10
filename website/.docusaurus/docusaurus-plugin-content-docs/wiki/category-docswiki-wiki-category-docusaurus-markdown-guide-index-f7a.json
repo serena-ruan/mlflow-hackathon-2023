@@ -1,0 +1,15 @@
+{
+  "title": "Docusaurus Markdown Guide Index",
+  "slug": "/category/docusaurus-mdx-guide",
+  "permalink": "/docs/wiki/category/docusaurus-mdx-guide",
+  "navigation": {
+    "previous": {
+      "title": "PR Review Checklist",
+      "permalink": "/docs/wiki/checklist"
+    },
+    "next": {
+      "title": "Page Structure",
+      "permalink": "/docs/wiki/docusaurus-mdx-guide/page-structure"
+    }
+  }
+}

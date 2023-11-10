@@ -1,0 +1,39 @@
+{
+  "unversionedId": "observability/opentelemetry",
+  "id": "observability/opentelemetry",
+  "title": "Traces via OpenTelemetry",
+  "description": "Traces via OpenTelemetry for Hasura Enterprise Edition",
+  "source": "@site/docs/observability/opentelemetry.mdx",
+  "sourceDirName": "observability",
+  "slug": "/observability/opentelemetry",
+  "permalink": "/docs/latest/observability/opentelemetry",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/observability/opentelemetry.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "OpenTelemetry",
+    "description": "Traces via OpenTelemetry for Hasura Enterprise Edition",
+    "title": "Traces via OpenTelemetry",
+    "sidebar_class_name": "beta-icon",
+    "keywords": [
+      "hasura",
+      "docs",
+      "enterprise",
+      "opentelemetry",
+      "open telemetry",
+      "traces"
+    ],
+    "sidebar_position": 6
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Available Metrics",
+    "permalink": "/docs/latest/observability/enterprise-edition/prometheus/metrics"
+  },
+  "next": {
+    "title": "Query Tags",
+    "permalink": "/docs/latest/observability/query-tags"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "unversionedId": "api-reference/schema-metadata-api/event-triggers",
+  "id": "api-reference/schema-metadata-api/event-triggers",
+  "title": "Schema/Metadata API Reference: Event Triggers (Deprecated)",
+  "description": "Manage Event Triggers with the Hasura schema/Metadata API",
+  "source": "@site/docs/api-reference/schema-metadata-api/event-triggers.mdx",
+  "sourceDirName": "api-reference/schema-metadata-api",
+  "slug": "/api-reference/schema-metadata-api/event-triggers",
+  "permalink": "/docs/latest/api-reference/schema-metadata-api/event-triggers",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/schema-metadata-api/event-triggers.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_label": "Event Triggers",
+    "sidebar_position": 8,
+    "description": "Manage Event Triggers with the Hasura schema/Metadata API",
+    "keywords": [
+      "hasura",
+      "docs",
+      "schema/Metadata API",
+      "API reference",
+      "event trigger"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Computed fields",
+    "permalink": "/docs/latest/api-reference/schema-metadata-api/computed-field"
+  },
+  "next": {
+    "title": "Scheduled Triggers",
+    "permalink": "/docs/latest/api-reference/schema-metadata-api/scheduled-triggers"
+  }
+}

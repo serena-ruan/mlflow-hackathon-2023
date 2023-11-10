@@ -1,0 +1,38 @@
+{
+  "unversionedId": "deployment/graphql-engine-flags/config-examples",
+  "id": "deployment/graphql-engine-flags/config-examples",
+  "title": "Server Config Examples",
+  "description": "Examples of server configurations with Hasura GraphQL Engine",
+  "source": "@site/docs/deployment/graphql-engine-flags/config-examples.mdx",
+  "sourceDirName": "deployment/graphql-engine-flags",
+  "slug": "/deployment/graphql-engine-flags/config-examples",
+  "permalink": "/docs/latest/deployment/graphql-engine-flags/config-examples",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/deployment/graphql-engine-flags/config-examples.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "description": "Examples of server configurations with Hasura GraphQL Engine",
+    "keywords": [
+      "hasura",
+      "docs",
+      "deployment",
+      "flags",
+      "server",
+      "server configuration",
+      "example"
+    ],
+    "sidebar_position": 3,
+    "sidebar_label": "Server config examples"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Server configuration reference",
+    "permalink": "/docs/latest/deployment/graphql-engine-flags/reference"
+  },
+  "next": {
+    "title": "Best Practices",
+    "permalink": "/docs/latest/deployment/best-practices/index"
+  }
+}

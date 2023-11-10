@@ -1,0 +1,36 @@
+{
+  "unversionedId": "mutations/overview",
+  "id": "mutations/overview",
+  "title": "Mutations Overview",
+  "description": "Manage mutations on your database with Hasura",
+  "source": "@site/docs/mutations/overview.mdx",
+  "sourceDirName": "mutations",
+  "slug": "/mutations/overview",
+  "permalink": "/docs/latest/mutations/overview",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/mutations/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "Manage mutations on your database with Hasura",
+    "title": "Mutations Overview",
+    "sidebar_label": "Overview",
+    "keywords": [
+      "hasura",
+      "docs",
+      "mutation"
+    ],
+    "hide_table_of_contents": true,
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Query performance",
+    "permalink": "/docs/latest/queries/ms-sql-server/performance"
+  },
+  "next": {
+    "title": "Quickstart",
+    "permalink": "/docs/latest/mutations/quickstart"
+  }
+}

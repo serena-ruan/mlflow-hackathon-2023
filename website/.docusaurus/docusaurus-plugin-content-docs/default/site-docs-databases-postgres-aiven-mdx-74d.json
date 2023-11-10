@@ -1,0 +1,37 @@
+{
+  "unversionedId": "databases/postgres/aiven",
+  "id": "databases/postgres/aiven",
+  "title": "Cloud: Using Hasura Cloud with an Aiven Postgres database",
+  "description": "Using Hasura with an Aiven Postgres database",
+  "source": "@site/docs/databases/postgres/aiven.mdx",
+  "sourceDirName": "databases/postgres",
+  "slug": "/databases/postgres/aiven",
+  "permalink": "/docs/latest/databases/postgres/aiven",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/postgres/aiven.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "Using Hasura with an Aiven Postgres database",
+    "title": "Cloud: Using Hasura Cloud with an Aiven Postgres database",
+    "keywords": [
+      "hasura",
+      "docs",
+      "existing database",
+      "guide",
+      "aiven"
+    ],
+    "sidebar_label": "Aiven Postgres",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Hasura - Citus compatibility",
+    "permalink": "/docs/latest/databases/postgres/citus-hyperscale-postgres/hasura-citus-compatibility"
+  },
+  "next": {
+    "title": "AlloyDB Postgres",
+    "permalink": "/docs/latest/databases/postgres/alloy"
+  }
+}

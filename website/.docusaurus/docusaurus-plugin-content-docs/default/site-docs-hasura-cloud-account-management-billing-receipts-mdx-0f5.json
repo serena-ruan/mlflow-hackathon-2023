@@ -1,0 +1,37 @@
+{
+  "unversionedId": "hasura-cloud/account-management/billing/receipts",
+  "id": "hasura-cloud/account-management/billing/receipts",
+  "title": "Cloud: Receipts",
+  "description": "Hasura Cloud receipts",
+  "source": "@site/docs/hasura-cloud/account-management/billing/receipts.mdx",
+  "sourceDirName": "hasura-cloud/account-management/billing",
+  "slug": "/hasura-cloud/account-management/billing/receipts",
+  "permalink": "/docs/latest/hasura-cloud/account-management/billing/receipts",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cloud/account-management/billing/receipts.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "description": "Hasura Cloud receipts",
+    "title": "Cloud: Receipts",
+    "sidebar_label": "Hasura Cloud receipts",
+    "keywords": [
+      "hasura",
+      "docs",
+      "cloud",
+      "payment",
+      "receipts"
+    ],
+    "sidebar_position": 4
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Hasura Cloud data usage calculation",
+    "permalink": "/docs/latest/hasura-cloud/account-management/billing/billing-data-calculation"
+  },
+  "next": {
+    "title": "Marketplaces",
+    "permalink": "/docs/latest/hasura-cloud/account-management/marketplaces"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "unversionedId": "caching/caching-metrics",
+  "id": "caching/caching-metrics",
+  "title": "Caching Metrics",
+  "description": "Introduction",
+  "source": "@site/docs/caching/caching-metrics.mdx",
+  "sourceDirName": "caching",
+  "slug": "/caching/caching-metrics",
+  "permalink": "/docs/latest/caching/caching-metrics",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/caching/caching-metrics.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Caching Metrics",
+    "keywords": [
+      "docs",
+      "caching",
+      "metrics",
+      "prometheus",
+      "grafana"
+    ],
+    "sidebar_position": 6,
+    "sidebar_class_name": "enterprise-icon"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Enable caching in EE",
+    "permalink": "/docs/latest/caching/enterprise-caching"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/latest/api-reference/overview"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "unversionedId": "deployment/production-checklist",
+  "id": "deployment/production-checklist",
+  "title": "Production Checklist",
+  "description": "Checklist for deploying Hasura GraphQL Engine to production",
+  "source": "@site/docs/deployment/production-checklist.mdx",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/production-checklist",
+  "permalink": "/docs/latest/deployment/production-checklist",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/deployment/production-checklist.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 100,
+  "frontMatter": {
+    "description": "Checklist for deploying Hasura GraphQL Engine to production",
+    "keywords": [
+      "hasura",
+      "docs",
+      "deployment",
+      "production",
+      "checklist"
+    ],
+    "sidebar_position": 100,
+    "sidebar_label": "Production checklist"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Performance tuning",
+    "permalink": "/docs/latest/deployment/performance-tuning"
+  },
+  "next": {
+    "title": "Update GraphQL Engine",
+    "permalink": "/docs/latest/deployment/updating-graphql-engine"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "unversionedId": "databases/database-config/cloud-connection-pooling",
+  "id": "databases/database-config/cloud-connection-pooling",
+  "title": "Cloud: Elastic connection pools",
+  "description": "Managing connection pools in Hasura Cloud",
+  "source": "@site/docs/databases/database-config/cloud-connection-pooling.mdx",
+  "sourceDirName": "databases/database-config",
+  "slug": "/databases/database-config/cloud-connection-pooling",
+  "permalink": "/docs/latest/databases/database-config/cloud-connection-pooling",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/database-config/cloud-connection-pooling.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "Managing connection pools in Hasura Cloud",
+    "title": "Cloud: Elastic connection pools",
+    "keywords": [
+      "hasura",
+      "docs",
+      "cloud",
+      "elastic",
+      "connection",
+      "pools",
+      "autoscaling"
+    ],
+    "sidebar_label": "Elastic connection pools",
+    "sidebar_position": 2,
+    "sidebar_class_name": "cloud-icon"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Read replicas",
+    "permalink": "/docs/latest/databases/database-config/read-replicas"
+  },
+  "next": {
+    "title": "Dynamic Routing for Databases",
+    "permalink": "/docs/latest/databases/database-config/dynamic-db-connection"
+  }
+}

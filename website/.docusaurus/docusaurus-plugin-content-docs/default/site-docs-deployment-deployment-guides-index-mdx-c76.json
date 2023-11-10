@@ -1,0 +1,35 @@
+{
+  "unversionedId": "deployment/deployment-guides/index",
+  "id": "deployment/deployment-guides/index",
+  "title": "Deployment Guides",
+  "description": "Deploy Hasura GraphQL Engine",
+  "source": "@site/docs/deployment/deployment-guides/index.mdx",
+  "sourceDirName": "deployment/deployment-guides",
+  "slug": "/deployment/deployment-guides/index",
+  "permalink": "/docs/latest/deployment/deployment-guides/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/deployment/deployment-guides/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "Deploy Hasura GraphQL Engine",
+    "keywords": [
+      "hasura",
+      "docs",
+      "deployment"
+    ],
+    "slug": "index",
+    "sidebar_position": 1,
+    "sidebar_label": "Deployment guides"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/latest/deployment/overview"
+  },
+  "next": {
+    "title": "Using Docker",
+    "permalink": "/docs/latest/deployment/deployment-guides/docker"
+  }
+}

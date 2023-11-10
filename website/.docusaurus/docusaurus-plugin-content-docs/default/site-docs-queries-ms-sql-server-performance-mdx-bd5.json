@@ -1,0 +1,37 @@
+{
+  "unversionedId": "queries/ms-sql-server/performance",
+  "id": "queries/ms-sql-server/performance",
+  "title": "MS SQL Server: Query Performance",
+  "description": "Performance of Hasura GraphQL queries on MS SQL Server",
+  "source": "@site/docs/queries/ms-sql-server/performance.mdx",
+  "sourceDirName": "queries/ms-sql-server",
+  "slug": "/queries/ms-sql-server/performance",
+  "permalink": "/docs/latest/queries/ms-sql-server/performance",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/queries/ms-sql-server/performance.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_label": "Query performance",
+    "sidebar_position": 10,
+    "description": "Performance of Hasura GraphQL queries on MS SQL Server",
+    "keywords": [
+      "hasura",
+      "docs",
+      "ms sql server",
+      "schema",
+      "queries",
+      "performance"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Use variables / aliases / fragments / directives",
+    "permalink": "/docs/latest/queries/ms-sql-server/variables-aliases-fragments-directives"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/latest/mutations/overview"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "unversionedId": "schema/ms-sql-server/default-values/mssql-column-presets",
+  "id": "schema/ms-sql-server/default-values/mssql-column-presets",
+  "title": "MS SQL Server: Setting Values for Fields Using Role-Based Column Presets",
+  "description": "Set field values for MS SQL Server using role-based column presets",
+  "source": "@site/docs/schema/ms-sql-server/default-values/mssql-column-presets.mdx",
+  "sourceDirName": "schema/ms-sql-server/default-values",
+  "slug": "/schema/ms-sql-server/default-values/mssql-column-presets",
+  "permalink": "/docs/latest/schema/ms-sql-server/default-values/mssql-column-presets",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/ms-sql-server/default-values/mssql-column-presets.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "description": "Set field values for MS SQL Server using role-based column presets",
+    "keywords": [
+      "hasura",
+      "docs",
+      "ms sql server",
+      "schema",
+      "role-based",
+      "column preset"
+    ],
+    "sidebar_label": "Role based column presets",
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "MS SQL Server defaults",
+    "permalink": "/docs/latest/schema/ms-sql-server/default-values/mssql-defaults"
+  },
+  "next": {
+    "title": "Use an existing database",
+    "permalink": "/docs/latest/schema/ms-sql-server/using-existing-database"
+  }
+}

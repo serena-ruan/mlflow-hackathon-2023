@@ -1,0 +1,36 @@
+{
+  "unversionedId": "databases/overview",
+  "id": "databases/overview",
+  "title": "Databases Overview",
+  "description": "Databases available for use with Hasura GraphQL Engine",
+  "source": "@site/docs/databases/overview.mdx",
+  "sourceDirName": "databases",
+  "slug": "/databases/overview",
+  "permalink": "/docs/latest/databases/overview",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "Databases available for use with Hasura GraphQL Engine",
+    "title": "Databases Overview",
+    "sidebar_label": "Overview",
+    "keywords": [
+      "hasura",
+      "docs",
+      "remote schemas"
+    ],
+    "hide_table_of_contents": true,
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Data Sources",
+    "permalink": "/docs/latest/_heading_data_sources"
+  },
+  "next": {
+    "title": "Quickstart",
+    "permalink": "/docs/latest/databases/quickstart"
+  }
+}

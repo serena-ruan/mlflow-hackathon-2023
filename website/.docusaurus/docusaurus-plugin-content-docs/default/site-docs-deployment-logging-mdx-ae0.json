@@ -1,0 +1,36 @@
+{
+  "unversionedId": "deployment/logging",
+  "id": "deployment/logging",
+  "title": "Hasura GraphQL Engine Logs",
+  "description": "Hasura GraphQL engine logs explanation",
+  "source": "@site/docs/deployment/logging.mdx",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/logging",
+  "permalink": "/docs/latest/deployment/logging",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/deployment/logging.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 60,
+  "frontMatter": {
+    "description": "Hasura GraphQL engine logs explanation",
+    "keywords": [
+      "hasura",
+      "docs",
+      "deployment",
+      "logs",
+      "server logs"
+    ],
+    "sidebar_position": 60,
+    "sidebar_label": "Server logs"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Source Health Check",
+    "permalink": "/docs/latest/deployment/health-checks/source-health-check"
+  },
+  "next": {
+    "title": "Postgres requirements",
+    "permalink": "/docs/latest/deployment/postgres-requirements"
+  }
+}

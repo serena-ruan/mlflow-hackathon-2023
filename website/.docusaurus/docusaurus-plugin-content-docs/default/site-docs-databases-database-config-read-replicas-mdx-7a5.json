@@ -1,0 +1,39 @@
+{
+  "unversionedId": "databases/database-config/read-replicas",
+  "id": "databases/database-config/read-replicas",
+  "title": "Cloud and Enterprise Edition: Read replicas on Hasura Cloud",
+  "description": "Hasura Cloud and Hasura Enterprise read replicas",
+  "source": "@site/docs/databases/database-config/read-replicas.mdx",
+  "sourceDirName": "databases/database-config",
+  "slug": "/databases/database-config/read-replicas",
+  "permalink": "/docs/latest/databases/database-config/read-replicas",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/database-config/read-replicas.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "Hasura Cloud and Hasura Enterprise read replicas",
+    "title": "Cloud and Enterprise Edition: Read replicas on Hasura Cloud",
+    "keywords": [
+      "hasura",
+      "docs",
+      "cloud",
+      "enterprise",
+      "read replicas",
+      "connections",
+      "pool"
+    ],
+    "sidebar_label": "Read replicas",
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Connect databases",
+    "permalink": "/docs/latest/databases/database-config/index"
+  },
+  "next": {
+    "title": "Elastic connection pools",
+    "permalink": "/docs/latest/databases/database-config/cloud-connection-pooling"
+  }
+}

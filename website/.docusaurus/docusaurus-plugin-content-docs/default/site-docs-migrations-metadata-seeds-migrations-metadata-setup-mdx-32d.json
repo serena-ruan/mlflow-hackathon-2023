@@ -1,0 +1,36 @@
+{
+  "unversionedId": "migrations-metadata-seeds/migrations-metadata-setup",
+  "id": "migrations-metadata-seeds/migrations-metadata-setup",
+  "title": "Quickstart Migrations & Metadata",
+  "description": "Migrations & Metadata setup for an existing Hasura Server instance",
+  "source": "@site/docs/migrations-metadata-seeds/migrations-metadata-setup.mdx",
+  "sourceDirName": "migrations-metadata-seeds",
+  "slug": "/migrations-metadata-seeds/migrations-metadata-setup",
+  "permalink": "/docs/latest/migrations-metadata-seeds/migrations-metadata-setup",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/migrations-metadata-seeds/migrations-metadata-setup.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Quickstart",
+    "description": "Migrations & Metadata setup for an existing Hasura Server instance",
+    "sidebar_position": 2,
+    "keywords": [
+      "hasura",
+      "migration",
+      "setup",
+      "quickstart",
+      "existing Hasura"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/latest/migrations-metadata-seeds/overview"
+  },
+  "next": {
+    "title": "Manage Migrations",
+    "permalink": "/docs/latest/migrations-metadata-seeds/manage-migrations"
+  }
+}

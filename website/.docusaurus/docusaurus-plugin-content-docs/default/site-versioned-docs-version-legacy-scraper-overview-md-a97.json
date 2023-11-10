@@ -1,0 +1,20 @@
+{
+  "unversionedId": "scraper-overview",
+  "id": "version-legacy/scraper-overview",
+  "title": "Scraper Overview",
+  "description": "How?",
+  "source": "@site/versioned_docs/version-legacy/scraper-overview.md",
+  "sourceDirName": ".",
+  "slug": "/scraper-overview",
+  "permalink": "/docs/legacy/scraper-overview",
+  "draft": false,
+  "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/versioned_docs/version-legacy/scraper-overview.md",
+  "tags": [],
+  "version": "legacy",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Scraper Overview"
+  }
+}

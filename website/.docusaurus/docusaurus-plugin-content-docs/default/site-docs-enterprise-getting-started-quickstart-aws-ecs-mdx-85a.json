@@ -1,0 +1,35 @@
+{
+  "unversionedId": "enterprise/getting-started/quickstart-aws-ecs",
+  "id": "enterprise/getting-started/quickstart-aws-ecs",
+  "title": "Enterprise Edition: Quickstart with AWS ECS",
+  "description": "Quickstart with AWS ECS for Hasura Enterprise Edition",
+  "source": "@site/docs/enterprise/getting-started/quickstart-aws-ecs.mdx",
+  "sourceDirName": "enterprise/getting-started",
+  "slug": "/enterprise/getting-started/quickstart-aws-ecs",
+  "permalink": "/docs/latest/enterprise/getting-started/quickstart-aws-ecs",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/enterprise/getting-started/quickstart-aws-ecs.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Quickstart with AWS ECS",
+    "description": "Quickstart with AWS ECS for Hasura Enterprise Edition",
+    "title": "Enterprise Edition: Quickstart with AWS ECS",
+    "keywords": [
+      "hasura",
+      "docs",
+      "enterprise"
+    ],
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Quickstart with Docker",
+    "permalink": "/docs/latest/enterprise/getting-started/quickstart-docker"
+  },
+  "next": {
+    "title": "Quickstart with Kubernetes",
+    "permalink": "/docs/latest/enterprise/getting-started/quickstart-kubernetes"
+  }
+}

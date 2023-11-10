@@ -1,0 +1,35 @@
+{
+  "unversionedId": "api-reference/config",
+  "id": "api-reference/config",
+  "title": "Config API Reference",
+  "description": "Hasura config API reference",
+  "source": "@site/docs/api-reference/config.mdx",
+  "sourceDirName": "api-reference",
+  "slug": "/api-reference/config",
+  "permalink": "/docs/latest/api-reference/config",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/config.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_label": "Config API",
+    "sidebar_position": 10,
+    "description": "Hasura config API reference",
+    "keywords": [
+      "hasura",
+      "docs",
+      "config API",
+      "API reference"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "PG Dump API",
+    "permalink": "/docs/latest/api-reference/pgdump"
+  },
+  "next": {
+    "title": "Explain API",
+    "permalink": "/docs/latest/api-reference/explain"
+  }
+}

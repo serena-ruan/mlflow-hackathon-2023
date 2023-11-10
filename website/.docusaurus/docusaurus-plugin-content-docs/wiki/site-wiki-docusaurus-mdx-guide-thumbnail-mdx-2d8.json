@@ -1,0 +1,30 @@
+{
+  "unversionedId": "docusaurus-mdx-guide/thumbnail",
+  "id": "docusaurus-mdx-guide/thumbnail",
+  "title": "Thumbnail",
+  "description": "Just pass in all the valid attributes for image as props.",
+  "source": "@site/wiki/docusaurus-mdx-guide/thumbnail.mdx",
+  "sourceDirName": "docusaurus-mdx-guide",
+  "slug": "/docusaurus-mdx-guide/thumbnail",
+  "permalink": "/docs/wiki/docusaurus-mdx-guide/thumbnail",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/docusaurus-mdx-guide/thumbnail.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "wiki",
+  "previous": {
+    "title": "GraphiQL IDE",
+    "permalink": "/docs/wiki/docusaurus-mdx-guide/graphiql-ide"
+  },
+  "next": {
+    "title": "List Tables",
+    "permalink": "/docs/wiki/docusaurus-mdx-guide/list-tables"
+  }
+}

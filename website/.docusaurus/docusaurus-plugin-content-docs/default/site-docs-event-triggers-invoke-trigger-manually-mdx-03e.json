@@ -1,0 +1,36 @@
+{
+  "unversionedId": "event-triggers/invoke-trigger-manually",
+  "id": "event-triggers/invoke-trigger-manually",
+  "title": "Invoke Event Trigger Manually",
+  "description": "Invoke Event Triggers manually on the Hasura Console or over the API",
+  "source": "@site/docs/event-triggers/invoke-trigger-manually.mdx",
+  "sourceDirName": "event-triggers",
+  "slug": "/event-triggers/invoke-trigger-manually",
+  "permalink": "/docs/latest/event-triggers/invoke-trigger-manually",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/event-triggers/invoke-trigger-manually.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Invoke trigger manually",
+    "sidebar_position": 4,
+    "description": "Invoke Event Triggers manually on the Hasura Console or over the API",
+    "keywords": [
+      "hasura",
+      "docs",
+      "event trigger",
+      "console",
+      "invoke"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "REST connectors",
+    "permalink": "/docs/latest/event-triggers/rest-connectors"
+  },
+  "next": {
+    "title": "Use serverless functions",
+    "permalink": "/docs/latest/event-triggers/serverless"
+  }
+}

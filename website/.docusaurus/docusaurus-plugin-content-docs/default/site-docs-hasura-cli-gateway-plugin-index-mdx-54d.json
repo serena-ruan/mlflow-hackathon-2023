@@ -1,0 +1,33 @@
+{
+  "unversionedId": "hasura-cli/gateway-plugin/index",
+  "id": "hasura-cli/gateway-plugin/index",
+  "title": "Hasura Gateway Plugin",
+  "description": "Hasura Gateway Plugin",
+  "source": "@site/docs/hasura-cli/gateway-plugin/index.mdx",
+  "sourceDirName": "hasura-cli/gateway-plugin",
+  "slug": "/hasura-cli/gateway-plugin/",
+  "permalink": "/docs/latest/hasura-cli/gateway-plugin/",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/gateway-plugin/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Hasura Gateway Plugin",
+    "keywords": [
+      "hasura",
+      "docs",
+      "command line interface",
+      "cli"
+    ],
+    "sidebar_class_name": "cloud-icon"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "hasura connector version",
+    "permalink": "/docs/latest/hasura-cli/connector-plugin/commands/connector_version"
+  },
+  "next": {
+    "title": "Commands",
+    "permalink": "/docs/latest/hasura-cli/gateway-plugin/commands/index"
+  }
+}

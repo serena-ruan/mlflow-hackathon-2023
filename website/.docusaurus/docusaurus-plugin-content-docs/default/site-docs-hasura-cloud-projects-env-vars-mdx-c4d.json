@@ -1,0 +1,36 @@
+{
+  "unversionedId": "hasura-cloud/projects/env-vars",
+  "id": "hasura-cloud/projects/env-vars",
+  "title": "Cloud: Project Env vars",
+  "description": "Managing env vars on Hasura Cloud",
+  "source": "@site/docs/hasura-cloud/projects/env-vars.mdx",
+  "sourceDirName": "hasura-cloud/projects",
+  "slug": "/hasura-cloud/projects/env-vars",
+  "permalink": "/docs/latest/hasura-cloud/projects/env-vars",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cloud/projects/env-vars.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "description": "Managing env vars on Hasura Cloud",
+    "sidebar_label": "Manage env vars",
+    "title": "Cloud: Project Env vars",
+    "keywords": [
+      "hasura",
+      "docs",
+      "project",
+      "env vars"
+    ],
+    "sidebar_position": 6
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Recover Project",
+    "permalink": "/docs/latest/hasura-cloud/projects/recover"
+  },
+  "next": {
+    "title": "Secure Projects",
+    "permalink": "/docs/latest/hasura-cloud/projects/secure"
+  }
+}

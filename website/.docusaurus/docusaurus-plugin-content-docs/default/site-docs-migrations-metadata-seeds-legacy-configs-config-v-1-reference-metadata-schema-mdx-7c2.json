@@ -1,0 +1,35 @@
+{
+  "unversionedId": "migrations-metadata-seeds/legacy-configs/config-v1/reference/metadata-schema",
+  "id": "migrations-metadata-seeds/legacy-configs/config-v1/reference/metadata-schema",
+  "title": "Metadata Catalogue",
+  "description": "Hasura Metadata catalogue",
+  "source": "@site/docs/migrations-metadata-seeds/legacy-configs/config-v1/reference/metadata-schema.mdx",
+  "sourceDirName": "migrations-metadata-seeds/legacy-configs/config-v1/reference",
+  "slug": "/migrations-metadata-seeds/legacy-configs/config-v1/reference/metadata-schema",
+  "permalink": "/docs/latest/migrations-metadata-seeds/legacy-configs/config-v1/reference/metadata-schema",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/migrations-metadata-seeds/legacy-configs/config-v1/reference/metadata-schema.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "description": "Hasura Metadata catalogue",
+    "sidebar_position": 9,
+    "sidebar_label": "Metadata catalogue",
+    "keywords": [
+      "hasura",
+      "docs",
+      "metadata catalogue",
+      "how it works"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Metadata file format",
+    "permalink": "/docs/latest/migrations-metadata-seeds/legacy-configs/config-v1/reference/metadata-file-format"
+  },
+  "next": {
+    "title": "Continuous Integration and Continuous Deployment with Hasura Cloud",
+    "permalink": "/docs/latest/cloud-ci-cd/index"
+  }
+}

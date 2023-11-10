@@ -1,0 +1,33 @@
+{
+  "unversionedId": "databases/postgres/index",
+  "id": "databases/postgres/index",
+  "title": "Postgres & Compatible Databases",
+  "description": "Hasura Postgres database support",
+  "source": "@site/docs/databases/postgres/index.mdx",
+  "sourceDirName": "databases/postgres",
+  "slug": "/databases/postgres/index",
+  "permalink": "/docs/latest/databases/postgres/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/postgres/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Hasura Postgres database support",
+    "keywords": [
+      "hasura",
+      "docs",
+      "databases",
+      "postgres"
+    ],
+    "slug": "index"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Data Connector SDK",
+    "permalink": "/docs/latest/databases/data-connectors/data-connector-sdk"
+  },
+  "next": {
+    "title": "Citus / Hyperscale",
+    "permalink": "/docs/latest/databases/postgres/citus-hyperscale-postgres/index"
+  }
+}

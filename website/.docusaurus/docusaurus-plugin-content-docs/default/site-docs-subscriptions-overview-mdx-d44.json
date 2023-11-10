@@ -1,0 +1,36 @@
+{
+  "unversionedId": "subscriptions/overview",
+  "id": "subscriptions/overview",
+  "title": "Subscriptions Overview",
+  "description": "Manage subscriptions on your database with Hasura",
+  "source": "@site/docs/subscriptions/overview.mdx",
+  "sourceDirName": "subscriptions",
+  "slug": "/subscriptions/overview",
+  "permalink": "/docs/latest/subscriptions/overview",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/subscriptions/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "Manage subscriptions on your database with Hasura",
+    "title": "Subscriptions Overview",
+    "sidebar_label": "Overview",
+    "keywords": [
+      "hasura",
+      "docs",
+      "subscription"
+    ],
+    "hide_table_of_contents": true,
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Delete",
+    "permalink": "/docs/latest/mutations/ms-sql-server/delete"
+  },
+  "next": {
+    "title": "Quickstart",
+    "permalink": "/docs/latest/subscriptions/quickstart"
+  }
+}

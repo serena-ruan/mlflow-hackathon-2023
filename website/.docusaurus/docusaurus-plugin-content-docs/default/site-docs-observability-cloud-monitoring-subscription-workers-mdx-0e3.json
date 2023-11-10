@@ -1,0 +1,36 @@
+{
+  "unversionedId": "observability/cloud-monitoring/subscription-workers",
+  "id": "observability/cloud-monitoring/subscription-workers",
+  "title": "Cloud: Subscription workers",
+  "description": "Hasura Cloud subscription workers",
+  "source": "@site/docs/observability/cloud-monitoring/subscription-workers.mdx",
+  "sourceDirName": "observability/cloud-monitoring",
+  "slug": "/observability/cloud-monitoring/subscription-workers",
+  "permalink": "/docs/latest/observability/cloud-monitoring/subscription-workers",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/observability/cloud-monitoring/subscription-workers.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "sidebar_label": "Subscription workers",
+    "description": "Hasura Cloud subscription workers",
+    "title": "Cloud: Subscription workers",
+    "keywords": [
+      "hasura",
+      "docs",
+      "cloud",
+      "subscription-workers"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Websockets",
+    "permalink": "/docs/latest/observability/cloud-monitoring/websockets"
+  },
+  "next": {
+    "title": "Distributed tracing",
+    "permalink": "/docs/latest/observability/cloud-monitoring/tracing"
+  }
+}

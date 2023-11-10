@@ -1,0 +1,35 @@
+{
+  "unversionedId": "api-reference/version",
+  "id": "api-reference/version",
+  "title": "Version API Reference",
+  "description": "Hasura version API reference",
+  "source": "@site/docs/api-reference/version.mdx",
+  "sourceDirName": "api-reference",
+  "slug": "/api-reference/version",
+  "permalink": "/docs/latest/api-reference/version",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/version.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_label": "Version API",
+    "sidebar_position": 7,
+    "description": "Hasura version API reference",
+    "keywords": [
+      "hasura",
+      "docs",
+      "version API",
+      "API reference"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "RESTified GraphQL endpoints",
+    "permalink": "/docs/latest/api-reference/restified"
+  },
+  "next": {
+    "title": "Health Check API",
+    "permalink": "/docs/latest/api-reference/health"
+  }
+}

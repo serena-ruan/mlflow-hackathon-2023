@@ -1,0 +1,27 @@
+{
+  "unversionedId": "index",
+  "id": "index",
+  "title": "Hasura Docs Wiki",
+  "description": "Welcome to the Hasura Docs Wiki! We're glad you're here and are excited to see your docs contributions. They're going to",
+  "source": "@site/wiki/index.mdx",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/wiki/",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/index.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_label": "Introduction",
+    "sidebar_position": 10
+  },
+  "sidebar": "wiki",
+  "next": {
+    "title": "Docs SLA",
+    "permalink": "/docs/wiki/sla"
+  }
+}

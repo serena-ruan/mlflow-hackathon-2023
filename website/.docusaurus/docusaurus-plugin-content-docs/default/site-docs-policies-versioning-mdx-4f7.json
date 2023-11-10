@@ -1,0 +1,35 @@
+{
+  "unversionedId": "policies/versioning",
+  "id": "policies/versioning",
+  "title": "Hasura Version Support Policy",
+  "description": "The version support policy for Hasura GraphQL Engine",
+  "source": "@site/docs/policies/versioning.mdx",
+  "sourceDirName": "policies",
+  "slug": "/policies/versioning",
+  "permalink": "/docs/latest/policies/versioning",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/policies/versioning.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "The version support policy for Hasura GraphQL Engine",
+    "sidebar_label": "Version Support Policy",
+    "sidebar_position": 1,
+    "keywords": [
+      "version",
+      "support",
+      "LTS",
+      "long term support"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/latest/policies/overview"
+  },
+  "next": {
+    "title": "Hasura SLA",
+    "permalink": "/docs/latest/policies/sla"
+  }
+}

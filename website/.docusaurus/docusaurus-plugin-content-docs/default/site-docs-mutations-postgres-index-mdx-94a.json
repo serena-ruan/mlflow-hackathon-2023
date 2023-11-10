@@ -1,0 +1,33 @@
+{
+  "unversionedId": "mutations/postgres/index",
+  "id": "mutations/postgres/index",
+  "title": "Postgres: GraphQL Mutations",
+  "description": "Manage mutations on Postgres with Hasura",
+  "source": "@site/docs/mutations/postgres/index.mdx",
+  "sourceDirName": "mutations/postgres",
+  "slug": "/mutations/postgres/index",
+  "permalink": "/docs/latest/mutations/postgres/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/mutations/postgres/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Manage mutations on Postgres with Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "postgres",
+      "mutation"
+    ],
+    "slug": "index"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Quickstart",
+    "permalink": "/docs/latest/mutations/quickstart"
+  },
+  "next": {
+    "title": "Insert",
+    "permalink": "/docs/latest/mutations/postgres/insert"
+  }
+}

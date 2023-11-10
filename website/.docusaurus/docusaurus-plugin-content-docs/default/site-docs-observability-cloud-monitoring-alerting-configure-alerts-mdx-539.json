@@ -1,0 +1,36 @@
+{
+  "unversionedId": "observability/cloud-monitoring/alerting/configure-alerts",
+  "id": "observability/cloud-monitoring/alerting/configure-alerts",
+  "title": "Configure alerts",
+  "description": "Configure Alerts for Hasura Cloud",
+  "source": "@site/docs/observability/cloud-monitoring/alerting/configure-alerts.mdx",
+  "sourceDirName": "observability/cloud-monitoring/alerting",
+  "slug": "/observability/cloud-monitoring/alerting/configure-alerts",
+  "permalink": "/docs/latest/observability/cloud-monitoring/alerting/configure-alerts",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/observability/cloud-monitoring/alerting/configure-alerts.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Configure alerts",
+    "description": "Configure Alerts for Hasura Cloud",
+    "sidebar_label": "Configure alerts",
+    "keywords": [
+      "hasura",
+      "docs",
+      "observability",
+      "alert"
+    ],
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Alerts",
+    "permalink": "/docs/latest/observability/cloud-monitoring/alerting/"
+  },
+  "next": {
+    "title": "Errors",
+    "permalink": "/docs/latest/observability/cloud-monitoring/errors"
+  }
+}

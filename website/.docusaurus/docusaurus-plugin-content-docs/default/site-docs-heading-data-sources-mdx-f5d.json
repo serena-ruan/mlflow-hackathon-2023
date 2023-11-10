@@ -1,0 +1,29 @@
+{
+  "unversionedId": "_heading_data_sources",
+  "id": "_heading_data_sources",
+  "title": "_heading_data_sources",
+  "description": "",
+  "source": "@site/docs/_heading_data_sources.mdx",
+  "sourceDirName": ".",
+  "slug": "/_heading_data_sources",
+  "permalink": "/docs/latest/_heading_data_sources",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/_heading_data_sources.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "sidebar_position": 20,
+    "sidebar_label": "Data Sources",
+    "sidebar_class_name": "sidebar_heading"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "How Hasura GraphQL Engine Works",
+    "permalink": "/docs/latest/getting-started/how-it-works/index"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/latest/databases/overview"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "unversionedId": "auth/authentication/index",
+  "id": "auth/authentication/index",
+  "title": "Authentication",
+  "description": "Manage authentication with Hasura",
+  "source": "@site/docs/auth/authentication/index.mdx",
+  "sourceDirName": "auth/authentication",
+  "slug": "/auth/authentication/index",
+  "permalink": "/docs/latest/auth/authentication/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/auth/authentication/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "Manage authentication with Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "authentication",
+      "auth"
+    ],
+    "slug": "index",
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "How it works",
+    "permalink": "/docs/latest/auth/how-it-works"
+  },
+  "next": {
+    "title": "Quickstart",
+    "permalink": "/docs/latest/auth/authentication/quickstart"
+  }
+}

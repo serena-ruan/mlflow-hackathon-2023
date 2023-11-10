@@ -1,0 +1,36 @@
+{
+  "unversionedId": "schema/postgres/postgres-guides/auditing-tables",
+  "id": "schema/postgres/postgres-guides/auditing-tables",
+  "title": "Auditing Actions on Tables in Postgres",
+  "description": "Audit Actions on tables in Postgres with Hasura",
+  "source": "@site/docs/schema/postgres/postgres-guides/auditing-tables.mdx",
+  "sourceDirName": "schema/postgres/postgres-guides",
+  "slug": "/schema/postgres/postgres-guides/auditing-tables",
+  "permalink": "/docs/latest/schema/postgres/postgres-guides/auditing-tables",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/postgres/postgres-guides/auditing-tables.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "description": "Audit Actions on tables in Postgres with Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "guide",
+      "postgres",
+      "audit table"
+    ],
+    "sidebar_position": 8,
+    "sidebar_label": "Auditing tables"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Import data from CSV",
+    "permalink": "/docs/latest/schema/postgres/postgres-guides/import-data-from-csv"
+  },
+  "next": {
+    "title": "Schema",
+    "permalink": "/docs/latest/schema/bigquery/index"
+  }
+}

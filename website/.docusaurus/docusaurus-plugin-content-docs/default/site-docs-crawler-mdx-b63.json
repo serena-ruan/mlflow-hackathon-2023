@@ -1,0 +1,29 @@
+{
+  "unversionedId": "crawler",
+  "id": "crawler",
+  "title": "DocSearch x Algolia Crawler",
+  "description": "If you're not finding the answer to your question on this website, this page will help you. If you're still unsure, don't hesitate to send your question to us directly.",
+  "source": "@site/docs/crawler.mdx",
+  "sourceDirName": ".",
+  "slug": "/crawler",
+  "permalink": "/docs/crawler",
+  "draft": false,
+  "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/crawler.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "DocSearch x Algolia Crawler"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Manage your crawls",
+    "permalink": "/docs/manage-your-crawls"
+  },
+  "next": {
+    "title": "DocSearch program",
+    "permalink": "/docs/DocSearch-program"
+  }
+}

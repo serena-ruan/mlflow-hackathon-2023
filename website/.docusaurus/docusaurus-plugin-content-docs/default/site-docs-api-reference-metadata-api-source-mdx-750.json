@@ -1,0 +1,37 @@
+{
+  "unversionedId": "api-reference/metadata-api/source",
+  "id": "api-reference/metadata-api/source",
+  "title": "Metadata API Reference: Databases",
+  "description": "Manage databases with the Hasura Metadata API",
+  "source": "@site/docs/api-reference/metadata-api/source.mdx",
+  "sourceDirName": "api-reference/metadata-api",
+  "slug": "/api-reference/metadata-api/source",
+  "permalink": "/docs/latest/api-reference/metadata-api/source",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/metadata-api/source.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Databases",
+    "sidebar_position": 1,
+    "description": "Manage databases with the Hasura Metadata API",
+    "keywords": [
+      "hasura",
+      "docs",
+      "Metadata API",
+      "API reference",
+      "database",
+      "source"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Metadata API Reference",
+    "permalink": "/docs/latest/api-reference/metadata-api/index"
+  },
+  "next": {
+    "title": "Tables/Views",
+    "permalink": "/docs/latest/api-reference/metadata-api/table-view"
+  }
+}

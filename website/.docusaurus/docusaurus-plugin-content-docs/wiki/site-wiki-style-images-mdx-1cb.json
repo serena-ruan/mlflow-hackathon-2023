@@ -1,0 +1,36 @@
+{
+  "unversionedId": "style/images",
+  "id": "style/images",
+  "title": "Images",
+  "description": "Style for images and screenshots in documentation",
+  "source": "@site/wiki/style/images.mdx",
+  "sourceDirName": "style",
+  "slug": "/style/images",
+  "permalink": "/docs/wiki/style/images",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/style/images.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Images",
+    "description": "Style for images and screenshots in documentation",
+    "keywords": [
+      "hasura",
+      "style",
+      "images"
+    ],
+    "slug": "images"
+  },
+  "sidebar": "wiki",
+  "previous": {
+    "title": "Headings",
+    "permalink": "/docs/wiki/style/headings"
+  },
+  "next": {
+    "title": "Links",
+    "permalink": "/docs/wiki/style/links"
+  }
+}

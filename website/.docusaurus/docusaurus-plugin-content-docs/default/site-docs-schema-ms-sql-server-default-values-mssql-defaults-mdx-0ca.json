@@ -1,0 +1,37 @@
+{
+  "unversionedId": "schema/ms-sql-server/default-values/mssql-defaults",
+  "id": "schema/ms-sql-server/default-values/mssql-defaults",
+  "title": "MS SQL Server: Setting Default Values for Fields Using MS SQL Server Defaults",
+  "description": "Set default field values for MS SQL Server using MS SQL Server defaults in Hasura",
+  "source": "@site/docs/schema/ms-sql-server/default-values/mssql-defaults.mdx",
+  "sourceDirName": "schema/ms-sql-server/default-values",
+  "slug": "/schema/ms-sql-server/default-values/mssql-defaults",
+  "permalink": "/docs/latest/schema/ms-sql-server/default-values/mssql-defaults",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/ms-sql-server/default-values/mssql-defaults.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "Set default field values for MS SQL Server using MS SQL Server defaults in Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "ms sql server",
+      "schema",
+      "default value",
+      "MS SQL Server default"
+    ],
+    "sidebar_label": "MS SQL Server defaults",
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "MS SQL Server: Setting Default Values for Fields",
+    "permalink": "/docs/latest/schema/ms-sql-server/default-values/index"
+  },
+  "next": {
+    "title": "Role based column presets",
+    "permalink": "/docs/latest/schema/ms-sql-server/default-values/mssql-column-presets"
+  }
+}

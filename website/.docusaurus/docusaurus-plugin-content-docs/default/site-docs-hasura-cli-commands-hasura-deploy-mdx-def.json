@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/commands/hasura_deploy",
+  "id": "hasura-cli/commands/hasura_deploy",
+  "title": "Hasura CLI: hasura deploy",
+  "description": "(PREVIEW) Utility command to apply Hasura Metadata & database migrations to graphql-engine using the Hasura CLI",
+  "source": "@site/docs/hasura-cli/commands/hasura_deploy.mdx",
+  "sourceDirName": "hasura-cli/commands",
+  "slug": "/hasura-cli/commands/hasura_deploy",
+  "permalink": "/docs/latest/hasura-cli/commands/hasura_deploy",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/commands/hasura_deploy.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_label": "hasura deploy",
+    "sidebar_position": 8,
+    "description": "(PREVIEW) Utility command to apply Hasura Metadata & database migrations to graphql-engine using the Hasura CLI",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "hasura deploy"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "hasura console",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_console"
+  },
+  "next": {
+    "title": "hasura init",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_init"
+  }
+}

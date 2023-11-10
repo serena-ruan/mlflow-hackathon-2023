@@ -1,0 +1,37 @@
+{
+  "unversionedId": "ai/integrations/jupyter-notebooks",
+  "id": "ai/integrations/jupyter-notebooks",
+  "title": "Jupyter Python Notebook & API Server",
+  "description": "Information about Hasura Data Connectors using Jupyter Notebooks",
+  "source": "@site/docs/ai/integrations/jupyter-notebooks.mdx",
+  "sourceDirName": "ai/integrations",
+  "slug": "/ai/integrations/jupyter-notebooks",
+  "permalink": "/docs/latest/ai/integrations/jupyter-notebooks",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/ai/integrations/jupyter-notebooks.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 45.5,
+  "frontMatter": {
+    "description": "Information about Hasura Data Connectors using Jupyter Notebooks",
+    "sidebar_label": "Jupyter Notebooks",
+    "keywords": [
+      "hasura",
+      "docs",
+      "databases",
+      "data connectors",
+      "jupyter",
+      "python"
+    ],
+    "sidebar_position": 45.5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "AI Integrations",
+    "permalink": "/docs/latest/ai/integrations/index"
+  },
+  "next": {
+    "title": "Vectorize PostgreSQL data",
+    "permalink": "/docs/latest/ai/vectorize-postgesql-data"
+  }
+}

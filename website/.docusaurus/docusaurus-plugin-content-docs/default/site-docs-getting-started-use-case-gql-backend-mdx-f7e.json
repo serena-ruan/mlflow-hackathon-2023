@@ -1,0 +1,37 @@
+{
+  "unversionedId": "getting-started/use-case/gql-backend",
+  "id": "getting-started/use-case/gql-backend",
+  "title": "Build a GraphQL backend for an application",
+  "description": "Build a GraphQL backend for an application using Hasura",
+  "source": "@site/docs/getting-started/use-case/gql-backend.mdx",
+  "sourceDirName": "getting-started/use-case",
+  "slug": "/getting-started/use-case/gql-backend",
+  "permalink": "/docs/latest/getting-started/use-case/gql-backend",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/getting-started/use-case/gql-backend.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "Build a GraphQL backend for an application using Hasura",
+    "title": "Build a GraphQL backend for an application",
+    "sidebar_label": "Build a GraphQL backend",
+    "keywords": [
+      "hasura",
+      "graphql",
+      "backend",
+      "tutorial",
+      "resource"
+    ],
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/latest/getting-started/use-case/overview"
+  },
+  "next": {
+    "title": "Build a data access layer",
+    "permalink": "/docs/latest/getting-started/use-case/data-api"
+  }
+}

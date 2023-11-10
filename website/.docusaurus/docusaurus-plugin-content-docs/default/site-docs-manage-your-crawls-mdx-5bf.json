@@ -1,0 +1,29 @@
+{
+  "unversionedId": "manage-your-crawls",
+  "id": "manage-your-crawls",
+  "title": "Manage your crawls",
+  "description": "DocSearch comes with the Algolia Crawler web interface that allows you to configure how and when your Algolia index will be populated.",
+  "source": "@site/docs/manage-your-crawls.mdx",
+  "sourceDirName": ".",
+  "slug": "/manage-your-crawls",
+  "permalink": "/docs/manage-your-crawls",
+  "draft": false,
+  "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/manage-your-crawls.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Manage your crawls"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Config templates",
+    "permalink": "/docs/templates"
+  },
+  "next": {
+    "title": "DocSearch x Algolia Crawler",
+    "permalink": "/docs/crawler"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "unversionedId": "actions/action-permissions",
+  "id": "actions/action-permissions",
+  "title": "Actions Permissions",
+  "description": "Permissions for Hasura Actions",
+  "source": "@site/docs/actions/action-permissions.mdx",
+  "sourceDirName": "actions",
+  "slug": "/actions/action-permissions",
+  "permalink": "/docs/latest/actions/action-permissions",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/actions/action-permissions.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_label": "Actions permissions",
+    "sidebar_position": 7,
+    "description": "Permissions for Hasura Actions",
+    "keywords": [
+      "hasura",
+      "docs",
+      "actions",
+      "permissions"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Derive Actions",
+    "permalink": "/docs/latest/actions/derive"
+  },
+  "next": {
+    "title": "Actions relationships",
+    "permalink": "/docs/latest/actions/action-relationships"
+  }
+}

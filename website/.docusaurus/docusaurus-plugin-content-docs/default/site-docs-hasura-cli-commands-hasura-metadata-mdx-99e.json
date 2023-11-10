@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/commands/hasura_metadata",
+  "id": "hasura-cli/commands/hasura_metadata",
+  "title": "Hasura CLI: hasura metadata",
+  "description": "Manage Hasura GraphQL Engine Metadata saved in the database using the Hasura CLI",
+  "source": "@site/docs/hasura-cli/commands/hasura_metadata.mdx",
+  "sourceDirName": "hasura-cli/commands",
+  "slug": "/hasura-cli/commands/hasura_metadata",
+  "permalink": "/docs/latest/hasura-cli/commands/hasura_metadata",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/commands/hasura_metadata.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_label": "hasura metadata",
+    "sidebar_position": 12,
+    "description": "Manage Hasura GraphQL Engine Metadata saved in the database using the Hasura CLI",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "hasura metadata"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "hasura init",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_init"
+  },
+  "next": {
+    "title": "hasura metadata apply",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_metadata_apply"
+  }
+}

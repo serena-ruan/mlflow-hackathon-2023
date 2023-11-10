@@ -1,0 +1,36 @@
+{
+  "unversionedId": "style/product-badges",
+  "id": "style/product-badges",
+  "title": "Product Badges",
+  "description": "How to add badges to your product pages",
+  "source": "@site/wiki/style/product-badges.mdx",
+  "sourceDirName": "style",
+  "slug": "/style/product-badges",
+  "permalink": "/docs/wiki/style/product-badges",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/style/product-badges.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Product Badges",
+    "description": "How to add badges to your product pages",
+    "keywords": [
+      "hasura",
+      "style",
+      "product badges"
+    ],
+    "slug": "product-badges"
+  },
+  "sidebar": "wiki",
+  "previous": {
+    "title": "Links",
+    "permalink": "/docs/wiki/style/links"
+  },
+  "next": {
+    "title": "Semantics",
+    "permalink": "/docs/wiki/style/semantics"
+  }
+}

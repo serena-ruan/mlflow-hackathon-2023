@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/commands/hasura_init",
+  "id": "hasura-cli/commands/hasura_init",
+  "title": "Hasura CLI: hasura init",
+  "description": "Initialize a new Hasura GraphQL Engine project using the Hasura CLI",
+  "source": "@site/docs/hasura-cli/commands/hasura_init.mdx",
+  "sourceDirName": "hasura-cli/commands",
+  "slug": "/hasura-cli/commands/hasura_init",
+  "permalink": "/docs/latest/hasura-cli/commands/hasura_init",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/commands/hasura_init.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_label": "hasura init",
+    "sidebar_position": 11,
+    "description": "Initialize a new Hasura GraphQL Engine project using the Hasura CLI",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "hasura init"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "hasura deploy",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_deploy"
+  },
+  "next": {
+    "title": "hasura metadata",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_metadata"
+  }
+}

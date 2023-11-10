@@ -1,0 +1,37 @@
+{
+  "unversionedId": "deployment/tls-allow-list",
+  "id": "deployment/tls-allow-list",
+  "title": "Insecure TLS Allow List",
+  "description": "Add hosts the insecure TLS allow list",
+  "source": "@site/docs/deployment/tls-allow-list.mdx",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/tls-allow-list",
+  "permalink": "/docs/latest/deployment/tls-allow-list",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/deployment/tls-allow-list.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 85,
+  "frontMatter": {
+    "sidebar_label": "TLS Allow List",
+    "sidebar_position": 85,
+    "description": "Add hosts the insecure TLS allow list",
+    "keywords": [
+      "hasura",
+      "docs",
+      "network options",
+      "TLS",
+      "allow list",
+      "TLS allow list"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Enable HTTPS",
+    "permalink": "/docs/latest/deployment/enable-https"
+  },
+  "next": {
+    "title": "Performance tuning",
+    "permalink": "/docs/latest/deployment/performance-tuning"
+  }
+}

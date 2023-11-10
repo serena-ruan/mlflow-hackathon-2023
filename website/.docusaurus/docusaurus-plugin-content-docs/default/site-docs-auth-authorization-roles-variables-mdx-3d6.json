@@ -1,0 +1,37 @@
+{
+  "unversionedId": "auth/authorization/roles-variables",
+  "id": "auth/authorization/roles-variables",
+  "title": "Roles & Session Variables",
+  "description": "Remote Schema permissions",
+  "source": "@site/docs/auth/authorization/roles-variables.mdx",
+  "sourceDirName": "auth/authorization",
+  "slug": "/auth/authorization/roles-variables",
+  "permalink": "/docs/latest/auth/authorization/roles-variables",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/auth/authorization/roles-variables.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "description": "Remote Schema permissions",
+    "keywords": [
+      "authorization",
+      "docs",
+      "authorization",
+      "access control",
+      "permission",
+      "role",
+      "session variable"
+    ],
+    "sidebar_position": 20
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Quickstart",
+    "permalink": "/docs/latest/auth/authorization/quickstart"
+  },
+  "next": {
+    "title": "Configuring Permission Rules",
+    "permalink": "/docs/latest/auth/authorization/permissions/"
+  }
+}

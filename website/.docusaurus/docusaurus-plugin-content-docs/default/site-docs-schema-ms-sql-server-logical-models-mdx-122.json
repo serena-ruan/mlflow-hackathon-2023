@@ -1,0 +1,37 @@
+{
+  "unversionedId": "schema/ms-sql-server/logical-models",
+  "id": "schema/ms-sql-server/logical-models",
+  "title": "MS SQL Server: Logical Models",
+  "description": "Customize the Hasura GraphQL schema with Logical Models",
+  "source": "@site/docs/schema/ms-sql-server/logical-models.mdx",
+  "sourceDirName": "schema/ms-sql-server",
+  "slug": "/schema/ms-sql-server/logical-models",
+  "permalink": "/docs/latest/schema/ms-sql-server/logical-models",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/ms-sql-server/logical-models.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Logical Models",
+    "sidebar_position": 4,
+    "description": "Customize the Hasura GraphQL schema with Logical Models",
+    "keywords": [
+      "hasura",
+      "docs",
+      "ms sql server",
+      "schema",
+      "Logical Models",
+      "Native Queries"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Extend with Stored procedures",
+    "permalink": "/docs/latest/schema/ms-sql-server/stored-procedures"
+  },
+  "next": {
+    "title": "Native Queries",
+    "permalink": "/docs/latest/schema/ms-sql-server/native-queries"
+  }
+}

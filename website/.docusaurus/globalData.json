@@ -1,0 +1,190 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "current",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "mlflow-doc-main",
+          "docs": [
+            {
+              "id": "api",
+              "path": "/docs/api",
+              "sidebar": "docs"
+            },
+            {
+              "id": "crawler",
+              "path": "/docs/crawler",
+              "sidebar": "docs"
+            },
+            {
+              "id": "DocSearch-program",
+              "path": "/docs/DocSearch-program",
+              "sidebar": "docs"
+            },
+            {
+              "id": "DocSearch-v3",
+              "path": "/docs/DocSearch-v3",
+              "sidebar": "docs"
+            },
+            {
+              "id": "how-does-it-work",
+              "path": "/docs/how-does-it-work",
+              "sidebar": "docs"
+            },
+            {
+              "id": "integrations",
+              "path": "/docs/integrations",
+              "sidebar": "docs"
+            },
+            {
+              "id": "manage-your-crawls",
+              "path": "/docs/manage-your-crawls",
+              "sidebar": "docs"
+            },
+            {
+              "id": "migrating-from-legacy",
+              "path": "/docs/migrating-from-legacy",
+              "sidebar": "docs"
+            },
+            {
+              "id": "migrating-from-v2",
+              "path": "/docs/migrating-from-v2",
+              "sidebar": "docs"
+            },
+            {
+              "id": "mlflow-doc-main",
+              "path": "/docs/mlflow-doc-main",
+              "sidebar": "docs"
+            },
+            {
+              "id": "record-extractor",
+              "path": "/docs/record-extractor",
+              "sidebar": "docs"
+            },
+            {
+              "id": "required-configuration",
+              "path": "/docs/required-configuration",
+              "sidebar": "docs"
+            },
+            {
+              "id": "styling",
+              "path": "/docs/styling",
+              "sidebar": "docs"
+            },
+            {
+              "id": "templates",
+              "path": "/docs/templates",
+              "sidebar": "docs"
+            },
+            {
+              "id": "tips",
+              "path": "/docs/tips",
+              "sidebar": "docs"
+            },
+            {
+              "id": "what-is-docsearch",
+              "path": "/docs/what-is-docsearch",
+              "sidebar": "docs"
+            },
+            {
+              "id": "who-can-apply",
+              "path": "/docs/who-can-apply",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/docs/mlflow-doc-main",
+                "label": "MLflow"
+              }
+            }
+          }
+        },
+        {
+          "name": "legacy",
+          "label": "legacy",
+          "isLast": false,
+          "path": "/docs/legacy",
+          "mainDocId": "dropdown",
+          "docs": [
+            {
+              "id": "behavior",
+              "path": "/docs/legacy/behavior",
+              "sidebar": "version-legacy/docs"
+            },
+            {
+              "id": "config-file",
+              "path": "/docs/legacy/config-file",
+              "sidebar": "version-legacy/docs"
+            },
+            {
+              "id": "dropdown",
+              "path": "/docs/legacy/dropdown",
+              "sidebar": "version-legacy/docs"
+            },
+            {
+              "id": "faq",
+              "path": "/docs/legacy/faq",
+              "sidebar": "version-legacy/docs"
+            },
+            {
+              "id": "how-do-we-build-an-index",
+              "path": "/docs/legacy/how-do-we-build-an-index",
+              "sidebar": "version-legacy/docs"
+            },
+            {
+              "id": "inside-the-engine",
+              "path": "/docs/legacy/inside-the-engine",
+              "sidebar": "version-legacy/docs"
+            },
+            {
+              "id": "integrations",
+              "path": "/docs/legacy/integrations",
+              "sidebar": "version-legacy/docs"
+            },
+            {
+              "id": "required-configuration",
+              "path": "/docs/legacy/required-configuration",
+              "sidebar": "version-legacy/docs"
+            },
+            {
+              "id": "run-your-own",
+              "path": "/docs/legacy/run-your-own",
+              "sidebar": "version-legacy/docs"
+            },
+            {
+              "id": "scraper-overview",
+              "path": "/docs/legacy/scraper-overview"
+            },
+            {
+              "id": "styling",
+              "path": "/docs/legacy/styling",
+              "sidebar": "version-legacy/docs"
+            },
+            {
+              "id": "tips",
+              "path": "/docs/legacy/tips",
+              "sidebar": "version-legacy/docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "version-legacy/docs": {
+              "link": {
+                "path": "/docs/legacy/dropdown",
+                "label": "version-legacy/dropdown"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

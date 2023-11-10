@@ -1,0 +1,34 @@
+{
+  "unversionedId": "enterprise/getting-started/index",
+  "id": "enterprise/getting-started/index",
+  "title": "Enterprise Edition: Get started",
+  "description": "Gett started for the Hasura Enterprise Edition",
+  "source": "@site/docs/enterprise/getting-started/index.mdx",
+  "sourceDirName": "enterprise/getting-started",
+  "slug": "/enterprise/getting-started/index",
+  "permalink": "/docs/latest/enterprise/getting-started/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/enterprise/getting-started/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Get started",
+    "description": "Gett started for the Hasura Enterprise Edition",
+    "title": "Enterprise Edition: Get started",
+    "keywords": [
+      "hasura",
+      "docs",
+      "enterprise"
+    ],
+    "slug": "index"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Try Hasura Enterprise",
+    "permalink": "/docs/latest/enterprise/try-hasura-enterprise-edition"
+  },
+  "next": {
+    "title": "Quickstart with Docker",
+    "permalink": "/docs/latest/enterprise/getting-started/quickstart-docker"
+  }
+}

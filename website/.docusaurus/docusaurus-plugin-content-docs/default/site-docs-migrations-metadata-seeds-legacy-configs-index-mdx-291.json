@@ -1,0 +1,37 @@
+{
+  "unversionedId": "migrations-metadata-seeds/legacy-configs/index",
+  "id": "migrations-metadata-seeds/legacy-configs/index",
+  "title": "Migrations and Metadata Legacy Configs",
+  "description": "Migrations and Metadata Legacy Configs",
+  "source": "@site/docs/migrations-metadata-seeds/legacy-configs/index.mdx",
+  "sourceDirName": "migrations-metadata-seeds/legacy-configs",
+  "slug": "/migrations-metadata-seeds/legacy-configs/index",
+  "permalink": "/docs/latest/migrations-metadata-seeds/legacy-configs/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/migrations-metadata-seeds/legacy-configs/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Legacy configs",
+    "description": "Migrations and Metadata Legacy Configs",
+    "keywords": [
+      "hasura",
+      "docs",
+      "migration",
+      "metadata",
+      "CI/CD",
+      "ci",
+      "cd"
+    ],
+    "slug": "index"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Metadata Best Practices",
+    "permalink": "/docs/latest/migrations-metadata-seeds/metadata-best-practices"
+  },
+  "next": {
+    "title": "Upgrading to config v3",
+    "permalink": "/docs/latest/migrations-metadata-seeds/legacy-configs/upgrade-v3"
+  }
+}

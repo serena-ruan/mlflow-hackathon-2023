@@ -1,0 +1,35 @@
+{
+  "unversionedId": "api-reference/explain",
+  "id": "api-reference/explain",
+  "title": "Explain API Reference",
+  "description": "Hasura explain API reference",
+  "source": "@site/docs/api-reference/explain.mdx",
+  "sourceDirName": "api-reference",
+  "slug": "/api-reference/explain",
+  "permalink": "/docs/latest/api-reference/explain",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/explain.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_label": "Explain API",
+    "sidebar_position": 11,
+    "description": "Hasura explain API reference",
+    "keywords": [
+      "hasura",
+      "docs",
+      "explain API",
+      "API reference"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Config API",
+    "permalink": "/docs/latest/api-reference/config"
+  },
+  "next": {
+    "title": "Common syntax definitions",
+    "permalink": "/docs/latest/api-reference/syntax-defs"
+  }
+}

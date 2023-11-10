@@ -1,0 +1,39 @@
+{
+  "unversionedId": "event-triggers/recipes/new-user-welcome",
+  "id": "event-triggers/recipes/new-user-welcome",
+  "title": "Using Event Triggers to send a new-user email",
+  "description": "Succinct, tested, and reusable code recipes for common use cases in Hasura.",
+  "source": "@site/docs/event-triggers/recipes/new-user-welcome.mdx",
+  "sourceDirName": "event-triggers/recipes",
+  "slug": "/event-triggers/recipes/new-user-welcome",
+  "permalink": "/docs/latest/event-triggers/recipes/new-user-welcome",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/event-triggers/recipes/new-user-welcome.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Using Event Triggers to send a new-user email",
+    "description": "Succinct, tested, and reusable code recipes for common use cases in Hasura.",
+    "sidebar_label": "Send an Email when a User Signs Up",
+    "keywords": [
+      "hasura",
+      "docs",
+      "recipes",
+      "event triggers",
+      "new user",
+      "welcome",
+      "email"
+    ],
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Product Description AI SEO",
+    "permalink": "/docs/latest/event-triggers/recipes/product-description-chatgpt-seo"
+  },
+  "next": {
+    "title": "Send a Notification when a Value Changes",
+    "permalink": "/docs/latest/event-triggers/recipes/order-status-notification"
+  }
+}

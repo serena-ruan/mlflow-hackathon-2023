@@ -1,0 +1,39 @@
+{
+  "unversionedId": "scheduled-triggers/recipes/check-expiration",
+  "id": "scheduled-triggers/recipes/check-expiration",
+  "title": "Using Schedule Triggers for Checking the expiration of a coupon",
+  "description": "Succinct, tested, and reusable code recipes for common use cases in Hasura.",
+  "source": "@site/docs/scheduled-triggers/recipes/check-expiration.mdx",
+  "sourceDirName": "scheduled-triggers/recipes",
+  "slug": "/scheduled-triggers/recipes/check-expiration",
+  "permalink": "/docs/latest/scheduled-triggers/recipes/check-expiration",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/scheduled-triggers/recipes/check-expiration.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Using Schedule Triggers for Checking the expiration of a coupon",
+    "description": "Succinct, tested, and reusable code recipes for common use cases in Hasura.",
+    "sidebar_label": "Check expiration",
+    "keywords": [
+      "hasura",
+      "docs",
+      "recipes",
+      "scheduled triggers",
+      "expiration",
+      "coupon",
+      "automated"
+    ],
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Product review",
+    "permalink": "/docs/latest/scheduled-triggers/recipes/product-review"
+  },
+  "next": {
+    "title": "Daily summary email",
+    "permalink": "/docs/latest/scheduled-triggers/recipes/daily-summary-email"
+  }
+}

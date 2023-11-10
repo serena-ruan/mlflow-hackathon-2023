@@ -1,0 +1,38 @@
+{
+  "unversionedId": "api-reference/source-health",
+  "id": "api-reference/source-health",
+  "title": "Source Health Check API Reference",
+  "description": "Source Health Check API reference",
+  "source": "@site/docs/api-reference/source-health.mdx",
+  "sourceDirName": "api-reference",
+  "slug": "/api-reference/source-health",
+  "permalink": "/docs/latest/api-reference/source-health",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/source-health.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "description": "Source Health Check API reference",
+    "keywords": [
+      "hasura",
+      "cloud",
+      "docs",
+      "health API",
+      "source health API",
+      "API reference"
+    ],
+    "sidebar_position": 14,
+    "sidebar_label": "Source Health Check API",
+    "sidebar_class_name": "cloud-icon"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Hasura Cloud API reference",
+    "permalink": "/docs/latest/api-reference/cloud-api-reference"
+  },
+  "next": {
+    "title": "Auth",
+    "permalink": "/docs/latest/_heading_auth"
+  }
+}

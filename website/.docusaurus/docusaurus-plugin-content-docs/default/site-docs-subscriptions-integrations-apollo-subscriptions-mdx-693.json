@@ -1,0 +1,37 @@
+{
+  "unversionedId": "subscriptions/integrations/apollo-subscriptions",
+  "id": "subscriptions/integrations/apollo-subscriptions",
+  "title": "Setting up GraphQL Subscriptions Using Apollo Client for React",
+  "description": "Subscriptions with Apollo Client",
+  "source": "@site/docs/subscriptions/integrations/apollo-subscriptions.mdx",
+  "sourceDirName": "subscriptions/integrations",
+  "slug": "/subscriptions/integrations/apollo-subscriptions",
+  "permalink": "/docs/latest/subscriptions/integrations/apollo-subscriptions",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/subscriptions/integrations/apollo-subscriptions.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "description": "Subscriptions with Apollo Client",
+    "keywords": [
+      "hasura",
+      "docs",
+      "guide",
+      "GraphQL subscriptions",
+      "apollo",
+      "apollo-client"
+    ],
+    "sidebar_position": 5,
+    "sidebar_label": "Subscriptions with Apollo Client"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Integrations",
+    "permalink": "/docs/latest/subscriptions/integrations/index"
+  },
+  "next": {
+    "title": "Postgres: GraphQL Subscriptions",
+    "permalink": "/docs/latest/subscriptions/postgres/index"
+  }
+}

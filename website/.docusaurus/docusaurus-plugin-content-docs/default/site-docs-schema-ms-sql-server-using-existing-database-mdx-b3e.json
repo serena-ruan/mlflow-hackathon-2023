@@ -1,0 +1,35 @@
+{
+  "unversionedId": "schema/ms-sql-server/using-existing-database",
+  "id": "schema/ms-sql-server/using-existing-database",
+  "title": "Set Up a GraphQL Schema Using an Existing MS SQL Server Database",
+  "description": "Set up a Hasura GraphQL schema with an existing database",
+  "source": "@site/docs/schema/ms-sql-server/using-existing-database.mdx",
+  "sourceDirName": "schema/ms-sql-server",
+  "slug": "/schema/ms-sql-server/using-existing-database",
+  "permalink": "/docs/latest/schema/ms-sql-server/using-existing-database",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/ms-sql-server/using-existing-database.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Use an existing database",
+    "sidebar_position": 6,
+    "description": "Set up a Hasura GraphQL schema with an existing database",
+    "keywords": [
+      "hasura",
+      "docs",
+      "schema",
+      "existing database"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Role based column presets",
+    "permalink": "/docs/latest/schema/ms-sql-server/default-values/mssql-column-presets"
+  },
+  "next": {
+    "title": "MS SQL Server Guides",
+    "permalink": "/docs/latest/schema/ms-sql-server/mssql-guides/index"
+  }
+}

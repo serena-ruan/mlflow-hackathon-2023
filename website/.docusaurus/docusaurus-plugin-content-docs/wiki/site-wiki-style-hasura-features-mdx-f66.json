@@ -1,0 +1,36 @@
+{
+  "unversionedId": "style/hasura-features",
+  "id": "style/hasura-features",
+  "title": "Hasura Features",
+  "description": "Style for Hasura Feature Names in documentation",
+  "source": "@site/wiki/style/hasura-features.mdx",
+  "sourceDirName": "style",
+  "slug": "/style/hasura-features",
+  "permalink": "/docs/wiki/style/hasura-features",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/style/hasura-features.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Hasura Features",
+    "description": "Style for Hasura Feature Names in documentation",
+    "keywords": [
+      "hasura",
+      "style",
+      "features"
+    ],
+    "slug": "hasura-features"
+  },
+  "sidebar": "wiki",
+  "previous": {
+    "title": "Code Blocks",
+    "permalink": "/docs/wiki/style/code-blocks"
+  },
+  "next": {
+    "title": "Headings",
+    "permalink": "/docs/wiki/style/headings"
+  }
+}

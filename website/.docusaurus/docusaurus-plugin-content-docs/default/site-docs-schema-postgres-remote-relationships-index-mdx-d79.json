@@ -1,0 +1,35 @@
+{
+  "unversionedId": "schema/postgres/remote-relationships/index",
+  "id": "schema/postgres/remote-relationships/index",
+  "title": "Postgres: Remote Relationships",
+  "description": "Manage remote relationships with Postgres in Hasura",
+  "source": "@site/docs/schema/postgres/remote-relationships/index.mdx",
+  "sourceDirName": "schema/postgres/remote-relationships",
+  "slug": "/schema/postgres/remote-relationships/index",
+  "permalink": "/docs/latest/schema/postgres/remote-relationships/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/postgres/remote-relationships/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "index",
+    "description": "Manage remote relationships with Postgres in Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "postgres",
+      "schema",
+      "relationship",
+      "remote relationship"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Database modeling",
+    "permalink": "/docs/latest/schema/postgres/table-relationships/database-modelling"
+  },
+  "next": {
+    "title": "To remote database",
+    "permalink": "/docs/latest/schema/postgres/remote-relationships/remote-source-relationships"
+  }
+}

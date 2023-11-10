@@ -1,0 +1,36 @@
+{
+  "unversionedId": "api-reference/general-info",
+  "id": "api-reference/general-info",
+  "title": "API Reference",
+  "description": "Hasura API reference general info",
+  "source": "@site/docs/api-reference/general-info.mdx",
+  "sourceDirName": "api-reference",
+  "slug": "/api-reference/general-info",
+  "permalink": "/docs/latest/api-reference/general-info",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/general-info.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "Hasura API reference general info",
+    "title": "API Reference",
+    "keywords": [
+      "hasura",
+      "docs",
+      "API",
+      "API reference"
+    ],
+    "sidebar_position": 2,
+    "sidebar_label": "General Info"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/latest/api-reference/overview"
+  },
+  "next": {
+    "title": "GraphQL API Reference",
+    "permalink": "/docs/latest/api-reference/graphql-api/index"
+  }
+}

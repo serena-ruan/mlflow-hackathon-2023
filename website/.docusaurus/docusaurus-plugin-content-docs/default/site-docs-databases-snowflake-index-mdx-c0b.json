@@ -1,0 +1,35 @@
+{
+  "unversionedId": "databases/snowflake/index",
+  "id": "databases/snowflake/index",
+  "title": "Snowflake",
+  "description": "Hasura Snowflake database support",
+  "source": "@site/docs/databases/snowflake/index.mdx",
+  "sourceDirName": "databases/snowflake",
+  "slug": "/databases/snowflake/index",
+  "permalink": "/docs/latest/databases/snowflake/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/snowflake/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "index",
+    "description": "Hasura Snowflake database support",
+    "keywords": [
+      "hasura",
+      "docs",
+      "databases",
+      "snowflake",
+      "olap",
+      "oltp"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "MongoDB Atlas (Hosted Database)",
+    "permalink": "/docs/latest/databases/mongodb/mongodb-atlas"
+  },
+  "next": {
+    "title": "Get Started with Snowflake",
+    "permalink": "/docs/latest/databases/snowflake/getting-started/index"
+  }
+}

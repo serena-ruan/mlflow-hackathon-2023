@@ -1,0 +1,41 @@
+{
+  "unversionedId": "api-reference/metadata-api/api-limits",
+  "id": "api-reference/metadata-api/api-limits",
+  "title": "Metadata API Reference: API Limits",
+  "description": "Manage API limits configuration with the Hasura metadata API",
+  "source": "@site/docs/api-reference/metadata-api/api-limits.mdx",
+  "sourceDirName": "api-reference/metadata-api",
+  "slug": "/api-reference/metadata-api/api-limits",
+  "permalink": "/docs/latest/api-reference/metadata-api/api-limits",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/api-reference/metadata-api/api-limits.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 23,
+  "frontMatter": {
+    "sidebar_label": "API Limits",
+    "sidebar_position": 23,
+    "description": "Manage API limits configuration with the Hasura metadata API",
+    "keywords": [
+      "hasura",
+      "docs",
+      "metadata API",
+      "API reference",
+      "security options",
+      "API limits",
+      "Rate limits",
+      "limits",
+      "enterprise",
+      "ee"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Network options",
+    "permalink": "/docs/latest/api-reference/metadata-api/network"
+  },
+  "next": {
+    "title": "Observability Options",
+    "permalink": "/docs/latest/api-reference/metadata-api/observability"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "unversionedId": "hasura-cloud/account-management/billing/billing-owner",
+  "id": "hasura-cloud/account-management/billing/billing-owner",
+  "title": "Cloud: Billing owner",
+  "description": "Billing owner on Hasura Cloud",
+  "source": "@site/docs/hasura-cloud/account-management/billing/billing-owner.mdx",
+  "sourceDirName": "hasura-cloud/account-management/billing",
+  "slug": "/hasura-cloud/account-management/billing/billing-owner",
+  "permalink": "/docs/latest/hasura-cloud/account-management/billing/billing-owner",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cloud/account-management/billing/billing-owner.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "description": "Billing owner on Hasura Cloud",
+    "title": "Cloud: Billing owner",
+    "sidebar_label": "Billing owner",
+    "keywords": [
+      "hasura",
+      "docs",
+      "project",
+      "team",
+      "collaborators",
+      "billing"
+    ],
+    "sidebar_position": 1
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Hasura Cloud billing",
+    "permalink": "/docs/latest/hasura-cloud/account-management/billing/index"
+  },
+  "next": {
+    "title": "Manage payment methods",
+    "permalink": "/docs/latest/hasura-cloud/account-management/billing/payment-methods"
+  }
+}

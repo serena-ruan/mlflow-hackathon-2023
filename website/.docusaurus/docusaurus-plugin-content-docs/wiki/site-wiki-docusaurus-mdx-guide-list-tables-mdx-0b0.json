@@ -1,0 +1,30 @@
+{
+  "unversionedId": "docusaurus-mdx-guide/list-tables",
+  "id": "docusaurus-mdx-guide/list-tables",
+  "title": "List Tables",
+  "description": "Tables are the only complex stuff in markdown.",
+  "source": "@site/wiki/docusaurus-mdx-guide/list-tables.mdx",
+  "sourceDirName": "docusaurus-mdx-guide",
+  "slug": "/docusaurus-mdx-guide/list-tables",
+  "permalink": "/docs/wiki/docusaurus-mdx-guide/list-tables",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/docusaurus-mdx-guide/list-tables.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "wiki",
+  "previous": {
+    "title": "Thumbnail",
+    "permalink": "/docs/wiki/docusaurus-mdx-guide/thumbnail"
+  },
+  "next": {
+    "title": "Admonitions",
+    "permalink": "/docs/wiki/docusaurus-mdx-guide/admonitions"
+  }
+}

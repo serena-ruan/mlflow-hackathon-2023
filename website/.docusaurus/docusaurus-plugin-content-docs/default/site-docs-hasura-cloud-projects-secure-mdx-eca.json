@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cloud/projects/secure",
+  "id": "hasura-cloud/projects/secure",
+  "title": "Cloud: Securing projects",
+  "description": "Securing projects on Hasura Cloud",
+  "source": "@site/docs/hasura-cloud/projects/secure.mdx",
+  "sourceDirName": "hasura-cloud/projects",
+  "slug": "/hasura-cloud/projects/secure",
+  "permalink": "/docs/latest/hasura-cloud/projects/secure",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cloud/projects/secure.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "description": "Securing projects on Hasura Cloud",
+    "title": "Cloud: Securing projects",
+    "keywords": [
+      "hasura",
+      "docs",
+      "project"
+    ],
+    "sidebar_position": 8,
+    "sidebar_label": "Secure Projects"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Manage env vars",
+    "permalink": "/docs/latest/hasura-cloud/projects/env-vars"
+  },
+  "next": {
+    "title": "Switch pricing plans",
+    "permalink": "/docs/latest/hasura-cloud/projects/pricing"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "unversionedId": "observability/cloud/newrelic",
+  "id": "observability/cloud/newrelic",
+  "title": "Cloud: New Relic Integration",
+  "description": "New Relic Integration on Hasura Cloud",
+  "source": "@site/docs/observability/cloud/newrelic.mdx",
+  "sourceDirName": "observability/cloud",
+  "slug": "/observability/cloud/newrelic",
+  "permalink": "/docs/latest/observability/cloud/newrelic",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/observability/cloud/newrelic.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "description": "New Relic Integration on Hasura Cloud",
+    "title": "Cloud: New Relic Integration",
+    "keywords": [
+      "hasura",
+      "docs",
+      "cloud",
+      "metrics",
+      "integration",
+      "export logs",
+      "newrelic",
+      "new relic"
+    ],
+    "sidebar_label": "New Relic"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Datadog",
+    "permalink": "/docs/latest/observability/cloud/datadog"
+  },
+  "next": {
+    "title": "Azure Monitor",
+    "permalink": "/docs/latest/observability/cloud/azure-monitor"
+  }
+}

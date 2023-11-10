@@ -1,0 +1,39 @@
+{
+  "unversionedId": "observability/cloud/datadog",
+  "id": "observability/cloud/datadog",
+  "title": "Cloud: Datadog Integration",
+  "description": "Datadog Integration on Hasura Cloud",
+  "source": "@site/docs/observability/cloud/datadog.mdx",
+  "sourceDirName": "observability/cloud",
+  "slug": "/observability/cloud/datadog",
+  "permalink": "/docs/latest/observability/cloud/datadog",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/observability/cloud/datadog.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Datadog",
+    "sidebar_position": 4,
+    "description": "Datadog Integration on Hasura Cloud",
+    "title": "Cloud: Datadog Integration",
+    "keywords": [
+      "hasura",
+      "docs",
+      "cloud",
+      "metrics",
+      "integration",
+      "export logs",
+      "datadog"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Prometheus",
+    "permalink": "/docs/latest/observability/cloud/prometheus"
+  },
+  "next": {
+    "title": "New Relic",
+    "permalink": "/docs/latest/observability/cloud/newrelic"
+  }
+}

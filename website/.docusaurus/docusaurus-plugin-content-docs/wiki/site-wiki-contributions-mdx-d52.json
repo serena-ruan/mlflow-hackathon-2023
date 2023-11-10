@@ -1,0 +1,31 @@
+{
+  "unversionedId": "contributions",
+  "id": "contributions",
+  "title": "Contributing to Docs",
+  "description": "Overview",
+  "source": "@site/wiki/contributions.mdx",
+  "sourceDirName": ".",
+  "slug": "/contributions",
+  "permalink": "/docs/wiki/contributions",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/contributions.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 30,
+  "frontMatter": {
+    "sidebar_label": "Contributing to Docs",
+    "sidebar_position": 30
+  },
+  "sidebar": "wiki",
+  "previous": {
+    "title": "Docs SLA",
+    "permalink": "/docs/wiki/sla"
+  },
+  "next": {
+    "title": "PR Review Checklist",
+    "permalink": "/docs/wiki/checklist"
+  }
+}

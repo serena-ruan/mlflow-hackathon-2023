@@ -1,0 +1,36 @@
+{
+  "unversionedId": "migrations-metadata-seeds/legacy-configs/config-v2/migrations-setup",
+  "id": "migrations-metadata-seeds/legacy-configs/config-v2/migrations-setup",
+  "title": "Set up Hasura Migrations (config v2)",
+  "description": "Migrations setup for an existing Hasura instance",
+  "source": "@site/docs/migrations-metadata-seeds/legacy-configs/config-v2/migrations-setup.mdx",
+  "sourceDirName": "migrations-metadata-seeds/legacy-configs/config-v2",
+  "slug": "/migrations-metadata-seeds/legacy-configs/config-v2/migrations-setup",
+  "permalink": "/docs/latest/migrations-metadata-seeds/legacy-configs/config-v2/migrations-setup",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/migrations-metadata-seeds/legacy-configs/config-v2/migrations-setup.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Set up Migrations",
+    "sidebar_position": 1,
+    "description": "Migrations setup for an existing Hasura instance",
+    "keywords": [
+      "hasura",
+      "docs",
+      "migration",
+      "setup",
+      "existing Hasura"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Config v2",
+    "permalink": "/docs/latest/migrations-metadata-seeds/legacy-configs/config-v2/index"
+  },
+  "next": {
+    "title": "Manage Metadata",
+    "permalink": "/docs/latest/migrations-metadata-seeds/legacy-configs/config-v2/manage-metadata"
+  }
+}

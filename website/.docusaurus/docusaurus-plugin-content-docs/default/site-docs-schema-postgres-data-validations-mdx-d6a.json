@@ -1,0 +1,36 @@
+{
+  "unversionedId": "schema/postgres/data-validations",
+  "id": "schema/postgres/data-validations",
+  "title": "Postgres: Data Validations",
+  "description": "Data validations in Hasura over Postgres",
+  "source": "@site/docs/schema/postgres/data-validations.mdx",
+  "sourceDirName": "schema/postgres",
+  "slug": "/schema/postgres/data-validations",
+  "permalink": "/docs/latest/schema/postgres/data-validations",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/postgres/data-validations.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_label": "Data validations",
+    "sidebar_position": 10,
+    "description": "Data validations in Hasura over Postgres",
+    "keywords": [
+      "hasura",
+      "docs",
+      "postgres",
+      "schema",
+      "data validation"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Naming conventions",
+    "permalink": "/docs/latest/schema/postgres/naming-convention"
+  },
+  "next": {
+    "title": "Input validations",
+    "permalink": "/docs/latest/schema/postgres/input-validations"
+  }
+}

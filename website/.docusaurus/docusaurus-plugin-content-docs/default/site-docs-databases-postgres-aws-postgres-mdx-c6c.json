@@ -1,0 +1,37 @@
+{
+  "unversionedId": "databases/postgres/aws-postgres",
+  "id": "databases/postgres/aws-postgres",
+  "title": "Cloud: Using Hasura Cloud with an AWS RDS Postgres database",
+  "description": "Using Hasura with an AWS RDS Postgres database",
+  "source": "@site/docs/databases/postgres/aws-postgres.mdx",
+  "sourceDirName": "databases/postgres",
+  "slug": "/databases/postgres/aws-postgres",
+  "permalink": "/docs/latest/databases/postgres/aws-postgres",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/postgres/aws-postgres.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "description": "Using Hasura with an AWS RDS Postgres database",
+    "title": "Cloud: Using Hasura Cloud with an AWS RDS Postgres database",
+    "keywords": [
+      "hasura",
+      "docs",
+      "existing database",
+      "guide",
+      "aws rds postgres"
+    ],
+    "sidebar_label": "AWS RDS Postgres",
+    "sidebar_position": 5
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "AWS RDS Aurora Postgres",
+    "permalink": "/docs/latest/databases/postgres/aws-aurora"
+  },
+  "next": {
+    "title": "CockroachDB",
+    "permalink": "/docs/latest/databases/postgres/cockroachdb/index"
+  }
+}

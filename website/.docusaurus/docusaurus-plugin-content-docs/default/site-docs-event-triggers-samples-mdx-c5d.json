@@ -1,0 +1,35 @@
+{
+  "unversionedId": "event-triggers/samples",
+  "id": "event-triggers/samples",
+  "title": "Event Trigger Samples",
+  "description": "Examples for Event Triggers with Hasura",
+  "source": "@site/docs/event-triggers/samples.mdx",
+  "sourceDirName": "event-triggers",
+  "slug": "/event-triggers/samples",
+  "permalink": "/docs/latest/event-triggers/samples",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/event-triggers/samples.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Event Trigger samples",
+    "sidebar_position": 6,
+    "description": "Examples for Event Triggers with Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "event trigger",
+      "example"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Use serverless functions",
+    "permalink": "/docs/latest/event-triggers/serverless"
+  },
+  "next": {
+    "title": "Observability & Performance",
+    "permalink": "/docs/latest/event-triggers/observability-and-performance"
+  }
+}

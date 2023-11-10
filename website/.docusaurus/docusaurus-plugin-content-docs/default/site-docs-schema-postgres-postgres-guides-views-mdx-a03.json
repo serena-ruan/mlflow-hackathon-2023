@@ -1,0 +1,35 @@
+{
+  "unversionedId": "schema/postgres/postgres-guides/views",
+  "id": "schema/postgres/postgres-guides/views",
+  "title": "Postgres Views",
+  "description": "Use Postgres views with Hasura",
+  "source": "@site/docs/schema/postgres/postgres-guides/views.mdx",
+  "sourceDirName": "schema/postgres/postgres-guides",
+  "slug": "/schema/postgres/postgres-guides/views",
+  "permalink": "/docs/latest/schema/postgres/postgres-guides/views",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/postgres/postgres-guides/views.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "description": "Use Postgres views with Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "postgres",
+      "views"
+    ],
+    "sidebar_position": 3,
+    "sidebar_label": "Views"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Constraints",
+    "permalink": "/docs/latest/schema/postgres/postgres-guides/constraints"
+  },
+  "next": {
+    "title": "Functions",
+    "permalink": "/docs/latest/schema/postgres/postgres-guides/functions"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "unversionedId": "databases/postgres/render",
+  "id": "databases/postgres/render",
+  "title": "Cloud: Using Hasura Cloud with a Render Postgres database",
+  "description": "Using Hasura with Render Postgres database",
+  "source": "@site/docs/databases/postgres/render.mdx",
+  "sourceDirName": "databases/postgres",
+  "slug": "/databases/postgres/render",
+  "permalink": "/docs/latest/databases/postgres/render",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/postgres/render.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "description": "Using Hasura with Render Postgres database",
+    "title": "Cloud: Using Hasura Cloud with a Render Postgres database",
+    "keywords": [
+      "hasura",
+      "docs",
+      "existing database",
+      "guide",
+      "render"
+    ],
+    "sidebar_label": "Render Postgres",
+    "sidebar_position": 17
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Railway Postgres",
+    "permalink": "/docs/latest/databases/postgres/railway"
+  },
+  "next": {
+    "title": "Supabase Postgres",
+    "permalink": "/docs/latest/databases/postgres/supabase"
+  }
+}

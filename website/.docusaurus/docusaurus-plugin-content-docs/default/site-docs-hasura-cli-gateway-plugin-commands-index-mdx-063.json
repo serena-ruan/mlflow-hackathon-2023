@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/gateway-plugin/commands/index",
+  "id": "hasura-cli/gateway-plugin/commands/index",
+  "title": "Commands",
+  "description": "Use Gateway plugin tooling to manage Hasura federation",
+  "source": "@site/docs/hasura-cli/gateway-plugin/commands/index.mdx",
+  "sourceDirName": "hasura-cli/gateway-plugin/commands",
+  "slug": "/hasura-cli/gateway-plugin/commands/index",
+  "permalink": "/docs/latest/hasura-cli/gateway-plugin/commands/index",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/gateway-plugin/commands/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Commands",
+    "description": "Use Gateway plugin tooling to manage Hasura federation",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "gateway",
+      "commands"
+    ],
+    "slug": "index"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Hasura Gateway Plugin",
+    "permalink": "/docs/latest/hasura-cli/gateway-plugin/"
+  },
+  "next": {
+    "title": "gateway build",
+    "permalink": "/docs/latest/hasura-cli/gateway-plugin/commands/gateway_build"
+  }
+}

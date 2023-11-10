@@ -1,0 +1,36 @@
+{
+  "unversionedId": "restified/quickstart",
+  "id": "restified/quickstart",
+  "title": "Quickstart",
+  "description": "Quickstart with RESTified Endpoints",
+  "source": "@site/docs/restified/quickstart.mdx",
+  "sourceDirName": "restified",
+  "slug": "/restified/quickstart",
+  "permalink": "/docs/latest/restified/quickstart",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/restified/quickstart.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "description": "Quickstart with RESTified Endpoints",
+    "title": "Quickstart",
+    "keywords": [
+      "hasura",
+      "docs",
+      "RESTified",
+      "REST",
+      "endpoint"
+    ],
+    "sidebar_position": 2
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/latest/restified/overview"
+  },
+  "next": {
+    "title": "Create Endpoints",
+    "permalink": "/docs/latest/restified/create"
+  }
+}

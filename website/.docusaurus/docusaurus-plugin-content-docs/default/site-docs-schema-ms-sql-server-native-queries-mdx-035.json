@@ -1,0 +1,37 @@
+{
+  "unversionedId": "schema/ms-sql-server/native-queries",
+  "id": "schema/ms-sql-server/native-queries",
+  "title": "MS SQL Server: Native Queries",
+  "description": "Customize the Hasura GraphQL schema with Native Queries",
+  "source": "@site/docs/schema/ms-sql-server/native-queries.mdx",
+  "sourceDirName": "schema/ms-sql-server",
+  "slug": "/schema/ms-sql-server/native-queries",
+  "permalink": "/docs/latest/schema/ms-sql-server/native-queries",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/schema/ms-sql-server/native-queries.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4.1,
+  "frontMatter": {
+    "sidebar_label": "Native Queries",
+    "sidebar_position": 4.1,
+    "description": "Customize the Hasura GraphQL schema with Native Queries",
+    "keywords": [
+      "hasura",
+      "docs",
+      "ms sql server",
+      "schema",
+      "Logical Models",
+      "Native Queries"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Logical Models",
+    "permalink": "/docs/latest/schema/ms-sql-server/logical-models"
+  },
+  "next": {
+    "title": "Customize auto-generated fields",
+    "permalink": "/docs/latest/schema/ms-sql-server/custom-field-names"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "unversionedId": "caching/how-it-works",
+  "id": "caching/how-it-works",
+  "title": "How Caching Works",
+  "description": "Introduction",
+  "source": "@site/docs/caching/how-it-works.mdx",
+  "sourceDirName": "caching",
+  "slug": "/caching/how-it-works",
+  "permalink": "/docs/latest/caching/how-it-works",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/caching/how-it-works.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "keywords": [
+      "caching",
+      "queries",
+      "query",
+      "how-to"
+    ],
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Quickstart",
+    "permalink": "/docs/latest/caching/quickstart"
+  },
+  "next": {
+    "title": "Caching Config",
+    "permalink": "/docs/latest/caching/caching-config"
+  }
+}

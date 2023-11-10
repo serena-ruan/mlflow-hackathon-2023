@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/commands/hasura_metadata_apply",
+  "id": "hasura-cli/commands/hasura_metadata_apply",
+  "title": "Hasura CLI: hasura metadata apply",
+  "description": "Apply Hasura Metadata on a database using the Hasura CLI",
+  "source": "@site/docs/hasura-cli/commands/hasura_metadata_apply.mdx",
+  "sourceDirName": "hasura-cli/commands",
+  "slug": "/hasura-cli/commands/hasura_metadata_apply",
+  "permalink": "/docs/latest/hasura-cli/commands/hasura_metadata_apply",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/commands/hasura_metadata_apply.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_label": "hasura metadata apply",
+    "sidebar_position": 13,
+    "description": "Apply Hasura Metadata on a database using the Hasura CLI",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "hasura metadata apply"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "hasura metadata",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_metadata"
+  },
+  "next": {
+    "title": "hasura metadata clear",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_metadata_clear"
+  }
+}

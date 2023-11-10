@@ -1,0 +1,35 @@
+{
+  "unversionedId": "policies/overview",
+  "id": "policies/overview",
+  "title": "Hasura policies",
+  "description": "Hasura policies",
+  "source": "@site/docs/policies/overview.mdx",
+  "sourceDirName": "policies",
+  "slug": "/policies/overview",
+  "permalink": "/docs/latest/policies/overview",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/policies/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Hasura policies",
+    "description": "Hasura policies",
+    "sidebar_label": "Overview",
+    "sidebar_position": 0,
+    "keywords": [
+      "hasura",
+      "policies",
+      "security"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "VS Code integration",
+    "permalink": "/docs/latest/resources/visual-studio-code"
+  },
+  "next": {
+    "title": "Version Support Policy",
+    "permalink": "/docs/latest/policies/versioning"
+  }
+}

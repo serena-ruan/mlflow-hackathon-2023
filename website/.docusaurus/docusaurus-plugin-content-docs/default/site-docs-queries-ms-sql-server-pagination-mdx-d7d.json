@@ -1,0 +1,35 @@
+{
+  "unversionedId": "queries/ms-sql-server/pagination",
+  "id": "queries/ms-sql-server/pagination",
+  "title": "MS SQL Server: Paginate Query Results",
+  "description": "Manage pagination on MS SQL Server in Hasura",
+  "source": "@site/docs/queries/ms-sql-server/pagination.mdx",
+  "sourceDirName": "queries/ms-sql-server",
+  "slug": "/queries/ms-sql-server/pagination",
+  "permalink": "/docs/latest/queries/ms-sql-server/pagination",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/queries/ms-sql-server/pagination.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Paginate query results",
+    "sidebar_position": 6,
+    "description": "Manage pagination on MS SQL Server in Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "ms sql server",
+      "pagination"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Sort query results",
+    "permalink": "/docs/latest/queries/ms-sql-server/sorting"
+  },
+  "next": {
+    "title": "Use multiple arguments",
+    "permalink": "/docs/latest/queries/ms-sql-server/multiple-arguments"
+  }
+}

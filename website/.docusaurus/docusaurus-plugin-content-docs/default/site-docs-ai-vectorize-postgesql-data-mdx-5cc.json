@@ -1,0 +1,44 @@
+{
+  "unversionedId": "ai/vectorize-postgesql-data",
+  "id": "ai/vectorize-postgesql-data",
+  "title": "Vectorize PostgreSQL Data",
+  "description": "Learn how to vectorize PostgreSQL and integrate it with Large Language Models (LLMs) like ChatGPT. This guide covers the basics of vector databases, the importance of vectorizing relational data, and step-by-step instructions using Weaviate.",
+  "source": "@site/docs/ai/vectorize-postgesql-data.mdx",
+  "sourceDirName": "ai",
+  "slug": "/ai/vectorize-postgesql-data",
+  "permalink": "/docs/latest/ai/vectorize-postgesql-data",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/ai/vectorize-postgesql-data.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Vectorize PostgreSQL data",
+    "description": "Learn how to vectorize PostgreSQL and integrate it with Large Language Models (LLMs) like ChatGPT. This guide covers the basics of vector databases, the importance of vectorizing relational data, and step-by-step instructions using Weaviate.",
+    "keywords": [
+      "hasura",
+      "vectorization",
+      "postgresql",
+      "weaviate",
+      "graphql",
+      "database",
+      "openai",
+      "chatgpt",
+      "ml",
+      "ai",
+      "relational data",
+      "embeddings"
+    ],
+    "seoFrontMatterUpdated": true,
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Jupyter Notebooks",
+    "permalink": "/docs/latest/ai/integrations/jupyter-notebooks"
+  },
+  "next": {
+    "title": "Trigger-based Logic",
+    "permalink": "/docs/latest/_heading_trigger_based_logic"
+  }
+}

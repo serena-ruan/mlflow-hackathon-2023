@@ -1,0 +1,39 @@
+{
+  "unversionedId": "deployment/deployment-guides/nhost-one-click",
+  "id": "deployment/deployment-guides/nhost-one-click",
+  "title": "Deploying Hasura GraphQL Engine on Nhost",
+  "description": "One-Click Deploy for Hasura GraphQL Engine on Nhost",
+  "source": "@site/docs/deployment/deployment-guides/nhost-one-click.mdx",
+  "sourceDirName": "deployment/deployment-guides",
+  "slug": "/deployment/deployment-guides/nhost-one-click",
+  "permalink": "/docs/latest/deployment/deployment-guides/nhost-one-click",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/deployment/deployment-guides/nhost-one-click.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "description": "One-Click Deploy for Hasura GraphQL Engine on Nhost",
+    "keywords": [
+      "hasura",
+      "docs",
+      "guide",
+      "deployment",
+      "nhost",
+      "postgresql",
+      "storage",
+      "auth"
+    ],
+    "sidebar_position": 10,
+    "sidebar_label": "Using Nhost (one-click)"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Using Render (one-click)",
+    "permalink": "/docs/latest/deployment/deployment-guides/render-one-click"
+  },
+  "next": {
+    "title": "Using Koyeb (one-click)",
+    "permalink": "/docs/latest/deployment/deployment-guides/koyeb"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "unversionedId": "policies/privacy",
+  "id": "policies/privacy",
+  "title": "Data Privacy and Access at Hasura",
+  "description": "Data privacy and access",
+  "source": "@site/docs/policies/privacy.mdx",
+  "sourceDirName": "policies",
+  "slug": "/policies/privacy",
+  "permalink": "/docs/latest/policies/privacy",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/policies/privacy.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2.5,
+  "frontMatter": {
+    "description": "Data privacy and access",
+    "sidebar_label": "Data Privacy",
+    "sidebar_position": 2.5,
+    "keywords": [
+      "hasura",
+      "service level agreement",
+      "SLA"
+    ],
+    "sidebar_class_name": "cloud-and-enterprise-icon"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Hasura SLA",
+    "permalink": "/docs/latest/policies/sla"
+  },
+  "next": {
+    "title": "Security vulnerability protocol",
+    "permalink": "/docs/latest/policies/security-disclosure"
+  }
+}

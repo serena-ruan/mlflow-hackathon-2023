@@ -1,0 +1,35 @@
+{
+  "unversionedId": "hasura-cli/commands/hasura_seed",
+  "id": "hasura-cli/commands/hasura_seed",
+  "title": "Hasura CLI: hasura seed",
+  "description": "Manage seed data using the Hasura CLI",
+  "source": "@site/docs/hasura-cli/commands/hasura_seed.mdx",
+  "sourceDirName": "hasura-cli/commands",
+  "slug": "/hasura-cli/commands/hasura_seed",
+  "permalink": "/docs/latest/hasura-cli/commands/hasura_seed",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/commands/hasura_seed.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 36,
+  "frontMatter": {
+    "sidebar_label": "hasura seed",
+    "sidebar_position": 36,
+    "description": "Manage seed data using the Hasura CLI",
+    "keywords": [
+      "hasura",
+      "docs",
+      "CLI",
+      "hasura seed"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "hasura scripts update-project-v3",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_scripts_update-project-v3"
+  },
+  "next": {
+    "title": "hasura seed apply",
+    "permalink": "/docs/latest/hasura-cli/commands/hasura_seed_apply"
+  }
+}

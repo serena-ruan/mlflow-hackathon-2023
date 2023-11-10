@@ -1,0 +1,29 @@
+{
+  "unversionedId": "tips",
+  "id": "tips",
+  "title": "Tips for a good search",
+  "description": "DocSearch can work with almost any website, but we've found that some site structures yield more relevant results or faster indexing time. In this page we'll share some tips on how you can make the most out of DocSearch.",
+  "source": "@site/docs/tips.md",
+  "sourceDirName": ".",
+  "slug": "/tips",
+  "permalink": "/docs/tips",
+  "draft": false,
+  "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/tips.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Tips for a good search"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "DocSearch program",
+    "permalink": "/docs/DocSearch-program"
+  },
+  "next": {
+    "title": "Supported Integrations",
+    "permalink": "/docs/integrations"
+  }
+}

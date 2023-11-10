@@ -1,0 +1,36 @@
+{
+  "unversionedId": "style/code-blocks",
+  "id": "style/code-blocks",
+  "title": "Code Blocks",
+  "description": "Style for code blocks in documentation",
+  "source": "@site/wiki/style/code-blocks.mdx",
+  "sourceDirName": "style",
+  "slug": "/style/code-blocks",
+  "permalink": "/docs/wiki/style/code-blocks",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/style/code-blocks.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Code Blocks",
+    "description": "Style for code blocks in documentation",
+    "keywords": [
+      "hasura",
+      "style",
+      "code blocks"
+    ],
+    "slug": "code-blocks"
+  },
+  "sidebar": "wiki",
+  "previous": {
+    "title": "Bullet Lists",
+    "permalink": "/docs/wiki/style/bullets"
+  },
+  "next": {
+    "title": "Hasura Features",
+    "permalink": "/docs/wiki/style/hasura-features"
+  }
+}

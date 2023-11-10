@@ -1,0 +1,37 @@
+{
+  "unversionedId": "queries/bigquery/filters/comparison-operators",
+  "id": "queries/bigquery/filters/comparison-operators",
+  "title": "BigQuery: Filter Using Comparisons",
+  "description": "Filter query results and search queries on BigQuery in Hasura",
+  "source": "@site/docs/queries/bigquery/filters/comparison-operators.mdx",
+  "sourceDirName": "queries/bigquery/filters",
+  "slug": "/queries/bigquery/filters/comparison-operators",
+  "permalink": "/docs/latest/queries/bigquery/filters/comparison-operators",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/queries/bigquery/filters/comparison-operators.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Filter using comparisons",
+    "sidebar_position": 1,
+    "description": "Filter query results and search queries on BigQuery in Hasura",
+    "keywords": [
+      "hasura",
+      "docs",
+      "bigquery",
+      "query",
+      "filter",
+      "search"
+    ]
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "BigQuery: Filter Query Results / Search Queries",
+    "permalink": "/docs/latest/queries/bigquery/filters/index"
+  },
+  "next": {
+    "title": "Filter using boolean expressions",
+    "permalink": "/docs/latest/queries/bigquery/filters/boolean-operators"
+  }
+}

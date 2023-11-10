@@ -1,0 +1,38 @@
+{
+  "unversionedId": "databases/postgres/digital-ocean",
+  "id": "databases/postgres/digital-ocean",
+  "title": "Cloud: Using Hasura Cloud with a DigitalOcean Postgres database",
+  "description": "Using Hasura with a DO Postgres database",
+  "source": "@site/docs/databases/postgres/digital-ocean.mdx",
+  "sourceDirName": "databases/postgres",
+  "slug": "/databases/postgres/digital-ocean",
+  "permalink": "/docs/latest/databases/postgres/digital-ocean",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/databases/postgres/digital-ocean.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "description": "Using Hasura with a DO Postgres database",
+    "title": "Cloud: Using Hasura Cloud with a DigitalOcean Postgres database",
+    "keywords": [
+      "hasura",
+      "docs",
+      "existing database",
+      "guide",
+      "digital ocean",
+      "digitalocean"
+    ],
+    "sidebar_label": "DigitalOcean Postgres",
+    "sidebar_position": 10
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Crunchy Postgres",
+    "permalink": "/docs/latest/databases/postgres/crunchy"
+  },
+  "next": {
+    "title": "ElephantSQL Postgres",
+    "permalink": "/docs/latest/databases/postgres/elephant"
+  }
+}

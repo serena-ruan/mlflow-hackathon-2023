@@ -1,0 +1,37 @@
+{
+  "unversionedId": "hasura-cloud/projects/collaborators",
+  "id": "hasura-cloud/projects/collaborators",
+  "title": "Cloud: Project Collaborators",
+  "description": "Managing collaborators on Hasura Cloud",
+  "source": "@site/docs/hasura-cloud/projects/collaborators.mdx",
+  "sourceDirName": "hasura-cloud/projects",
+  "slug": "/hasura-cloud/projects/collaborators",
+  "permalink": "/docs/latest/hasura-cloud/projects/collaborators",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cloud/projects/collaborators.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Project collaborators",
+    "description": "Managing collaborators on Hasura Cloud",
+    "title": "Cloud: Project Collaborators",
+    "keywords": [
+      "hasura",
+      "docs",
+      "project",
+      "team",
+      "collaborators"
+    ],
+    "sidebar_position": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Project details",
+    "permalink": "/docs/latest/hasura-cloud/projects/details"
+  },
+  "next": {
+    "title": "Transfer Project ownership",
+    "permalink": "/docs/latest/hasura-cloud/projects/ownership"
+  }
+}

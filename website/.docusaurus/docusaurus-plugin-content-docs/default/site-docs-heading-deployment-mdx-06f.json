@@ -1,0 +1,29 @@
+{
+  "unversionedId": "_heading_deployment",
+  "id": "_heading_deployment",
+  "title": "_heading_deployment",
+  "description": "",
+  "source": "@site/docs/_heading_deployment.mdx",
+  "sourceDirName": ".",
+  "slug": "/_heading_deployment",
+  "permalink": "/docs/latest/_heading_deployment",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/_heading_deployment.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 70,
+  "frontMatter": {
+    "sidebar_position": 70,
+    "sidebar_label": "Deployment",
+    "sidebar_class_name": "sidebar_heading"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Database observability",
+    "permalink": "/docs/latest/observability/db-observability"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/latest/deployment/overview"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "unversionedId": "hasura-cli/connector-plugin/index",
+  "id": "hasura-cli/connector-plugin/index",
+  "title": "Hasura Data Connector plugin on Hasura Cloud",
+  "description": "Hasura Data Connector plugin",
+  "source": "@site/docs/hasura-cli/connector-plugin/index.mdx",
+  "sourceDirName": "hasura-cli/connector-plugin",
+  "slug": "/hasura-cli/connector-plugin/",
+  "permalink": "/docs/latest/hasura-cli/connector-plugin/",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/hasura-cli/connector-plugin/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Hasura Data Connector plugin",
+    "keywords": [
+      "hasura",
+      "docs",
+      "command line interface",
+      "cli"
+    ],
+    "sidebar_class_name": "cloud-icon"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Install / Uninstall",
+    "permalink": "/docs/latest/hasura-cli/install-hasura-cli"
+  },
+  "next": {
+    "title": "Commands",
+    "permalink": "/docs/latest/hasura-cli/connector-plugin/commands/index"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "unversionedId": "restified/restified-config",
+  "id": "restified/restified-config",
+  "title": "RESTified Config",
+  "description": "Introduction",
+  "source": "@site/docs/restified/restified-config.mdx",
+  "sourceDirName": "restified",
+  "slug": "/restified/restified-config",
+  "permalink": "/docs/latest/restified/restified-config",
+  "draft": false,
+  "editUrl": "https://github.com/hasura/graphql-engine/edit/master/docs/docs/restified/restified-config.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "RESTified Config",
+    "keywords": [
+      "hasura",
+      "docs",
+      "RESTified",
+      "REST",
+      "endpoint",
+      "config"
+    ],
+    "sidebar_position": 4,
+    "toc_max_heading_level": 3
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Export OpenAPI Specification",
+    "permalink": "/docs/latest/restified/export-oas"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/docs/latest/caching/overview"
+  }
+}
