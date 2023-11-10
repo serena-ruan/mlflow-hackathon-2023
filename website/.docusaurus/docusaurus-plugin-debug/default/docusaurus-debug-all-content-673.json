@@ -20,115 +20,296 @@
           "contentPathLocalized": "/Users/serena.ruan/Documents/repos/mlflow-hackathon-2023/website/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "api",
-              "id": "api",
-              "title": "API Reference",
-              "description": "The following content is for DocSearch v3. If you are using DocSearch v2, see the legacy documentation.",
-              "source": "@site/docs/api.mdx",
-              "sourceDirName": ".",
-              "slug": "/api",
-              "permalink": "/docs/api",
+              "unversionedId": "getting-started/index",
+              "id": "getting-started/index",
+              "title": "Getting Started with MLflow",
+              "description": "getting-started-with-mlflow}",
+              "source": "@site/docs/getting-started/index.md",
+              "sourceDirName": "getting-started",
+              "slug": "/getting-started/",
+              "permalink": "/docs/getting-started/",
               "draft": false,
-              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/api.mdx",
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/getting-started/index.md",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "Oct 14, 2018",
-              "frontMatter": {
-                "title": "API Reference"
-              },
+              "frontMatter": {},
               "sidebar": "docs",
-              "previous": {
-                "title": "Getting Started",
-                "permalink": "/docs/DocSearch-v3"
-              },
               "next": {
-                "title": "DocSearch x Algolia Crawler",
-                "permalink": "/docs/crawler"
+                "title": "MLflow Tracking Quickstart",
+                "permalink": "/docs/getting-started/intro-quickstart/"
               }
             },
             {
-              "unversionedId": "crawler",
-              "id": "crawler",
-              "title": "DocSearch x Algolia Crawler",
-              "description": "If you're not finding the answer to your question on this website, this page will help you. If you're still unsure, don't hesitate to send your question to us directly.",
-              "source": "@site/docs/crawler.mdx",
-              "sourceDirName": ".",
-              "slug": "/crawler",
-              "permalink": "/docs/crawler",
+              "unversionedId": "getting-started/intro-quickstart/index",
+              "id": "getting-started/intro-quickstart/index",
+              "title": "MLflow Tracking Quickstart",
+              "description": "mlflow-tracking-quickstart}",
+              "source": "@site/docs/getting-started/intro-quickstart/index.md",
+              "sourceDirName": "getting-started/intro-quickstart",
+              "slug": "/getting-started/intro-quickstart/",
+              "permalink": "/docs/getting-started/intro-quickstart/",
               "draft": false,
-              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/crawler.mdx",
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/getting-started/intro-quickstart/index.md",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "Oct 14, 2018",
-              "frontMatter": {
-                "title": "DocSearch x Algolia Crawler"
-              },
+              "frontMatter": {},
               "sidebar": "docs",
               "previous": {
-                "title": "API Reference",
-                "permalink": "/docs/api"
+                "title": "Getting Started with MLflow",
+                "permalink": "/docs/getting-started/"
+              },
+              "next": {
+                "title": "MLflow Tracking Quickstart Notebook",
+                "permalink": "/docs/getting-started/intro-quickstart/notebooks/"
+              }
+            },
+            {
+              "unversionedId": "getting-started/intro-quickstart/notebooks/index",
+              "id": "getting-started/intro-quickstart/notebooks/index",
+              "title": "MLflow Tracking Quickstart Notebook",
+              "description": "mlflow-tracking-quickstart-notebook}",
+              "source": "@site/docs/getting-started/intro-quickstart/notebooks/index.md",
+              "sourceDirName": "getting-started/intro-quickstart/notebooks",
+              "slug": "/getting-started/intro-quickstart/notebooks/",
+              "permalink": "/docs/getting-started/intro-quickstart/notebooks/",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/getting-started/intro-quickstart/notebooks/index.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "MLflow Tracking Quickstart",
+                "permalink": "/docs/getting-started/intro-quickstart/"
+              },
+              "next": {
+                "title": "Tutorial Overview",
+                "permalink": "/docs/getting-started/logging-first-model/"
+              }
+            },
+            {
+              "unversionedId": "getting-started/logging-first-model/index",
+              "id": "getting-started/logging-first-model/index",
+              "title": "Tutorial Overview",
+              "description": "tutorial-overview}",
+              "source": "@site/docs/getting-started/logging-first-model/index.md",
+              "sourceDirName": "getting-started/logging-first-model",
+              "slug": "/getting-started/logging-first-model/",
+              "permalink": "/docs/getting-started/logging-first-model/",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/getting-started/logging-first-model/index.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "MLflow Tracking Quickstart Notebook",
+                "permalink": "/docs/getting-started/intro-quickstart/notebooks/"
+              },
+              "next": {
+                "title": "Logging Your First MLflow Model Notebook",
+                "permalink": "/docs/getting-started/logging-first-model/notebooks/"
+              }
+            },
+            {
+              "unversionedId": "getting-started/logging-first-model/notebooks/index",
+              "id": "getting-started/logging-first-model/notebooks/index",
+              "title": "Logging Your First MLflow Model Notebook",
+              "description": "logging-your-first-mlflow-model-notebook}",
+              "source": "@site/docs/getting-started/logging-first-model/notebooks/index.md",
+              "sourceDirName": "getting-started/logging-first-model/notebooks",
+              "slug": "/getting-started/logging-first-model/notebooks/",
+              "permalink": "/docs/getting-started/logging-first-model/notebooks/",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/getting-started/logging-first-model/notebooks/index.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Tutorial Overview",
+                "permalink": "/docs/getting-started/logging-first-model/"
+              },
+              "next": {
+                "title": "Starting the MLflow Tracking Server",
+                "permalink": "/docs/getting-started/logging-first-model/step1-tracking-server"
+              }
+            },
+            {
+              "unversionedId": "getting-started/logging-first-model/step1-tracking-server",
+              "id": "getting-started/logging-first-model/step1-tracking-server",
+              "title": "Starting the MLflow Tracking Server",
+              "description": "starting-the-mlflow-tracking-server}",
+              "source": "@site/docs/getting-started/logging-first-model/step1-tracking-server.md",
+              "sourceDirName": "getting-started/logging-first-model",
+              "slug": "/getting-started/logging-first-model/step1-tracking-server",
+              "permalink": "/docs/getting-started/logging-first-model/step1-tracking-server",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/getting-started/logging-first-model/step1-tracking-server.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Logging Your First MLflow Model Notebook",
+                "permalink": "/docs/getting-started/logging-first-model/notebooks/"
+              },
+              "next": {
+                "title": "Using the MLflow Client API",
+                "permalink": "/docs/getting-started/logging-first-model/step2-mlflow-client"
+              }
+            },
+            {
+              "unversionedId": "getting-started/logging-first-model/step2-mlflow-client",
+              "id": "getting-started/logging-first-model/step2-mlflow-client",
+              "title": "Using the MLflow Client API",
+              "description": "using-the-mlflow-client-api}",
+              "source": "@site/docs/getting-started/logging-first-model/step2-mlflow-client.md",
+              "sourceDirName": "getting-started/logging-first-model",
+              "slug": "/getting-started/logging-first-model/step2-mlflow-client",
+              "permalink": "/docs/getting-started/logging-first-model/step2-mlflow-client",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/getting-started/logging-first-model/step2-mlflow-client.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Starting the MLflow Tracking Server",
+                "permalink": "/docs/getting-started/logging-first-model/step1-tracking-server"
+              },
+              "next": {
+                "title": "Creating Experiments",
+                "permalink": "/docs/getting-started/logging-first-model/step3-create-experiment"
+              }
+            },
+            {
+              "unversionedId": "getting-started/logging-first-model/step3-create-experiment",
+              "id": "getting-started/logging-first-model/step3-create-experiment",
+              "title": "Creating Experiments",
+              "description": "creating-experiments}",
+              "source": "@site/docs/getting-started/logging-first-model/step3-create-experiment.md",
+              "sourceDirName": "getting-started/logging-first-model",
+              "slug": "/getting-started/logging-first-model/step3-create-experiment",
+              "permalink": "/docs/getting-started/logging-first-model/step3-create-experiment",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/getting-started/logging-first-model/step3-create-experiment.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Using the MLflow Client API",
+                "permalink": "/docs/getting-started/logging-first-model/step2-mlflow-client"
+              },
+              "next": {
+                "title": "Searching Experiments",
+                "permalink": "/docs/getting-started/logging-first-model/step4-experiment-search"
+              }
+            },
+            {
+              "unversionedId": "getting-started/logging-first-model/step4-experiment-search",
+              "id": "getting-started/logging-first-model/step4-experiment-search",
+              "title": "Searching Experiments",
+              "description": "searching-experiments}",
+              "source": "@site/docs/getting-started/logging-first-model/step4-experiment-search.md",
+              "sourceDirName": "getting-started/logging-first-model",
+              "slug": "/getting-started/logging-first-model/step4-experiment-search",
+              "permalink": "/docs/getting-started/logging-first-model/step4-experiment-search",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/getting-started/logging-first-model/step4-experiment-search.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Creating Experiments",
+                "permalink": "/docs/getting-started/logging-first-model/step3-create-experiment"
+              },
+              "next": {
+                "title": "Create a dataset about apples",
+                "permalink": "/docs/getting-started/logging-first-model/step5-synthetic-data"
+              }
+            },
+            {
+              "unversionedId": "getting-started/logging-first-model/step5-synthetic-data",
+              "id": "getting-started/logging-first-model/step5-synthetic-data",
+              "title": "Create a dataset about apples",
+              "description": "create-a-dataset-about-apples}",
+              "source": "@site/docs/getting-started/logging-first-model/step5-synthetic-data.md",
+              "sourceDirName": "getting-started/logging-first-model",
+              "slug": "/getting-started/logging-first-model/step5-synthetic-data",
+              "permalink": "/docs/getting-started/logging-first-model/step5-synthetic-data",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/getting-started/logging-first-model/step5-synthetic-data.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Searching Experiments",
+                "permalink": "/docs/getting-started/logging-first-model/step4-experiment-search"
+              },
+              "next": {
+                "title": "Logging our first runs with MLflow",
+                "permalink": "/docs/getting-started/logging-first-model/step6-logging-a-run"
+              }
+            },
+            {
+              "unversionedId": "getting-started/logging-first-model/step6-logging-a-run",
+              "id": "getting-started/logging-first-model/step6-logging-a-run",
+              "title": "Logging our first runs with MLflow",
+              "description": "logging-our-first-runs-with-mlflow}",
+              "source": "@site/docs/getting-started/logging-first-model/step6-logging-a-run.md",
+              "sourceDirName": "getting-started/logging-first-model",
+              "slug": "/getting-started/logging-first-model/step6-logging-a-run",
+              "permalink": "/docs/getting-started/logging-first-model/step6-logging-a-run",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/getting-started/logging-first-model/step6-logging-a-run.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "Create a dataset about apples",
+                "permalink": "/docs/getting-started/logging-first-model/step5-synthetic-data"
               },
               "next": {
                 "title": "Quickstart: Install MLflow, instrument code & view results in minutes",
                 "permalink": "/docs/getting-started/quickstart-1/"
-              }
-            },
-            {
-              "unversionedId": "DocSearch-program",
-              "id": "DocSearch-program",
-              "title": "DocSearch program",
-              "description": "If you're not finding the answer to your question on this website, this page will help you. If you're still unsure, don't hesitate to send your question to us directly.",
-              "source": "@site/docs/DocSearch-program.md",
-              "sourceDirName": ".",
-              "slug": "/DocSearch-program",
-              "permalink": "/docs/DocSearch-program",
-              "draft": false,
-              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/DocSearch-program.md",
-              "tags": [],
-              "version": "current",
-              "lastUpdatedBy": "Author",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "frontMatter": {
-                "title": "DocSearch program"
-              },
-              "sidebar": "docs",
-              "next": {
-                "title": "Getting Started",
-                "permalink": "/docs/DocSearch-v3"
-              }
-            },
-            {
-              "unversionedId": "DocSearch-v3",
-              "id": "DocSearch-v3",
-              "title": "Getting Started",
-              "description": "The following content is for DocSearch v3. If you are using DocSearch v2, see the legacy documentation.",
-              "source": "@site/docs/DocSearch-v3.mdx",
-              "sourceDirName": ".",
-              "slug": "/DocSearch-v3",
-              "permalink": "/docs/DocSearch-v3",
-              "draft": false,
-              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/DocSearch-v3.mdx",
-              "tags": [],
-              "version": "current",
-              "lastUpdatedBy": "Author",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "frontMatter": {
-                "title": "Getting Started"
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "DocSearch program",
-                "permalink": "/docs/DocSearch-program"
-              },
-              "next": {
-                "title": "API Reference",
-                "permalink": "/docs/api"
               }
             },
             {
@@ -150,170 +331,25 @@
               "frontMatter": {},
               "sidebar": "docs",
               "previous": {
-                "title": "DocSearch x Algolia Crawler",
-                "permalink": "/docs/crawler"
+                "title": "Logging our first runs with MLflow",
+                "permalink": "/docs/getting-started/logging-first-model/step6-logging-a-run"
               },
               "next": {
-                "title": "How does it work?",
-                "permalink": "/docs/how-does-it-work"
+                "title": "Quickstart: Compare runs, choose a model, and deploy it to a REST API",
+                "permalink": "/docs/getting-started/quickstart-2/"
               }
             },
             {
-              "unversionedId": "how-does-it-work",
-              "id": "how-does-it-work",
-              "title": "How does it work?",
-              "description": "Getting up and ready with DocSearch is a straightforward process that requires three steps: you apply, we configure the crawler and the Algolia app for you, and you integrate our UI in your frontend. You only need to copy and paste a JavaScript snippet.",
-              "source": "@site/docs/how-does-it-work.mdx",
-              "sourceDirName": ".",
-              "slug": "/how-does-it-work",
-              "permalink": "/docs/how-does-it-work",
+              "unversionedId": "getting-started/quickstart-2/index",
+              "id": "getting-started/quickstart-2/index",
+              "title": "Quickstart: Compare runs, choose a model, and deploy it to a REST API",
+              "description": "quickstart-mlops}",
+              "source": "@site/docs/getting-started/quickstart-2/index.md",
+              "sourceDirName": "getting-started/quickstart-2",
+              "slug": "/getting-started/quickstart-2/",
+              "permalink": "/docs/getting-started/quickstart-2/",
               "draft": false,
-              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/how-does-it-work.mdx",
-              "tags": [],
-              "version": "current",
-              "lastUpdatedBy": "Author",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "frontMatter": {
-                "title": "How does it work?"
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Quickstart: Install MLflow, instrument code & view results in minutes",
-                "permalink": "/docs/getting-started/quickstart-1/"
-              },
-              "next": {
-                "title": "Supported Integrations",
-                "permalink": "/docs/integrations"
-              }
-            },
-            {
-              "unversionedId": "integrations",
-              "id": "integrations",
-              "title": "Supported Integrations",
-              "description": "We worked with documentation website generators to have DocSearch directly embedded as a first class citizen in the websites they produce.",
-              "source": "@site/docs/integrations.md",
-              "sourceDirName": ".",
-              "slug": "/integrations",
-              "permalink": "/docs/integrations",
-              "draft": false,
-              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/integrations.md",
-              "tags": [],
-              "version": "current",
-              "lastUpdatedBy": "Author",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "frontMatter": {
-                "title": "Supported Integrations"
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "How does it work?",
-                "permalink": "/docs/how-does-it-work"
-              },
-              "next": {
-                "title": "Manage your crawls",
-                "permalink": "/docs/manage-your-crawls"
-              }
-            },
-            {
-              "unversionedId": "manage-your-crawls",
-              "id": "manage-your-crawls",
-              "title": "Manage your crawls",
-              "description": "DocSearch comes with the Algolia Crawler web interface that allows you to configure how and when your Algolia index will be populated.",
-              "source": "@site/docs/manage-your-crawls.mdx",
-              "sourceDirName": ".",
-              "slug": "/manage-your-crawls",
-              "permalink": "/docs/manage-your-crawls",
-              "draft": false,
-              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/manage-your-crawls.mdx",
-              "tags": [],
-              "version": "current",
-              "lastUpdatedBy": "Author",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "frontMatter": {
-                "title": "Manage your crawls"
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Supported Integrations",
-                "permalink": "/docs/integrations"
-              },
-              "next": {
-                "title": "Migrating from the legacy scraper",
-                "permalink": "/docs/migrating-from-legacy"
-              }
-            },
-            {
-              "unversionedId": "migrating-from-legacy",
-              "id": "migrating-from-legacy",
-              "title": "Migrating from the legacy scraper",
-              "description": "Introduction",
-              "source": "@site/docs/migrating-from-legacy.mdx",
-              "sourceDirName": ".",
-              "slug": "/migrating-from-legacy",
-              "permalink": "/docs/migrating-from-legacy",
-              "draft": false,
-              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/migrating-from-legacy.mdx",
-              "tags": [],
-              "version": "current",
-              "lastUpdatedBy": "Author",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "frontMatter": {
-                "title": "Migrating from the legacy scraper"
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Manage your crawls",
-                "permalink": "/docs/manage-your-crawls"
-              },
-              "next": {
-                "title": "Migrating from DocSearch v2",
-                "permalink": "/docs/migrating-from-v2"
-              }
-            },
-            {
-              "unversionedId": "migrating-from-v2",
-              "id": "migrating-from-v2",
-              "title": "Migrating from DocSearch v2",
-              "description": "This page lists the differences between the DocSearch v2 and DocSearch v3 API, you can also take a look at the exhaustive API reference list and the Getting started guide.",
-              "source": "@site/docs/migrating-from-v2.md",
-              "sourceDirName": ".",
-              "slug": "/migrating-from-v2",
-              "permalink": "/docs/migrating-from-v2",
-              "draft": false,
-              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/migrating-from-v2.md",
-              "tags": [],
-              "version": "current",
-              "lastUpdatedBy": "Author",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "frontMatter": {
-                "title": "Migrating from DocSearch v2"
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Migrating from the legacy scraper",
-                "permalink": "/docs/migrating-from-legacy"
-              },
-              "next": {
-                "title": "mlflow-doc-main",
-                "permalink": "/docs/mlflow-doc-main"
-              }
-            },
-            {
-              "unversionedId": "mlflow-doc-main",
-              "id": "mlflow-doc-main",
-              "title": "mlflow-doc-main",
-              "description": "",
-              "source": "@site/docs/mlflow-doc-main.md",
-              "sourceDirName": ".",
-              "slug": "/mlflow-doc-main",
-              "permalink": "/docs/mlflow-doc-main",
-              "draft": false,
-              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/mlflow-doc-main.md",
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/getting-started/quickstart-2/index.md",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
@@ -322,212 +358,35 @@
               "frontMatter": {},
               "sidebar": "docs",
               "previous": {
-                "title": "Migrating from DocSearch v2",
-                "permalink": "/docs/migrating-from-v2"
+                "title": "Quickstart: Install MLflow, instrument code & view results in minutes",
+                "permalink": "/docs/getting-started/quickstart-1/"
               },
               "next": {
-                "title": "Record Extractor",
-                "permalink": "/docs/record-extractor"
+                "title": "5 Minute Tracking Server Overview",
+                "permalink": "/docs/getting-started/tracking-server-overview/"
               }
             },
             {
-              "unversionedId": "record-extractor",
-              "id": "record-extractor",
-              "title": "Record Extractor",
-              "description": "Introduction",
-              "source": "@site/docs/record-extractor.md",
-              "sourceDirName": ".",
-              "slug": "/record-extractor",
-              "permalink": "/docs/record-extractor",
+              "unversionedId": "getting-started/tracking-server-overview/index",
+              "id": "getting-started/tracking-server-overview/index",
+              "title": "5 Minute Tracking Server Overview",
+              "description": "tracking-server-overview}",
+              "source": "@site/docs/getting-started/tracking-server-overview/index.md",
+              "sourceDirName": "getting-started/tracking-server-overview",
+              "slug": "/getting-started/tracking-server-overview/",
+              "permalink": "/docs/getting-started/tracking-server-overview/",
               "draft": false,
-              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/record-extractor.md",
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/getting-started/tracking-server-overview/index.md",
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "Oct 14, 2018",
-              "frontMatter": {
-                "title": "Record Extractor"
-              },
+              "frontMatter": {},
               "sidebar": "docs",
               "previous": {
-                "title": "mlflow-doc-main",
-                "permalink": "/docs/mlflow-doc-main"
-              },
-              "next": {
-                "title": "Required configuration",
-                "permalink": "/docs/required-configuration"
-              }
-            },
-            {
-              "unversionedId": "required-configuration",
-              "id": "required-configuration",
-              "title": "Required configuration",
-              "description": "This section, gives you the best practices to optimize our crawl. Adopting this following specification is required to let our crawler build the best experience from your website. You will need to update your website and follow these rules.",
-              "source": "@site/docs/required-configuration.mdx",
-              "sourceDirName": ".",
-              "slug": "/required-configuration",
-              "permalink": "/docs/required-configuration",
-              "draft": false,
-              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/required-configuration.mdx",
-              "tags": [],
-              "version": "current",
-              "lastUpdatedBy": "Author",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "frontMatter": {
-                "title": "Required configuration"
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Record Extractor",
-                "permalink": "/docs/record-extractor"
-              },
-              "next": {
-                "title": "Styling",
-                "permalink": "/docs/styling"
-              }
-            },
-            {
-              "unversionedId": "styling",
-              "id": "styling",
-              "title": "Styling",
-              "description": "The following content is for DocSearch v3. If you are using DocSearch v2, see the legacy documentation.",
-              "source": "@site/docs/styling.md",
-              "sourceDirName": ".",
-              "slug": "/styling",
-              "permalink": "/docs/styling",
-              "draft": false,
-              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/styling.md",
-              "tags": [],
-              "version": "current",
-              "lastUpdatedBy": "Author",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "frontMatter": {
-                "title": "Styling"
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Required configuration",
-                "permalink": "/docs/required-configuration"
-              },
-              "next": {
-                "title": "Config templates",
-                "permalink": "/docs/templates"
-              }
-            },
-            {
-              "unversionedId": "templates",
-              "id": "templates",
-              "title": "Config templates",
-              "description": "To help you create the best search experience for your users, we provide config templates for multiple websites generators. If you'd like to add a new template to our list, or believe we should update an existing one, please send us an email or open a pull request.",
-              "source": "@site/docs/templates.mdx",
-              "sourceDirName": ".",
-              "slug": "/templates",
-              "permalink": "/docs/templates",
-              "draft": false,
-              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/templates.mdx",
-              "tags": [],
-              "version": "current",
-              "lastUpdatedBy": "Author",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "frontMatter": {
-                "title": "Config templates"
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Styling",
-                "permalink": "/docs/styling"
-              },
-              "next": {
-                "title": "Tips for a good search",
-                "permalink": "/docs/tips"
-              }
-            },
-            {
-              "unversionedId": "tips",
-              "id": "tips",
-              "title": "Tips for a good search",
-              "description": "DocSearch can work with almost any website, but we've found that some site structures yield more relevant results or faster indexing time. In this page we'll share some tips on how you can make the most out of DocSearch.",
-              "source": "@site/docs/tips.md",
-              "sourceDirName": ".",
-              "slug": "/tips",
-              "permalink": "/docs/tips",
-              "draft": false,
-              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/tips.md",
-              "tags": [],
-              "version": "current",
-              "lastUpdatedBy": "Author",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "frontMatter": {
-                "title": "Tips for a good search"
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Config templates",
-                "permalink": "/docs/templates"
-              },
-              "next": {
-                "title": "What is DocSearch?",
-                "permalink": "/docs/what-is-docsearch"
-              }
-            },
-            {
-              "unversionedId": "what-is-docsearch",
-              "id": "what-is-docsearch",
-              "title": "What is DocSearch?",
-              "description": "Why?",
-              "source": "@site/docs/what-is-docsearch.md",
-              "sourceDirName": ".",
-              "slug": "/what-is-docsearch",
-              "permalink": "/docs/what-is-docsearch",
-              "draft": false,
-              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/what-is-docsearch.md",
-              "tags": [],
-              "version": "current",
-              "lastUpdatedBy": "Author",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "frontMatter": {
-                "title": "What is DocSearch?",
-                "sidebar_label": "What is DocSearch?"
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "Tips for a good search",
-                "permalink": "/docs/tips"
-              },
-              "next": {
-                "title": "Who can apply?",
-                "permalink": "/docs/who-can-apply"
-              }
-            },
-            {
-              "unversionedId": "who-can-apply",
-              "id": "who-can-apply",
-              "title": "Who can apply?",
-              "description": "Open for all developer documentation and technical blogs.",
-              "source": "@site/docs/who-can-apply.md",
-              "sourceDirName": ".",
-              "slug": "/who-can-apply",
-              "permalink": "/docs/who-can-apply",
-              "draft": false,
-              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/who-can-apply.md",
-              "tags": [],
-              "version": "current",
-              "lastUpdatedBy": "Author",
-              "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "Oct 14, 2018",
-              "frontMatter": {
-                "title": "Who can apply?"
-              },
-              "sidebar": "docs",
-              "previous": {
-                "title": "What is DocSearch?",
-                "permalink": "/docs/what-is-docsearch"
+                "title": "Quickstart: Compare runs, choose a model, and deploy it to a REST API",
+                "permalink": "/docs/getting-started/quickstart-2/"
               }
             }
           ],
@@ -535,86 +394,89 @@
           "sidebars": {
             "docs": [
               {
-                "type": "doc",
-                "id": "DocSearch-program"
-              },
-              {
-                "type": "doc",
-                "id": "DocSearch-v3"
-              },
-              {
-                "type": "doc",
-                "id": "api"
-              },
-              {
-                "type": "doc",
-                "id": "crawler"
-              },
-              {
                 "type": "category",
-                "label": "getting-started",
+                "label": "Getting Started with MLflow",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
+                    "type": "category",
+                    "label": "MLflow Tracking Quickstart",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "label": "MLflow Tracking Quickstart Notebook",
+                        "id": "getting-started/intro-quickstart/notebooks/index"
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "getting-started/intro-quickstart/index"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Tutorial Overview",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "label": "Logging Your First MLflow Model Notebook",
+                        "id": "getting-started/logging-first-model/notebooks/index"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "getting-started/logging-first-model/step1-tracking-server"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "getting-started/logging-first-model/step2-mlflow-client"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "getting-started/logging-first-model/step3-create-experiment"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "getting-started/logging-first-model/step4-experiment-search"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "getting-started/logging-first-model/step5-synthetic-data"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "getting-started/logging-first-model/step6-logging-a-run"
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "getting-started/logging-first-model/index"
+                    }
+                  },
+                  {
                     "type": "doc",
                     "label": "Quickstart: Install MLflow, instrument code & view results in minutes",
                     "id": "getting-started/quickstart-1/index"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "Quickstart: Compare runs, choose a model, and deploy it to a REST API",
+                    "id": "getting-started/quickstart-2/index"
+                  },
+                  {
+                    "type": "doc",
+                    "label": "5 Minute Tracking Server Overview",
+                    "id": "getting-started/tracking-server-overview/index"
                   }
-                ]
-              },
-              {
-                "type": "doc",
-                "id": "how-does-it-work"
-              },
-              {
-                "type": "doc",
-                "id": "integrations"
-              },
-              {
-                "type": "doc",
-                "id": "manage-your-crawls"
-              },
-              {
-                "type": "doc",
-                "id": "migrating-from-legacy"
-              },
-              {
-                "type": "doc",
-                "id": "migrating-from-v2"
-              },
-              {
-                "type": "doc",
-                "id": "mlflow-doc-main"
-              },
-              {
-                "type": "doc",
-                "id": "record-extractor"
-              },
-              {
-                "type": "doc",
-                "id": "required-configuration"
-              },
-              {
-                "type": "doc",
-                "id": "styling"
-              },
-              {
-                "type": "doc",
-                "id": "templates"
-              },
-              {
-                "type": "doc",
-                "id": "tips"
-              },
-              {
-                "type": "doc",
-                "id": "what-is-docsearch",
-                "label": "What is DocSearch?"
-              },
-              {
-                "type": "doc",
-                "id": "who-can-apply"
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "getting-started/index"
+                }
               }
             ]
           }

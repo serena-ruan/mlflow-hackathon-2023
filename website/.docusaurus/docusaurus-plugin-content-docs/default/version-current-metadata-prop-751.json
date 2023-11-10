@@ -10,146 +10,165 @@
   "docsSidebars": {
     "docs": [
       {
-        "type": "link",
-        "label": "DocSearch program",
-        "href": "/docs/DocSearch-program",
-        "docId": "DocSearch-program"
-      },
-      {
-        "type": "link",
-        "label": "Getting Started",
-        "href": "/docs/DocSearch-v3",
-        "docId": "DocSearch-v3"
-      },
-      {
-        "type": "link",
-        "label": "API Reference",
-        "href": "/docs/api",
-        "docId": "api"
-      },
-      {
-        "type": "link",
-        "label": "DocSearch x Algolia Crawler",
-        "href": "/docs/crawler",
-        "docId": "crawler"
-      },
-      {
         "type": "category",
-        "label": "getting-started",
+        "label": "Getting Started with MLflow",
         "collapsible": true,
         "collapsed": true,
         "items": [
+          {
+            "type": "category",
+            "label": "MLflow Tracking Quickstart",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "MLflow Tracking Quickstart Notebook",
+                "href": "/docs/getting-started/intro-quickstart/notebooks/",
+                "docId": "getting-started/intro-quickstart/notebooks/index"
+              }
+            ],
+            "href": "/docs/getting-started/intro-quickstart/"
+          },
+          {
+            "type": "category",
+            "label": "Tutorial Overview",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Logging Your First MLflow Model Notebook",
+                "href": "/docs/getting-started/logging-first-model/notebooks/",
+                "docId": "getting-started/logging-first-model/notebooks/index"
+              },
+              {
+                "type": "link",
+                "label": "Starting the MLflow Tracking Server",
+                "href": "/docs/getting-started/logging-first-model/step1-tracking-server",
+                "docId": "getting-started/logging-first-model/step1-tracking-server"
+              },
+              {
+                "type": "link",
+                "label": "Using the MLflow Client API",
+                "href": "/docs/getting-started/logging-first-model/step2-mlflow-client",
+                "docId": "getting-started/logging-first-model/step2-mlflow-client"
+              },
+              {
+                "type": "link",
+                "label": "Creating Experiments",
+                "href": "/docs/getting-started/logging-first-model/step3-create-experiment",
+                "docId": "getting-started/logging-first-model/step3-create-experiment"
+              },
+              {
+                "type": "link",
+                "label": "Searching Experiments",
+                "href": "/docs/getting-started/logging-first-model/step4-experiment-search",
+                "docId": "getting-started/logging-first-model/step4-experiment-search"
+              },
+              {
+                "type": "link",
+                "label": "Create a dataset about apples",
+                "href": "/docs/getting-started/logging-first-model/step5-synthetic-data",
+                "docId": "getting-started/logging-first-model/step5-synthetic-data"
+              },
+              {
+                "type": "link",
+                "label": "Logging our first runs with MLflow",
+                "href": "/docs/getting-started/logging-first-model/step6-logging-a-run",
+                "docId": "getting-started/logging-first-model/step6-logging-a-run"
+              }
+            ],
+            "href": "/docs/getting-started/logging-first-model/"
+          },
           {
             "type": "link",
             "label": "Quickstart: Install MLflow, instrument code & view results in minutes",
             "href": "/docs/getting-started/quickstart-1/",
             "docId": "getting-started/quickstart-1/index"
+          },
+          {
+            "type": "link",
+            "label": "Quickstart: Compare runs, choose a model, and deploy it to a REST API",
+            "href": "/docs/getting-started/quickstart-2/",
+            "docId": "getting-started/quickstart-2/index"
+          },
+          {
+            "type": "link",
+            "label": "5 Minute Tracking Server Overview",
+            "href": "/docs/getting-started/tracking-server-overview/",
+            "docId": "getting-started/tracking-server-overview/index"
           }
-        ]
-      },
-      {
-        "type": "link",
-        "label": "How does it work?",
-        "href": "/docs/how-does-it-work",
-        "docId": "how-does-it-work"
-      },
-      {
-        "type": "link",
-        "label": "Supported Integrations",
-        "href": "/docs/integrations",
-        "docId": "integrations"
-      },
-      {
-        "type": "link",
-        "label": "Manage your crawls",
-        "href": "/docs/manage-your-crawls",
-        "docId": "manage-your-crawls"
-      },
-      {
-        "type": "link",
-        "label": "Migrating from the legacy scraper",
-        "href": "/docs/migrating-from-legacy",
-        "docId": "migrating-from-legacy"
-      },
-      {
-        "type": "link",
-        "label": "Migrating from DocSearch v2",
-        "href": "/docs/migrating-from-v2",
-        "docId": "migrating-from-v2"
-      },
-      {
-        "type": "link",
-        "label": "mlflow-doc-main",
-        "href": "/docs/mlflow-doc-main",
-        "docId": "mlflow-doc-main"
-      },
-      {
-        "type": "link",
-        "label": "Record Extractor",
-        "href": "/docs/record-extractor",
-        "docId": "record-extractor"
-      },
-      {
-        "type": "link",
-        "label": "Required configuration",
-        "href": "/docs/required-configuration",
-        "docId": "required-configuration"
-      },
-      {
-        "type": "link",
-        "label": "Styling",
-        "href": "/docs/styling",
-        "docId": "styling"
-      },
-      {
-        "type": "link",
-        "label": "Config templates",
-        "href": "/docs/templates",
-        "docId": "templates"
-      },
-      {
-        "type": "link",
-        "label": "Tips for a good search",
-        "href": "/docs/tips",
-        "docId": "tips"
-      },
-      {
-        "type": "link",
-        "label": "What is DocSearch?",
-        "href": "/docs/what-is-docsearch",
-        "docId": "what-is-docsearch"
-      },
-      {
-        "type": "link",
-        "label": "Who can apply?",
-        "href": "/docs/who-can-apply",
-        "docId": "who-can-apply"
+        ],
+        "href": "/docs/getting-started/"
       }
     ]
   },
   "docs": {
-    "api": {
-      "id": "api",
-      "title": "API Reference",
-      "description": "The following content is for DocSearch v3. If you are using DocSearch v2, see the legacy documentation.",
+    "getting-started/index": {
+      "id": "getting-started/index",
+      "title": "Getting Started with MLflow",
+      "description": "getting-started-with-mlflow}",
       "sidebar": "docs"
     },
-    "crawler": {
-      "id": "crawler",
-      "title": "DocSearch x Algolia Crawler",
-      "description": "If you're not finding the answer to your question on this website, this page will help you. If you're still unsure, don't hesitate to send your question to us directly.",
+    "getting-started/intro-quickstart/index": {
+      "id": "getting-started/intro-quickstart/index",
+      "title": "MLflow Tracking Quickstart",
+      "description": "mlflow-tracking-quickstart}",
       "sidebar": "docs"
     },
-    "DocSearch-program": {
-      "id": "DocSearch-program",
-      "title": "DocSearch program",
-      "description": "If you're not finding the answer to your question on this website, this page will help you. If you're still unsure, don't hesitate to send your question to us directly.",
+    "getting-started/intro-quickstart/notebooks/index": {
+      "id": "getting-started/intro-quickstart/notebooks/index",
+      "title": "MLflow Tracking Quickstart Notebook",
+      "description": "mlflow-tracking-quickstart-notebook}",
       "sidebar": "docs"
     },
-    "DocSearch-v3": {
-      "id": "DocSearch-v3",
-      "title": "Getting Started",
-      "description": "The following content is for DocSearch v3. If you are using DocSearch v2, see the legacy documentation.",
+    "getting-started/logging-first-model/index": {
+      "id": "getting-started/logging-first-model/index",
+      "title": "Tutorial Overview",
+      "description": "tutorial-overview}",
+      "sidebar": "docs"
+    },
+    "getting-started/logging-first-model/notebooks/index": {
+      "id": "getting-started/logging-first-model/notebooks/index",
+      "title": "Logging Your First MLflow Model Notebook",
+      "description": "logging-your-first-mlflow-model-notebook}",
+      "sidebar": "docs"
+    },
+    "getting-started/logging-first-model/step1-tracking-server": {
+      "id": "getting-started/logging-first-model/step1-tracking-server",
+      "title": "Starting the MLflow Tracking Server",
+      "description": "starting-the-mlflow-tracking-server}",
+      "sidebar": "docs"
+    },
+    "getting-started/logging-first-model/step2-mlflow-client": {
+      "id": "getting-started/logging-first-model/step2-mlflow-client",
+      "title": "Using the MLflow Client API",
+      "description": "using-the-mlflow-client-api}",
+      "sidebar": "docs"
+    },
+    "getting-started/logging-first-model/step3-create-experiment": {
+      "id": "getting-started/logging-first-model/step3-create-experiment",
+      "title": "Creating Experiments",
+      "description": "creating-experiments}",
+      "sidebar": "docs"
+    },
+    "getting-started/logging-first-model/step4-experiment-search": {
+      "id": "getting-started/logging-first-model/step4-experiment-search",
+      "title": "Searching Experiments",
+      "description": "searching-experiments}",
+      "sidebar": "docs"
+    },
+    "getting-started/logging-first-model/step5-synthetic-data": {
+      "id": "getting-started/logging-first-model/step5-synthetic-data",
+      "title": "Create a dataset about apples",
+      "description": "create-a-dataset-about-apples}",
+      "sidebar": "docs"
+    },
+    "getting-started/logging-first-model/step6-logging-a-run": {
+      "id": "getting-started/logging-first-model/step6-logging-a-run",
+      "title": "Logging our first runs with MLflow",
+      "description": "logging-our-first-runs-with-mlflow}",
       "sidebar": "docs"
     },
     "getting-started/quickstart-1/index": {
@@ -158,82 +177,16 @@
       "description": "quickstart-1}",
       "sidebar": "docs"
     },
-    "how-does-it-work": {
-      "id": "how-does-it-work",
-      "title": "How does it work?",
-      "description": "Getting up and ready with DocSearch is a straightforward process that requires three steps: you apply, we configure the crawler and the Algolia app for you, and you integrate our UI in your frontend. You only need to copy and paste a JavaScript snippet.",
+    "getting-started/quickstart-2/index": {
+      "id": "getting-started/quickstart-2/index",
+      "title": "Quickstart: Compare runs, choose a model, and deploy it to a REST API",
+      "description": "quickstart-mlops}",
       "sidebar": "docs"
     },
-    "integrations": {
-      "id": "integrations",
-      "title": "Supported Integrations",
-      "description": "We worked with documentation website generators to have DocSearch directly embedded as a first class citizen in the websites they produce.",
-      "sidebar": "docs"
-    },
-    "manage-your-crawls": {
-      "id": "manage-your-crawls",
-      "title": "Manage your crawls",
-      "description": "DocSearch comes with the Algolia Crawler web interface that allows you to configure how and when your Algolia index will be populated.",
-      "sidebar": "docs"
-    },
-    "migrating-from-legacy": {
-      "id": "migrating-from-legacy",
-      "title": "Migrating from the legacy scraper",
-      "description": "Introduction",
-      "sidebar": "docs"
-    },
-    "migrating-from-v2": {
-      "id": "migrating-from-v2",
-      "title": "Migrating from DocSearch v2",
-      "description": "This page lists the differences between the DocSearch v2 and DocSearch v3 API, you can also take a look at the exhaustive API reference list and the Getting started guide.",
-      "sidebar": "docs"
-    },
-    "mlflow-doc-main": {
-      "id": "mlflow-doc-main",
-      "title": "mlflow-doc-main",
-      "description": "",
-      "sidebar": "docs"
-    },
-    "record-extractor": {
-      "id": "record-extractor",
-      "title": "Record Extractor",
-      "description": "Introduction",
-      "sidebar": "docs"
-    },
-    "required-configuration": {
-      "id": "required-configuration",
-      "title": "Required configuration",
-      "description": "This section, gives you the best practices to optimize our crawl. Adopting this following specification is required to let our crawler build the best experience from your website. You will need to update your website and follow these rules.",
-      "sidebar": "docs"
-    },
-    "styling": {
-      "id": "styling",
-      "title": "Styling",
-      "description": "The following content is for DocSearch v3. If you are using DocSearch v2, see the legacy documentation.",
-      "sidebar": "docs"
-    },
-    "templates": {
-      "id": "templates",
-      "title": "Config templates",
-      "description": "To help you create the best search experience for your users, we provide config templates for multiple websites generators. If you'd like to add a new template to our list, or believe we should update an existing one, please send us an email or open a pull request.",
-      "sidebar": "docs"
-    },
-    "tips": {
-      "id": "tips",
-      "title": "Tips for a good search",
-      "description": "DocSearch can work with almost any website, but we've found that some site structures yield more relevant results or faster indexing time. In this page we'll share some tips on how you can make the most out of DocSearch.",
-      "sidebar": "docs"
-    },
-    "what-is-docsearch": {
-      "id": "what-is-docsearch",
-      "title": "What is DocSearch?",
-      "description": "Why?",
-      "sidebar": "docs"
-    },
-    "who-can-apply": {
-      "id": "who-can-apply",
-      "title": "Who can apply?",
-      "description": "Open for all developer documentation and technical blogs.",
+    "getting-started/tracking-server-overview/index": {
+      "id": "getting-started/tracking-server-overview/index",
+      "title": "5 Minute Tracking Server Overview",
+      "description": "tracking-server-overview}",
       "sidebar": "docs"
     }
   }

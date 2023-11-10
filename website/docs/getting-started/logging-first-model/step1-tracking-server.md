@@ -1,0 +1,67 @@
+# Starting the MLflow Tracking Server {#starting-the-mlflow-tracking-server}
+
+Before diving into MLflow's rich features, let's set up the foundational
+components: the MLflow Tracking Server and the MLflow UI. This guide
+will walk you through the steps to get both up and running.
+
+## Setting Up MLflow {#setting-up-mlflow}
+
+The first thing that we need to do is to get MLflow.
+
+## Step 1: Install MLflow from PyPI {#step-1-install-mlflow-from-pypi}
+
+MLflow is conveniently available on PyPI. Installing it is as simple as
+running a pip command.
+
+<div class="code-section" markdown="1">
+
+~~~ bash
+pip install mlflow
+~~~
+
+</div>
+
+## Step 2: Launch the MLflow Tracking Server {#step-2-launch-the-mlflow-tracking-server}
+
+To begin, you'll need to initiate the MLflow Tracking Server. Remember
+to keep the command prompt running during the tutorial, as closing it
+will shut down the server.
+
+<div class="code-section" markdown="1">
+
+~~~ bash
+mlflow server --host 127.0.0.1 --port 8080
+~~~
+
+</div>
+
+Once the server starts running, you should see the following output:
+
+~~~ 
+[2023-11-01 10:28:12 +0900] [28550] [INFO] Starting gunicorn 20.1.0
+[2023-11-01 10:28:12 +0900] [28550] [INFO] Listening at: http://127.0.0.1:8080 (28550)
+[2023-11-01 10:28:12 +0900] [28550] [INFO] Using worker: sync
+[2023-11-01 10:28:12 +0900] [28552] [INFO] Booting worker with pid: 28552
+[2023-11-01 10:28:12 +0900] [28553] [INFO] Booting worker with pid: 28553
+[2023-11-01 10:28:12 +0900] [28555] [INFO] Booting worker with pid: 28555
+[2023-11-01 10:28:12 +0900] [28558] [INFO] Booting worker with pid: 28558
+...
+~~~
+
+<div class="note" markdown="1">
+
+<div class="title" markdown="1">
+
+Note
+
+</div>
+
+Remember the host and port name that your MLflow tracking server is
+assigned. You will need this information in the next section of this
+tutorial!
+
+</div>
+
+Congratulations! Your MLflow environment is now set up and ready to go.
+As you progress, you'll explore the myriad of functionalities MLflow has
+to offer, streamlining and enhancing your machine learning workflows.

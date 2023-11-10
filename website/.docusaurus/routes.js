@@ -126,29 +126,71 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a56'),
+    component: ComponentCreator('/docs', '4b4'),
     routes: [
       {
-        path: '/docs/api',
-        component: ComponentCreator('/docs/api', '2f6'),
+        path: '/docs/getting-started/',
+        component: ComponentCreator('/docs/getting-started/', '3c7'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/crawler',
-        component: ComponentCreator('/docs/crawler', 'e5c'),
+        path: '/docs/getting-started/intro-quickstart/',
+        component: ComponentCreator('/docs/getting-started/intro-quickstart/', 'a6a'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/DocSearch-program',
-        component: ComponentCreator('/docs/DocSearch-program', 'a19'),
+        path: '/docs/getting-started/intro-quickstart/notebooks/',
+        component: ComponentCreator('/docs/getting-started/intro-quickstart/notebooks/', 'b1f'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/DocSearch-v3',
-        component: ComponentCreator('/docs/DocSearch-v3', '209'),
+        path: '/docs/getting-started/logging-first-model/',
+        component: ComponentCreator('/docs/getting-started/logging-first-model/', '941'),
+        exact: true,
+        sidebar: "docs"
+      },
+      {
+        path: '/docs/getting-started/logging-first-model/notebooks/',
+        component: ComponentCreator('/docs/getting-started/logging-first-model/notebooks/', 'a7f'),
+        exact: true,
+        sidebar: "docs"
+      },
+      {
+        path: '/docs/getting-started/logging-first-model/step1-tracking-server',
+        component: ComponentCreator('/docs/getting-started/logging-first-model/step1-tracking-server', '31f'),
+        exact: true,
+        sidebar: "docs"
+      },
+      {
+        path: '/docs/getting-started/logging-first-model/step2-mlflow-client',
+        component: ComponentCreator('/docs/getting-started/logging-first-model/step2-mlflow-client', 'e71'),
+        exact: true,
+        sidebar: "docs"
+      },
+      {
+        path: '/docs/getting-started/logging-first-model/step3-create-experiment',
+        component: ComponentCreator('/docs/getting-started/logging-first-model/step3-create-experiment', 'f3e'),
+        exact: true,
+        sidebar: "docs"
+      },
+      {
+        path: '/docs/getting-started/logging-first-model/step4-experiment-search',
+        component: ComponentCreator('/docs/getting-started/logging-first-model/step4-experiment-search', 'fb5'),
+        exact: true,
+        sidebar: "docs"
+      },
+      {
+        path: '/docs/getting-started/logging-first-model/step5-synthetic-data',
+        component: ComponentCreator('/docs/getting-started/logging-first-model/step5-synthetic-data', 'f4d'),
+        exact: true,
+        sidebar: "docs"
+      },
+      {
+        path: '/docs/getting-started/logging-first-model/step6-logging-a-run',
+        component: ComponentCreator('/docs/getting-started/logging-first-model/step6-logging-a-run', '0ee'),
         exact: true,
         sidebar: "docs"
       },
@@ -159,80 +201,14 @@ export default [
         sidebar: "docs"
       },
       {
-        path: '/docs/how-does-it-work',
-        component: ComponentCreator('/docs/how-does-it-work', 'caf'),
+        path: '/docs/getting-started/quickstart-2/',
+        component: ComponentCreator('/docs/getting-started/quickstart-2/', 'c4d'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/integrations',
-        component: ComponentCreator('/docs/integrations', '6e6'),
-        exact: true,
-        sidebar: "docs"
-      },
-      {
-        path: '/docs/manage-your-crawls',
-        component: ComponentCreator('/docs/manage-your-crawls', '633'),
-        exact: true,
-        sidebar: "docs"
-      },
-      {
-        path: '/docs/migrating-from-legacy',
-        component: ComponentCreator('/docs/migrating-from-legacy', 'c76'),
-        exact: true,
-        sidebar: "docs"
-      },
-      {
-        path: '/docs/migrating-from-v2',
-        component: ComponentCreator('/docs/migrating-from-v2', 'f66'),
-        exact: true,
-        sidebar: "docs"
-      },
-      {
-        path: '/docs/mlflow-doc-main',
-        component: ComponentCreator('/docs/mlflow-doc-main', '2d4'),
-        exact: true,
-        sidebar: "docs"
-      },
-      {
-        path: '/docs/record-extractor',
-        component: ComponentCreator('/docs/record-extractor', '33c'),
-        exact: true,
-        sidebar: "docs"
-      },
-      {
-        path: '/docs/required-configuration',
-        component: ComponentCreator('/docs/required-configuration', '1e7'),
-        exact: true,
-        sidebar: "docs"
-      },
-      {
-        path: '/docs/styling',
-        component: ComponentCreator('/docs/styling', '1ec'),
-        exact: true,
-        sidebar: "docs"
-      },
-      {
-        path: '/docs/templates',
-        component: ComponentCreator('/docs/templates', '25b'),
-        exact: true,
-        sidebar: "docs"
-      },
-      {
-        path: '/docs/tips',
-        component: ComponentCreator('/docs/tips', '086'),
-        exact: true,
-        sidebar: "docs"
-      },
-      {
-        path: '/docs/what-is-docsearch',
-        component: ComponentCreator('/docs/what-is-docsearch', 'c80'),
-        exact: true,
-        sidebar: "docs"
-      },
-      {
-        path: '/docs/who-can-apply',
-        component: ComponentCreator('/docs/who-can-apply', '84a'),
+        path: '/docs/getting-started/tracking-server-overview/',
+        component: ComponentCreator('/docs/getting-started/tracking-server-overview/', '0cd'),
         exact: true,
         sidebar: "docs"
       }

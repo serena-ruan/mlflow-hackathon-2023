@@ -17,11 +17,11 @@
   "frontMatter": {},
   "sidebar": "docs",
   "previous": {
-    "title": "DocSearch x Algolia Crawler",
-    "permalink": "/docs/crawler"
+    "title": "Logging our first runs with MLflow",
+    "permalink": "/docs/getting-started/logging-first-model/step6-logging-a-run"
   },
   "next": {
-    "title": "How does it work?",
-    "permalink": "/docs/how-does-it-work"
+    "title": "Quickstart: Compare runs, choose a model, and deploy it to a REST API",
+    "permalink": "/docs/getting-started/quickstart-2/"
   }
 }
