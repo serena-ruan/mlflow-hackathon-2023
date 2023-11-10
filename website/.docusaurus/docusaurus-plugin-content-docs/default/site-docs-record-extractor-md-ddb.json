@@ -19,11 +19,11 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Migrating from DocSearch v2",
-    "permalink": "/docs/migrating-from-v2"
+    "title": "mlflow-doc-main",
+    "permalink": "/docs/mlflow-doc-main"
   },
   "next": {
-    "title": "Config templates",
-    "permalink": "/docs/templates"
+    "title": "Required configuration",
+    "permalink": "/docs/required-configuration"
   }
 }

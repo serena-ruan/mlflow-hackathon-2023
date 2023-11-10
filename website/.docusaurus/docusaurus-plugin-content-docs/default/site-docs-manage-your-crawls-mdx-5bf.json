@@ -19,11 +19,11 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Config templates",
-    "permalink": "/docs/templates"
+    "title": "Supported Integrations",
+    "permalink": "/docs/integrations"
   },
   "next": {
-    "title": "DocSearch x Algolia Crawler",
-    "permalink": "/docs/crawler"
+    "title": "Migrating from the legacy scraper",
+    "permalink": "/docs/migrating-from-legacy"
   }
 }

@@ -19,11 +19,11 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Record Extractor",
-    "permalink": "/docs/record-extractor"
+    "title": "Styling",
+    "permalink": "/docs/styling"
   },
   "next": {
-    "title": "Manage your crawls",
-    "permalink": "/docs/manage-your-crawls"
+    "title": "Tips for a good search",
+    "permalink": "/docs/tips"
   }
 }

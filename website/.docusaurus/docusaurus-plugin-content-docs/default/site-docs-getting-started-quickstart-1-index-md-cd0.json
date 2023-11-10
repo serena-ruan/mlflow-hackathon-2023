@@ -1,0 +1,27 @@
+{
+  "unversionedId": "getting-started/quickstart-1/index",
+  "id": "getting-started/quickstart-1/index",
+  "title": "Quickstart: Install MLflow, instrument code & view results in minutes",
+  "description": "quickstart-1}",
+  "source": "@site/docs/getting-started/quickstart-1/index.md",
+  "sourceDirName": "getting-started/quickstart-1",
+  "slug": "/getting-started/quickstart-1/",
+  "permalink": "/docs/getting-started/quickstart-1/",
+  "draft": false,
+  "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/getting-started/quickstart-1/index.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "DocSearch x Algolia Crawler",
+    "permalink": "/docs/crawler"
+  },
+  "next": {
+    "title": "How does it work?",
+    "permalink": "/docs/how-does-it-work"
+  }
+}

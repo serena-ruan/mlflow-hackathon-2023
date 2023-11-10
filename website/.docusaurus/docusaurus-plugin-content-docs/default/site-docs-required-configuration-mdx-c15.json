@@ -19,7 +19,11 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "How does it work?",
-    "permalink": "/docs/how-does-it-work"
+    "title": "Record Extractor",
+    "permalink": "/docs/record-extractor"
+  },
+  "next": {
+    "title": "Styling",
+    "permalink": "/docs/styling"
   }
 }

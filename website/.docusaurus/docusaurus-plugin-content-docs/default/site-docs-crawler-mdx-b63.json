@@ -19,11 +19,11 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Manage your crawls",
-    "permalink": "/docs/manage-your-crawls"
+    "title": "API Reference",
+    "permalink": "/docs/api"
   },
   "next": {
-    "title": "DocSearch program",
-    "permalink": "/docs/DocSearch-program"
+    "title": "Quickstart: Install MLflow, instrument code & view results in minutes",
+    "permalink": "/docs/getting-started/quickstart-1/"
   }
 }

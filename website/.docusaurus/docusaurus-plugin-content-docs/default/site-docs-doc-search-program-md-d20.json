@@ -18,12 +18,8 @@
     "title": "DocSearch program"
   },
   "sidebar": "docs",
-  "previous": {
-    "title": "DocSearch x Algolia Crawler",
-    "permalink": "/docs/crawler"
-  },
   "next": {
-    "title": "Tips for a good search",
-    "permalink": "/docs/tips"
+    "title": "Getting Started",
+    "permalink": "/docs/DocSearch-v3"
   }
 }

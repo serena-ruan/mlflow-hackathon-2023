@@ -44,8 +44,8 @@
                 "permalink": "/docs/DocSearch-v3"
               },
               "next": {
-                "title": "Styling",
-                "permalink": "/docs/styling"
+                "title": "DocSearch x Algolia Crawler",
+                "permalink": "/docs/crawler"
               }
             },
             {
@@ -69,12 +69,12 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "Manage your crawls",
-                "permalink": "/docs/manage-your-crawls"
+                "title": "API Reference",
+                "permalink": "/docs/api"
               },
               "next": {
-                "title": "DocSearch program",
-                "permalink": "/docs/DocSearch-program"
+                "title": "Quickstart: Install MLflow, instrument code & view results in minutes",
+                "permalink": "/docs/getting-started/quickstart-1/"
               }
             },
             {
@@ -97,13 +97,9 @@
                 "title": "DocSearch program"
               },
               "sidebar": "docs",
-              "previous": {
-                "title": "DocSearch x Algolia Crawler",
-                "permalink": "/docs/crawler"
-              },
               "next": {
-                "title": "Tips for a good search",
-                "permalink": "/docs/tips"
+                "title": "Getting Started",
+                "permalink": "/docs/DocSearch-v3"
               }
             },
             {
@@ -127,12 +123,39 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "Migrating from the legacy scraper",
-                "permalink": "/docs/migrating-from-legacy"
+                "title": "DocSearch program",
+                "permalink": "/docs/DocSearch-program"
               },
               "next": {
                 "title": "API Reference",
                 "permalink": "/docs/api"
+              }
+            },
+            {
+              "unversionedId": "getting-started/quickstart-1/index",
+              "id": "getting-started/quickstart-1/index",
+              "title": "Quickstart: Install MLflow, instrument code & view results in minutes",
+              "description": "quickstart-1}",
+              "source": "@site/docs/getting-started/quickstart-1/index.md",
+              "sourceDirName": "getting-started/quickstart-1",
+              "slug": "/getting-started/quickstart-1/",
+              "permalink": "/docs/getting-started/quickstart-1/",
+              "draft": false,
+              "editUrl": "https://github.com/algolia/docsearch/edit/main/packages/website/docs/getting-started/quickstart-1/index.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "frontMatter": {},
+              "sidebar": "docs",
+              "previous": {
+                "title": "DocSearch x Algolia Crawler",
+                "permalink": "/docs/crawler"
+              },
+              "next": {
+                "title": "How does it work?",
+                "permalink": "/docs/how-does-it-work"
               }
             },
             {
@@ -156,12 +179,12 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "Supported Integrations",
-                "permalink": "/docs/integrations"
+                "title": "Quickstart: Install MLflow, instrument code & view results in minutes",
+                "permalink": "/docs/getting-started/quickstart-1/"
               },
               "next": {
-                "title": "Required configuration",
-                "permalink": "/docs/required-configuration"
+                "title": "Supported Integrations",
+                "permalink": "/docs/integrations"
               }
             },
             {
@@ -185,12 +208,12 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "Tips for a good search",
-                "permalink": "/docs/tips"
-              },
-              "next": {
                 "title": "How does it work?",
                 "permalink": "/docs/how-does-it-work"
+              },
+              "next": {
+                "title": "Manage your crawls",
+                "permalink": "/docs/manage-your-crawls"
               }
             },
             {
@@ -214,12 +237,12 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "Config templates",
-                "permalink": "/docs/templates"
+                "title": "Supported Integrations",
+                "permalink": "/docs/integrations"
               },
               "next": {
-                "title": "DocSearch x Algolia Crawler",
-                "permalink": "/docs/crawler"
+                "title": "Migrating from the legacy scraper",
+                "permalink": "/docs/migrating-from-legacy"
               }
             },
             {
@@ -243,12 +266,12 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "Who can apply?",
-                "permalink": "/docs/who-can-apply"
+                "title": "Manage your crawls",
+                "permalink": "/docs/manage-your-crawls"
               },
               "next": {
-                "title": "Getting Started",
-                "permalink": "/docs/DocSearch-v3"
+                "title": "Migrating from DocSearch v2",
+                "permalink": "/docs/migrating-from-v2"
               }
             },
             {
@@ -272,12 +295,12 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "Styling",
-                "permalink": "/docs/styling"
+                "title": "Migrating from the legacy scraper",
+                "permalink": "/docs/migrating-from-legacy"
               },
               "next": {
-                "title": "Record Extractor",
-                "permalink": "/docs/record-extractor"
+                "title": "mlflow-doc-main",
+                "permalink": "/docs/mlflow-doc-main"
               }
             },
             {
@@ -298,9 +321,13 @@
               "formattedLastUpdatedAt": "Oct 14, 2018",
               "frontMatter": {},
               "sidebar": "docs",
+              "previous": {
+                "title": "Migrating from DocSearch v2",
+                "permalink": "/docs/migrating-from-v2"
+              },
               "next": {
-                "title": "What is DocSearch?",
-                "permalink": "/docs/what-is-docsearch"
+                "title": "Record Extractor",
+                "permalink": "/docs/record-extractor"
               }
             },
             {
@@ -324,12 +351,12 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "Migrating from DocSearch v2",
-                "permalink": "/docs/migrating-from-v2"
+                "title": "mlflow-doc-main",
+                "permalink": "/docs/mlflow-doc-main"
               },
               "next": {
-                "title": "Config templates",
-                "permalink": "/docs/templates"
+                "title": "Required configuration",
+                "permalink": "/docs/required-configuration"
               }
             },
             {
@@ -353,8 +380,12 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "How does it work?",
-                "permalink": "/docs/how-does-it-work"
+                "title": "Record Extractor",
+                "permalink": "/docs/record-extractor"
+              },
+              "next": {
+                "title": "Styling",
+                "permalink": "/docs/styling"
               }
             },
             {
@@ -378,12 +409,12 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "API Reference",
-                "permalink": "/docs/api"
+                "title": "Required configuration",
+                "permalink": "/docs/required-configuration"
               },
               "next": {
-                "title": "Migrating from DocSearch v2",
-                "permalink": "/docs/migrating-from-v2"
+                "title": "Config templates",
+                "permalink": "/docs/templates"
               }
             },
             {
@@ -407,12 +438,12 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "Record Extractor",
-                "permalink": "/docs/record-extractor"
+                "title": "Styling",
+                "permalink": "/docs/styling"
               },
               "next": {
-                "title": "Manage your crawls",
-                "permalink": "/docs/manage-your-crawls"
+                "title": "Tips for a good search",
+                "permalink": "/docs/tips"
               }
             },
             {
@@ -436,12 +467,12 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "DocSearch program",
-                "permalink": "/docs/DocSearch-program"
+                "title": "Config templates",
+                "permalink": "/docs/templates"
               },
               "next": {
-                "title": "Supported Integrations",
-                "permalink": "/docs/integrations"
+                "title": "What is DocSearch?",
+                "permalink": "/docs/what-is-docsearch"
               }
             },
             {
@@ -466,8 +497,8 @@
               },
               "sidebar": "docs",
               "previous": {
-                "title": "mlflow-doc-main",
-                "permalink": "/docs/mlflow-doc-main"
+                "title": "Tips for a good search",
+                "permalink": "/docs/tips"
               },
               "next": {
                 "title": "Who can apply?",
@@ -497,10 +528,6 @@
               "previous": {
                 "title": "What is DocSearch?",
                 "permalink": "/docs/what-is-docsearch"
-              },
-              "next": {
-                "title": "Migrating from the legacy scraper",
-                "permalink": "/docs/migrating-from-legacy"
               }
             }
           ],
@@ -509,121 +536,85 @@
             "docs": [
               {
                 "type": "doc",
-                "id": "mlflow-doc-main",
-                "label": "MLflow",
-                "translatable": true
+                "id": "DocSearch-program"
+              },
+              {
+                "type": "doc",
+                "id": "DocSearch-v3"
+              },
+              {
+                "type": "doc",
+                "id": "api"
+              },
+              {
+                "type": "doc",
+                "id": "crawler"
               },
               {
                 "type": "category",
-                "label": "Introduction",
+                "label": "getting-started",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "what-is-docsearch"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "who-can-apply"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "migrating-from-legacy"
+                    "label": "Quickstart: Install MLflow, instrument code & view results in minutes",
+                    "id": "getting-started/quickstart-1/index"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
-                "type": "category",
-                "label": "DocSearch v3",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "DocSearch-v3"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "api"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "styling"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "migrating-from-v2"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                "type": "doc",
+                "id": "how-does-it-work"
               },
               {
-                "type": "category",
-                "label": "Algolia Crawler",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "record-extractor"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "templates"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "manage-your-crawls"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                "type": "doc",
+                "id": "integrations"
               },
               {
-                "type": "category",
-                "label": "Requirements, tips, FAQ",
-                "items": [
-                  {
-                    "type": "category",
-                    "label": "FAQ",
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "crawler"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "DocSearch-program"
-                      }
-                    ],
-                    "collapsed": true,
-                    "collapsible": true
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tips"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "integrations"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                "type": "doc",
+                "id": "manage-your-crawls"
               },
               {
-                "type": "category",
-                "label": "Under the hood",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "how-does-it-work"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "required-configuration"
-                  }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                "type": "doc",
+                "id": "migrating-from-legacy"
+              },
+              {
+                "type": "doc",
+                "id": "migrating-from-v2"
+              },
+              {
+                "type": "doc",
+                "id": "mlflow-doc-main"
+              },
+              {
+                "type": "doc",
+                "id": "record-extractor"
+              },
+              {
+                "type": "doc",
+                "id": "required-configuration"
+              },
+              {
+                "type": "doc",
+                "id": "styling"
+              },
+              {
+                "type": "doc",
+                "id": "templates"
+              },
+              {
+                "type": "doc",
+                "id": "tips"
+              },
+              {
+                "type": "doc",
+                "id": "what-is-docsearch",
+                "label": "What is DocSearch?"
+              },
+              {
+                "type": "doc",
+                "id": "who-can-apply"
               }
             ]
           }

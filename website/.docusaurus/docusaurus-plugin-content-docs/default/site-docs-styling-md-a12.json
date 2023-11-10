@@ -19,11 +19,11 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "API Reference",
-    "permalink": "/docs/api"
+    "title": "Required configuration",
+    "permalink": "/docs/required-configuration"
   },
   "next": {
-    "title": "Migrating from DocSearch v2",
-    "permalink": "/docs/migrating-from-v2"
+    "title": "Config templates",
+    "permalink": "/docs/templates"
   }
 }

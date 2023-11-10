@@ -19,11 +19,11 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Who can apply?",
-    "permalink": "/docs/who-can-apply"
+    "title": "Manage your crawls",
+    "permalink": "/docs/manage-your-crawls"
   },
   "next": {
-    "title": "Getting Started",
-    "permalink": "/docs/DocSearch-v3"
+    "title": "Migrating from DocSearch v2",
+    "permalink": "/docs/migrating-from-v2"
   }
 }

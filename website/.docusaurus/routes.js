@@ -126,7 +126,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c1a'),
+    component: ComponentCreator('/docs', 'a56'),
     routes: [
       {
         path: '/docs/api',
@@ -149,6 +149,12 @@ export default [
       {
         path: '/docs/DocSearch-v3',
         component: ComponentCreator('/docs/DocSearch-v3', '209'),
+        exact: true,
+        sidebar: "docs"
+      },
+      {
+        path: '/docs/getting-started/quickstart-1/',
+        component: ComponentCreator('/docs/getting-started/quickstart-1/', '355'),
         exact: true,
         sidebar: "docs"
       },

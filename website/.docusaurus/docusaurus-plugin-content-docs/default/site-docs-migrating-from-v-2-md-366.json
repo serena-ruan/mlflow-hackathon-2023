@@ -19,11 +19,11 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Styling",
-    "permalink": "/docs/styling"
+    "title": "Migrating from the legacy scraper",
+    "permalink": "/docs/migrating-from-legacy"
   },
   "next": {
-    "title": "Record Extractor",
-    "permalink": "/docs/record-extractor"
+    "title": "mlflow-doc-main",
+    "permalink": "/docs/mlflow-doc-main"
   }
 }

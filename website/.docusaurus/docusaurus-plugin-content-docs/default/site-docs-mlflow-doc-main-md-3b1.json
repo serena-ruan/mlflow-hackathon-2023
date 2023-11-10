@@ -16,8 +16,12 @@
   "formattedLastUpdatedAt": "Oct 14, 2018",
   "frontMatter": {},
   "sidebar": "docs",
+  "previous": {
+    "title": "Migrating from DocSearch v2",
+    "permalink": "/docs/migrating-from-v2"
+  },
   "next": {
-    "title": "What is DocSearch?",
-    "permalink": "/docs/what-is-docsearch"
+    "title": "Record Extractor",
+    "permalink": "/docs/record-extractor"
   }
 }

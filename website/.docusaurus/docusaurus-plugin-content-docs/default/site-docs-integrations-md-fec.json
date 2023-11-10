@@ -19,11 +19,11 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Tips for a good search",
-    "permalink": "/docs/tips"
-  },
-  "next": {
     "title": "How does it work?",
     "permalink": "/docs/how-does-it-work"
+  },
+  "next": {
+    "title": "Manage your crawls",
+    "permalink": "/docs/manage-your-crawls"
   }
 }

@@ -19,11 +19,11 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "DocSearch program",
-    "permalink": "/docs/DocSearch-program"
+    "title": "Config templates",
+    "permalink": "/docs/templates"
   },
   "next": {
-    "title": "Supported Integrations",
-    "permalink": "/docs/integrations"
+    "title": "What is DocSearch?",
+    "permalink": "/docs/what-is-docsearch"
   }
 }

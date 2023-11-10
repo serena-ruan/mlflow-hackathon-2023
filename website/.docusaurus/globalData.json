@@ -8,7 +8,7 @@
           "label": "current",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "mlflow-doc-main",
+          "mainDocId": "DocSearch-program",
           "docs": [
             {
               "id": "api",
@@ -28,6 +28,11 @@
             {
               "id": "DocSearch-v3",
               "path": "/docs/DocSearch-v3",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/quickstart-1/index",
+              "path": "/docs/getting-started/quickstart-1/",
               "sidebar": "docs"
             },
             {
@@ -100,8 +105,8 @@
           "sidebars": {
             "docs": {
               "link": {
-                "path": "/docs/mlflow-doc-main",
-                "label": "MLflow"
+                "path": "/docs/DocSearch-program",
+                "label": "DocSearch-program"
               }
             }
           }

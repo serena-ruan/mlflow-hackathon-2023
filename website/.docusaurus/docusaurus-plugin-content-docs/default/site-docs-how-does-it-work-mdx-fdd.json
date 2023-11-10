@@ -19,11 +19,11 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Supported Integrations",
-    "permalink": "/docs/integrations"
+    "title": "Quickstart: Install MLflow, instrument code & view results in minutes",
+    "permalink": "/docs/getting-started/quickstart-1/"
   },
   "next": {
-    "title": "Required configuration",
-    "permalink": "/docs/required-configuration"
+    "title": "Supported Integrations",
+    "permalink": "/docs/integrations"
   }
 }

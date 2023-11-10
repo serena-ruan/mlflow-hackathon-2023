@@ -19,8 +19,8 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Migrating from the legacy scraper",
-    "permalink": "/docs/migrating-from-legacy"
+    "title": "DocSearch program",
+    "permalink": "/docs/DocSearch-program"
   },
   "next": {
     "title": "API Reference",

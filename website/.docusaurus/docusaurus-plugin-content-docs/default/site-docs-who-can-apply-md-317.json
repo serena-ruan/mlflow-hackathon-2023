@@ -21,9 +21,5 @@
   "previous": {
     "title": "What is DocSearch?",
     "permalink": "/docs/what-is-docsearch"
-  },
-  "next": {
-    "title": "Migrating from the legacy scraper",
-    "permalink": "/docs/migrating-from-legacy"
   }
 }
