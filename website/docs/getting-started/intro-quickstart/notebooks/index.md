@@ -9,7 +9,7 @@ hands-on experience with the fundamental aspects of MLflow, including:
 -   Starting a local MLflow Tracking Server.
 -   Logging and registering a model with MLflow.
 -   Loading a logged model for inference using MLflow's
-    <span class="title-ref">pyfunc</span> flavor.
+    `pyfunc` flavor.
 -   Viewing the experiment results in the MLflow UI.
 
 <div class="toctree" markdown="1" maxdepth="1" hidden="">

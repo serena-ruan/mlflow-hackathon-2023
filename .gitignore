@@ -1,5 +1,5 @@
 # Mac
 .DS_Store
 
-website/.docusaurus
-website/node_modules
+website/.docusaurus/
+website/node_modules/

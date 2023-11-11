@@ -26,7 +26,7 @@ alt="../../../static/images/tutorials/introductory/logging-first-model/default-u
 </figure>
 
 As you can see, there are no runs recorded and only the Default
-Experiment (with an ID of <span class="title-ref">0</span>) is present.
+Experiment (with an ID of `0`) is present.
 This won't be the case for long, as we're about to add a new Experiment.
 
 ## Notes on Tags vs Experiments {#notes-on-tags-vs-experiments}
@@ -86,8 +86,8 @@ product hierarchy:
 
 </div>
 
-Here, the <span class="title-ref">produce</span> and
-<span class="title-ref">dairy</span> departments are part of the same
+Here, the `produce` and
+`dairy` departments are part of the same
 overarching project, but they rely on distinct datasets and will likely
 produce different model metrics. Grouping the departments together
 definitely doesn't make sense.

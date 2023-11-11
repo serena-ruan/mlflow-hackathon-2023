@@ -186,7 +186,7 @@ with mlflow.start_run():
 ## Compare the results {#compare-the-results}
 
 Open the MLflow UI in your browser at the
-<span class="title-ref">MLFLOW_TRACKING_URI</span>. You should see a
+`MLFLOW_TRACKING_URI`. You should see a
 nested list of runs. In the default **Table view**, choose the
 **Columns** button and add the **Metrics \| test_rmse** column and the
 **Parameters \| lr** and **Parameters \| momentum** column. To sort by
@@ -268,7 +268,7 @@ curl -d '{"dataframe_split": {
 -H 'Content-Type: application/json' -X POST localhost:5002/invocations
 ~~~
 
-Inferencing is done with a JSON <span class="title-ref">POST</span>
+Inferencing is done with a JSON `POST`
 request to the **invocations** path on **localhost** at the specified
 port. The `columns` key specifies the names of the columns in the input
 data. The `data` value is a list of lists, where each inner list is a

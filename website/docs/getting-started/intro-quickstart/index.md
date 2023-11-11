@@ -212,7 +212,7 @@ with mlflow.start_run():
 After logging the model, we can perform inference by:
 
 -   **Loading** the model using MLflow's
-    <span class="title-ref">pyfunc</span> flavor.
+    `pyfunc` flavor.
 -   Running **Predict** on new data using the loaded model.
 
 <div class="note" markdown="1">
@@ -225,7 +225,7 @@ Note
 
 The iris training data that we used was a numpy array structure.
 However, we can submit a Pandas DataFrame as well to the
-<span class="title-ref">predict</span> method, as shown below.
+`predict` method, as shown below.
 
 </div>
 
@@ -261,7 +261,7 @@ The output of this code will look something like this:
 
 In order to see the results of our run, we can navigate to the MLflow
 UI. Since we have already started the Tracking Server at
-<span class="title-ref">http://localhost:8080</span>, we can simply
+`http://localhost:8080`, we can simply
 navigate to that URL in our browser.
 
 When opening the site, you will see a screen similar to the following:
@@ -278,7 +278,7 @@ been created</figcaption>
 Clicking on the name of the Experiment that we created ("MLflow
 Quickstart") will give us a list of runs associated with the Experiment.
 You should see a random name that has been generated for the run and
-nothing else show up in the <span class="title-ref">Table</span> list
+nothing else show up in the `Table` list
 view to the right.
 
 Clicking on the name of the run will take you to the Run page, where the

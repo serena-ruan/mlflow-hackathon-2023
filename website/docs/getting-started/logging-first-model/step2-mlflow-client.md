@@ -113,7 +113,7 @@ covered in later tutorials.
 
 With the returned collection, we can iterate over these objects with a
 comprehension to access the specific metadata attributes of the
-<span class="title-ref">Default</span> experiment.
+`Default` experiment.
 
 To get familiar with accessing elements from returned collections from
 MLflow APIs, let's extract the `name` and the `lifecycle_stage` from the

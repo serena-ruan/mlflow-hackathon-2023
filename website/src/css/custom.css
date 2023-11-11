@@ -22,9 +22,9 @@ html[data-theme='dark'] {
 }
 
 /* DocSearch x Algolia logo */
-@media (max-width: 565px) {
+@media (max-width: 800px) {
   .navbar__logo .docsearch-nav-logo {
-    width: 22%;
+    width: 100%;
     height: auto;
     vertical-align: middle;
   }

@@ -130,16 +130,16 @@ $ python log_mlflow_with_localhost.py
 ### View Experiment on Your MLflow Server {#view-experiment-on-your-mlflow-server}
 
 Now let's view your experiment on the local server. Open the URL in your
-browser, which is <span class="title-ref">http://localhost:5000</span>
+browser, which is `http://localhost:5000`
 in our case. In the UI, inside the left sidebar you should see the
 experiment with name
-<span class="title-ref">"check-localhost-connection"</span>. Clicking on
+`"check-localhost-connection"`. Clicking on
 this experiment name should bring you to the experiment view, similar to
 what is shown below.
 
 ![Experiment view of OSS MLflow server](../../../static/images/quickstart/tracking-server-overview/mlflow-localhost-experiment-view.png)
 
-Clicking on the run (<span class="title-ref">"clumsy-steed-426"</span>
+Clicking on the run (`"clumsy-steed-426"`
 in this example, yours will be different) will bring you to the run
 view, similar as below.
 
@@ -234,7 +234,7 @@ We have set up the credentials, now we need to tell MLflow to send the
 data into Databricks CE. To do so, we will use
 `mlflow.set_tracking_uri("databricks")` to port MLflow to Databricks CE.
 Basically it is the command below. Please note that you need to always
-use <span class="title-ref">"databricks"</span> as the keyword.
+use `"databricks"` as the keyword.
 
 ~~~ python
 mlflow.set_tracking_uri("databricks")
@@ -276,8 +276,8 @@ console), will bring you to the run view, similar to
 ![Experiment view of Databricks MLflow server](../../../static/images/quickstart/tracking-server-overview/databricks-ce-run-view.png)
 
 In the run view, you will see our dummy metrics
-<span class="title-ref">"foo"</span> and
-<span class="title-ref">"bar"</span> are logged successfully.
+`"foo"` and
+`"bar"` are logged successfully.
 
 ### Conclusion {#conclusion-1}
 
