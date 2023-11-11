@@ -30,7 +30,7 @@ def convert_rst_to_md(input_folder, output_folder):
                 md_path = os.path.join(root, md_file)
 
                 # Use pandoc to perform the conversion
-                subprocess.run(['pandoc', '--to=markdown_phpextra', rst_path, '-o', md_path])
+                subprocess.run(['pandoc', '--to=markdown_phpextra', rst_path, '--filter=./linkfilter.py', '-o', md_path])
 
                 os.system("rm " + rst_path)
 
