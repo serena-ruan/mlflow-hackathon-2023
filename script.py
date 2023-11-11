@@ -1,10 +1,16 @@
 import os
+import re
 import subprocess
 from distutils.dir_util import copy_tree
 
 
 def update_md_content(content):
+    # Update the image paths
     content = content.replace("/_static/", "/../static/")
+    # Remove image attributes
+    groups = re.findall(r"((!\[.*?\]\(.*?\))\{.*?\})", content, flags=re.DOTALL)
+    for group in groups:
+        content = content.replace(group[0], group[1])
     return content
 
 def convert_rst_to_md(input_folder, output_folder):
@@ -24,19 +30,13 @@ def convert_rst_to_md(input_folder, output_folder):
                 md_path = os.path.join(root, md_file)
 
                 # Use pandoc to perform the conversion
-                subprocess.run(['pandoc', rst_path, '-o', md_path])
-                
-                # with open(rst_path, 'r') as f:
-                #     rst_content = f.read()
-                # mdx_content = pypandoc.convert_text(rst_content, 'md', format='rst')
-                # with open(md_path, 'w') as f:
-                #     f.write(mdx_content)
-                
+                subprocess.run(['pandoc', '--to=markdown_phpextra', rst_path, '-o', md_path])
+
                 os.system("rm " + rst_path)
-                
+
                 with open(md_path, 'r') as f:
                     md_content = f.read()
-                
+
                 md_content = update_md_content(md_content)
                 with open(md_path, 'w') as f:
                     f.write(md_content)
@@ -45,7 +45,7 @@ def convert_rst_to_md(input_folder, output_folder):
 
 
 if __name__ == "__main__":
-    input_folder = 'docs/source/getting-started/quickstart-1'
-    output_folder = '../mlflow-hackathon-2023/website/docs/getting-started/quickstart-1'
+    input_folder = 'docs/source/getting-started'
+    output_folder = '../mlflow-hackathon-2023/website/docs/getting-started'
 
     convert_rst_to_md(input_folder, output_folder)
